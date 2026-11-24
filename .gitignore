@@ -1,0 +1,5 @@
+﻿debug/
+__pycache__/
+out/run.log
+out/*.png
+*.pyc

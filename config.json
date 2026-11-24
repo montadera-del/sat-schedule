@@ -1,0 +1,374 @@
+{
+ "timezone": "Asia/Baghdad",
+ "lst_timezone": "America/New_York",
+ "online_only_patterns": [
+  "\\bapp\\b",
+  "\\bgo\\b",
+  "\\bnow\\b",
+  "\\bplay\\b",
+  "\\.com\\b",
+  "\\bonline\\b",
+  "\\bconnect\\b",
+  "\\bstream",
+  "\\bplayer\\b",
+  "\\bcloud\\b",
+  "paramount\\+",
+  "\\bvix\\b",
+  "hbo max",
+  "\\bmax (brazil|mexico)\\b",
+  "^max$",
+  "sony liv",
+  "dstv now",
+  "iqiyi",
+  "fubotv",
+  "\\bdazn (usa|canada|new zealand|portugal|germany)$",
+  "\\bdazn$",
+  "peacock",
+  "\\btod\\b",
+  "\\bsooka\\b",
+  "\\bvidio\\b",
+  "jiotv",
+  "tapmad",
+  "\\bvoyo\\b",
+  "oneplay",
+  "\\btabii\\b",
+  "\\bwow\\b",
+  "rtl\\+",
+  "katsomo",
+  "viaplay",
+  "\\bokko\\b",
+  "movistar\\+$",
+  "movistar plus\\+",
+  "\\bmycanal\\b",
+  "proximus pickx$",
+  "ziggo go",
+  "spotv now",
+  "stan sport",
+  "starhub tv\\+",
+  "\\bais play\\b",
+  "vtvcab on",
+  "eltaott",
+  "\\bnaicom\\b",
+  "\\bnexgen\\b",
+  "sunrise tv",
+  "\\bfast tv\\b",
+  "\\btv net\\b",
+  "\\bgotv\\b",
+  "\\bbluu\\b",
+  "maxtv to go",
+  "moja tv",
+  "artmotion",
+  "tv vala",
+  "cytavision on the go",
+  "go tv anywhere",
+  "disney\\+",
+  "univision now",
+  "\\bwowow$",
+  "\\bshahid\\b",
+  "\\bshoof\\b",
+  "starzplay",
+  "\\bstc tv\\b",
+  "thmanyah",
+  "\\bshasha\\b",
+  "^now$",
+  "\\bsky go\\b",
+  "premier league tv",
+  "\\bpickx\\b",
+  "\\bfubo",
+  "\\bvix\\b"
+ ],
+ "aliases": {
+  "beIN Sports English": {
+   "query": "beIN Sports",
+   "match": [
+    "beIN SPORTS EN 1",
+    "beIN Sports 11 HD EN"
+   ]
+  },
+  "beIN Sports English 1": {
+   "query": "beIN Sports",
+   "match": [
+    "beIN SPORTS EN 1",
+    "beIN Sports 11 HD EN"
+   ]
+  },
+  "beIN Sports English 2": {
+   "query": "beIN Sports",
+   "match": [
+    "beIN SPORTS EN 2",
+    "beIN Sports 12 HD EN"
+   ]
+  },
+  "beIN Sports Xtra": {
+   "query": "beIN Sports Xtra 1",
+   "match": [
+    "beIN Sports Xtra 1"
+   ]
+  },
+  "beIN Sports Xtra Arabia": {
+   "query": "beIN Sports Xtra 1",
+   "match": [
+    "beIN Sports Xtra 1"
+   ]
+  },
+  "beIN Sports French": {
+   "query": "beIN Sport 1",
+   "match": [
+    "beIN Sport 1"
+   ]
+  },
+  "beIN Sports French 1": {
+   "query": "beIN Sport 1",
+   "match": [
+    "beIN Sport 1"
+   ]
+  },
+  "beIN Sports French 2": {
+   "query": "beIN Sport 2",
+   "match": [
+    "beIN Sport 2"
+   ]
+  }
+ },
+ "satellites_ar": {
+  "7.0W": "نايل سات",
+  "8.0W": "يوتل 8 غرب",
+  "4.0W": "عاموس",
+  "1.0W": "ثور",
+  "0.8W": "ثور",
+  "1.9E": "البلغاري",
+  "4.8E": "أسترا 4.8",
+  "9.0E": "يوتل 9",
+  "13.0E": "هوت بيرد",
+  "16.0E": "يوتل 16",
+  "19.2E": "أسترا 19.2",
+  "21.5E": "يوتل 21.5",
+  "23.5E": "أسترا 23.5",
+  "25.5E": "سهيل سات",
+  "26.0E": "بدر / سهيل سات",
+  "28.2E": "أسترا 28",
+  "31.5E": "أسترا 31.5",
+  "36.0E": "يوتل 36",
+  "39.0E": "هيلاس سات",
+  "40.0E": "إكسبريس 40",
+  "42.0E": "ترك سات",
+  "45.0E": "أزر سبيس 45",
+  "46.0E": "أزر سبيس 46",
+  "52.5E": "الياه سات",
+  "53.0E": "إكسبريس 53",
+  "62.0E": "إنتل 62",
+  "68.5E": "إنتل 68.5"
+ },
+ "satellite_priority": [
+  "7.0W",
+  "26.0E",
+  "25.5E",
+  "13.0E",
+  "19.2E",
+  "16.0E",
+  "42.0E",
+  "39.0E",
+  "9.0E",
+  "52.5E",
+  "28.2E",
+  "23.5E"
+ ],
+ "request_delay_seconds": 0.4,
+ "channel_cache_days": 7,
+ "regex_aliases": [
+  [
+   "beIN Sports (?:HD |Arabia )?(\\d+)(?: HD)?",
+   "beIN Sports \\1"
+  ],
+  [
+   "beIN Sports Max (\\d+)(?: HD)?",
+   "beIN Sports Max \\1"
+  ]
+ ],
+ "competitions": [
+  [
+   "^Europe - UEFA Champions League$",
+   "دوري أبطال أوروبا"
+  ],
+  [
+   "^England - Premier League$",
+   "الدوري الإنجليزي الممتاز"
+  ],
+  [
+   "^Spain - (La ?Liga|Primera Divisi[oó]n)$",
+   "الدوري الإسباني"
+  ],
+  [
+   "^Italy - Serie A$",
+   "الدوري الإيطالي"
+  ],
+  [
+   "^Germany - Bundesliga$",
+   "الدوري الألماني"
+  ],
+  [
+   "^France - Ligue 1$",
+   "الدوري الفرنسي"
+  ],
+  [
+   "^Europe - UEFA Europa League$",
+   "الدوري الأوروبي"
+  ],
+  [
+   "^Europe - UEFA (Europa )?Conference League$",
+   "دوري المؤتمر الأوروبي"
+  ],
+  [
+   "^(World|International) - FIFA World Cup$",
+   "كأس العالم"
+  ],
+  [
+   "^(World|International) - FIFA Club World Cup$",
+   "كأس العالم للأندية"
+  ],
+  [
+   "^(World|International|Europe) - .*World Cup.*Qualif",
+   "تصفيات كأس العالم"
+  ],
+  [
+   "^Europe - (UEFA )?(European Championship|EURO)",
+   "كأس أمم أوروبا"
+  ],
+  [
+   "^Europe - UEFA Nations League",
+   "دوري الأمم الأوروبية"
+  ],
+  [
+   "^Europe - UEFA Super Cup$",
+   "كأس السوبر الأوروبي"
+  ],
+  [
+   "^England - FA Cup$",
+   "كأس الاتحاد الإنجليزي"
+  ],
+  [
+   "^England - (EFL|Carabao|League) Cup$",
+   "كأس الرابطة الإنجليزية"
+  ],
+  [
+   "^Spain - Copa del Rey$",
+   "كأس ملك إسبانيا"
+  ],
+  [
+   "^Spain - Super ?[Cc]opa",
+   "كأس السوبر الإسباني"
+  ],
+  [
+   "^Italy - Coppa Italia$",
+   "كأس إيطاليا"
+  ],
+  [
+   "^Italy - Super ?[Cc]oppa",
+   "كأس السوبر الإيطالي"
+  ],
+  [
+   "^Germany - DFB[- ]Pokal$",
+   "كأس ألمانيا"
+  ],
+  [
+   "^France - Coupe de France$",
+   "كأس فرنسا"
+  ],
+  [
+   "^England - (FA )?Community Shield$",
+   "الدرع الخيرية"
+  ],
+  [
+   "^Portugal - (Primeira Liga|Liga Portugal)",
+   "الدوري البرتغالي"
+  ],
+  [
+   "^Netherlands - Eredivisie$",
+   "الدوري الهولندي"
+  ],
+  [
+   "^Turkey - S[uü]per Lig$",
+   "الدوري التركي"
+  ],
+  [
+   "^Asia - AFC Champions League Elite$",
+   "دوري أبطال آسيا للنخبة"
+  ],
+  [
+   "^Asia - AFC Champions League Two$",
+   "دوري أبطال آسيا 2"
+  ],
+  [
+   "^Asia - AFC Asian Cup",
+   "كأس آسيا"
+  ],
+  [
+   "^Africa - (CAF )?Africa Cup of Nations",
+   "كأس أمم أفريقيا"
+  ],
+  [
+   "^Africa - CAF Champions League$",
+   "دوري أبطال أفريقيا"
+  ],
+  [
+   "Arab (Club Champions )?Cup",
+   "كأس العرب"
+  ],
+  [
+   "^Saudi Arabia - (Saudi )?Pro(fessional)? League$",
+   "الدوري السعودي"
+  ],
+  [
+   "^Saudi Arabia - King'?s Cup",
+   "كأس الملك السعودي"
+  ],
+  [
+   "^Iraq - Iraqi? (Premier|Stars) League$",
+   "دوري نجوم العراق"
+  ],
+  [
+   "^Iraq - .*Cup",
+   "كأس العراق"
+  ],
+  [
+   "^Qatar - (Stars League|QSL)",
+   "الدوري القطري"
+  ],
+  [
+   "^United Arab Emirates - (Pro League|UAE Pro League|Arabian Gulf League)",
+   "الدوري الإماراتي"
+  ],
+  [
+   "^Egypt - Premier League$",
+   "الدوري المصري"
+  ],
+  [
+   "^Morocco - Botola",
+   "الدوري المغربي"
+  ],
+  [
+   "^Kuwait - Premier League$",
+   "الدوري الكويتي"
+  ],
+  [
+   "^Jordan - (Pro|Premier) League$",
+   "الدوري الأردني"
+  ],
+  [
+   "^Tunisia - Ligue (Professionnelle )?1$",
+   "الدوري التونسي"
+  ],
+  [
+   "^Algeria - Ligue 1$",
+   "الدوري الجزائري"
+  ]
+ ],
+ "days_ahead": 2,
+ "workers": 6,
+ "host_delays": {
+  "livesoccertv.com": 10,
+  "kingofsat.net": 0.4,
+  "365scores.com": 0.5
+ },
+ "match_cache_hours": 6
+}
