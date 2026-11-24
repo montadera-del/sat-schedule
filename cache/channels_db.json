@@ -9688,5 +9688,2596 @@
   "status": "online",
   "sat": [],
   "checked": "2026-11-24T19:57:56.235183+00:00"
+ },
+ "fuboTV": {
+  "status": "online",
+  "sat": [],
+  "checked": "2026-11-24T21:23:03.244942+00:00"
+ },
+ "Como TV": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-24T21:23:03.247415+00:00"
+ },
+ "FOX Deportes": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-24T21:23:03.245601+00:00"
+ },
+ "SI Solo Calcio": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-24T21:23:03.246940+00:00"
+ },
+ "Canal GOAT": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-24T21:23:03.247729+00:00"
+ },
+ "Xsports": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-24T21:23:18.273775+00:00"
+ },
+ "S Sport+": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-24T21:23:18.274757+00:00"
+ },
+ "Sport TV1": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-24T21:23:18.274136+00:00"
+ },
+ "Sky Go UK": {
+  "status": "online",
+  "sat": [],
+  "checked": "2026-11-24T21:23:33.306070+00:00"
+ },
+ "NOW": {
+  "status": "online",
+  "sat": [],
+  "checked": "2026-11-24T21:23:33.306248+00:00"
+ },
+ "SKY GO Extra": {
+  "status": "online",
+  "sat": [],
+  "checked": "2026-11-24T21:23:33.306266+00:00"
+ },
+ "Fubo Sports Network 5 Canada": {
+  "status": "online",
+  "sat": [],
+  "checked": "2026-11-24T21:23:33.308155+00:00"
+ },
+ "Sky Ultra HD": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-24T21:23:33.306445+00:00"
+ },
+ "USA Network": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-24T21:23:33.307692+00:00"
+ },
+ "Premier League TV": {
+  "status": "online",
+  "sat": [],
+  "checked": "2026-11-24T21:23:34.308080+00:00"
+ },
+ "Sky Sport Premier League": {
+  "status": "sat",
+  "sat": [
+   {
+    "position": "19.2E",
+    "satellite": "Astra 1P",
+    "frequency": 12032,
+    "polarization": "H",
+    "symbol_rate": 27500,
+    "fec": "9/10",
+    "standard": "DVB-S2",
+    "name": "Sky  Sport Premier League HD",
+    "kos_id": "Sky Sport Premier League",
+    "country": "Germany",
+    "package": "Sky Deutschland",
+    "encryption": "VideoGuard",
+    "free": false,
+    "satellite_ar": "أسترا 19.2"
+   }
+  ],
+  "checked": "2026-11-24T21:23:33.308666+00:00"
+ },
+ "Disney+ Premium Caribbean": {
+  "status": "online",
+  "sat": [],
+  "checked": "2026-11-24T21:23:34.609144+00:00"
+ },
+ "Telemundo": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-24T21:23:33.307831+00:00"
+ },
+ "Sky Sports Main Event": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-24T21:23:33.306726+00:00"
+ },
+ "Sky Sports Premier League": {
+  "status": "sat",
+  "sat": [
+   {
+    "position": "28.2E",
+    "satellite": "Astra 2E",
+    "frequency": 12012,
+    "polarization": "V",
+    "symbol_rate": 27500,
+    "fec": "2/3",
+    "standard": "DVB-S2",
+    "name": "Sky Sports Premier League HD",
+    "kos_id": "SkySp PL HD",
+    "country": "United Kingdom",
+    "package": "Sky Digital",
+    "encryption": "VideoGuard",
+    "free": false,
+    "satellite_ar": "أسترا 28"
+   },
+   {
+    "position": "28.2E",
+    "satellite": "Astra 2E",
+    "frequency": 12090,
+    "polarization": "V",
+    "symbol_rate": 29500,
+    "fec": "8/9",
+    "standard": "DVB-S2",
+    "name": "Sky Sports Premier League",
+    "kos_id": "SkySp PL",
+    "country": "United Kingdom",
+    "package": "Sky Digital",
+    "encryption": "VideoGuard",
+    "free": false,
+    "satellite_ar": "أسترا 28"
+   },
+   {
+    "position": "28.2E",
+    "satellite": "Astra 2E",
+    "frequency": 12265,
+    "polarization": "H",
+    "symbol_rate": 27500,
+    "fec": "2/3",
+    "standard": "DVB-S2",
+    "name": "Sky Sports Premier League HD",
+    "kos_id": "SkySp PL HD",
+    "country": "United Kingdom",
+    "package": "Sky Digital",
+    "encryption": "VideoGuard",
+    "free": false,
+    "satellite_ar": "أسترا 28"
+   }
+  ],
+  "checked": "2026-11-24T21:23:33.307166+00:00"
+ },
+ "Play Sports 1": {
+  "status": "online",
+  "sat": [],
+  "checked": "2026-11-24T21:23:36.243904+00:00"
+ },
+ "Toffee Live": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-24T21:23:35.040667+00:00"
+ },
+ "MONOMAX": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-24T21:23:36.355885+00:00"
+ },
+ "Skylink": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-24T21:23:36.742033+00:00"
+ },
+ "Nova Sports Premier League": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-24T21:23:37.132653+00:00"
+ },
+ "620 Now Premier League TV": {
+  "status": "online",
+  "sat": [],
+  "checked": "2026-11-24T21:23:37.513565+00:00"
+ },
+ "621 Now Premier League 1": {
+  "status": "online",
+  "sat": [],
+  "checked": "2026-11-24T21:23:37.513600+00:00"
+ },
+ "Astro Premier League 2": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-24T21:23:36.243935+00:00"
+ },
+ "TV2 Play Premium": {
+  "status": "online",
+  "sat": [],
+  "checked": "2026-11-24T21:23:37.954612+00:00"
+ },
+ "SuperSport 3 Digitalb": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-24T21:23:33.943817+00:00"
+ },
+ "Spíler1": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-24T21:23:37.513611+00:00"
+ },
+ "Sport 1": {
+  "status": "sat",
+  "sat": [
+   {
+    "position": "16.0E",
+    "satellite": "Eutelsat 16D",
+    "frequency": 11231,
+    "polarization": "V",
+    "symbol_rate": 42000,
+    "fec": "5/6",
+    "standard": "DVB-S2",
+    "name": "Sport TV 1",
+    "kos_id": "",
+    "country": "",
+    "package": "Total TV",
+    "encryption": "Irdeto 2 / VideoGuard",
+    "free": false,
+    "satellite_ar": "يوتل 16"
+   },
+   {
+    "position": "52.0E",
+    "satellite": "TurkmenÄlem / MonacoSat",
+    "frequency": 10845,
+    "polarization": "H",
+    "symbol_rate": 30000,
+    "fec": "8/9",
+    "standard": "DVB-S2",
+    "name": "Sport-1",
+    "kos_id": "SPORT 1",
+    "country": "Kazakhstan",
+    "package": "Älem TV",
+    "encryption": "Conax / Cryptoguard",
+    "free": false,
+    "satellite_ar": "TurkmenÄlem / MonacoSat"
+   },
+   {
+    "position": "30.0W",
+    "satellite": "Hispasat 30W-5",
+    "frequency": 12360,
+    "polarization": "H",
+    "symbol_rate": 27500,
+    "fec": "3/4",
+    "standard": "DVB-S2",
+    "name": "Sport TV 1 HD",
+    "kos_id": "SPORT TV 1 HD",
+    "country": "Portugal",
+    "package": "Nos",
+    "encryption": "Nagravision 3",
+    "free": false,
+    "satellite_ar": "Hispasat 30W-5"
+   }
+  ],
+  "checked": "2026-11-24T21:23:38.811646+00:00"
+ },
+ "myco": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-24T21:23:35.452251+00:00"
+ },
+ "Star Sports Select 1": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-24T21:23:38.340944+00:00"
+ },
+ "DAZN Spain": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-24T21:23:34.308162+00:00"
+ },
+ "Viaplay Netherlands": {
+  "status": "online",
+  "sat": [],
+  "checked": "2026-11-24T21:23:41.172382+00:00"
+ },
+ "V Sport Premier League": {
+  "status": "sat",
+  "sat": [
+   {
+    "position": "0.8W",
+    "satellite": "Thor 6",
+    "frequency": 10809,
+    "polarization": "H",
+    "symbol_rate": 25000,
+    "fec": "3/4",
+    "standard": "DVB-S2",
+    "name": "V Sport Premier League HD",
+    "kos_id": "V sport Premier League HD",
+    "country": "Sweden",
+    "package": "Allente",
+    "encryption": "Conax / Nagravision 3 / VideoGuard",
+    "free": false,
+    "satellite_ar": "ثور"
+   }
+  ],
+  "checked": "2026-11-24T21:23:41.172439+00:00"
+ },
+ "Setanta Sports Philippine": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-24T21:23:41.614509+00:00"
+ },
+ "VOYO": {
+  "status": "online",
+  "sat": [],
+  "checked": "2026-11-24T21:23:41.968768+00:00"
+ },
+ "Star Sports Select HD1": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-24T21:23:34.609218+00:00"
+ },
+ "Kantipur Max": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-24T21:23:40.321218+00:00"
+ },
+ "U-NEXT": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-24T21:23:39.416908+00:00"
+ },
+ "beIN CONNECT Turkey": {
+  "status": "online",
+  "sat": [],
+  "checked": "2026-11-24T21:23:43.184702+00:00"
+ },
+ "JioHotstar": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-24T21:23:37.954646+00:00"
+ },
+ "Setanta Sports Ukraine": {
+  "status": "sat",
+  "sat": [
+   {
+    "position": "4.8E",
+    "satellite": "Astra 4A",
+    "frequency": 12207,
+    "polarization": "V",
+    "symbol_rate": 30000,
+    "fec": "2/3",
+    "standard": "DVB-S2",
+    "name": "Setanta Sports Ukraine",
+    "kos_id": "Setanta Sports",
+    "country": "Ukraine",
+    "package": "Viasat",
+    "encryption": "VeriMatrix",
+    "free": false,
+    "satellite_ar": "أسترا 4.8"
+   }
+  ],
+  "checked": "2026-11-24T21:23:43.184741+00:00"
+ },
+ "FPT Play": {
+  "status": "online",
+  "sat": [],
+  "checked": "2026-11-24T21:23:44.370165+00:00"
+ },
+ "SuperSport Kosova 3": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-24T21:23:39.970902+00:00"
+ },
+ "221 Hub Premier 1": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-24T21:23:41.968819+00:00"
+ },
+ "Kyivstar TV": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-24T21:23:43.575359+00:00"
+ },
+ "beIN Sports 3 Turkey": {
+  "status": "sat",
+  "sat": [
+   {
+    "position": "42.0E",
+    "satellite": "Türksat 4A",
+    "frequency": 12073,
+    "polarization": "V",
+    "symbol_rate": 27500,
+    "fec": "3/4",
+    "standard": "DVB-S2",
+    "name": "beIN Sports 3 HD Turkey",
+    "kos_id": "beIN SPORTS 3",
+    "country": "Turkey",
+    "package": "Digitürk",
+    "encryption": "Irdeto 2",
+    "free": false,
+    "satellite_ar": "ترك سات"
+   }
+  ],
+  "checked": "2026-11-24T21:23:42.721143+00:00"
+ },
+ "Arena Sport 1 Slovenia": {
+  "status": "sat",
+  "sat": [
+   {
+    "position": "16.0E",
+    "satellite": "Eutelsat 16D",
+    "frequency": 11471,
+    "polarization": "V",
+    "symbol_rate": 30000,
+    "fec": "5/6",
+    "standard": "DVB-S2",
+    "name": "Arena Sport 1 HD",
+    "kos_id": "Arena Sport 1 HD",
+    "country": "Slovakia",
+    "package": "A1 Broadcasting",
+    "encryption": "Conax",
+    "free": false,
+    "satellite_ar": "يوتل 16"
+   }
+  ],
+  "checked": "2026-11-24T21:23:42.351099+00:00"
+ },
+ "ESPN App": {
+  "status": "online",
+  "sat": [],
+  "checked": "2026-11-24T21:23:48.240812+00:00"
+ },
+ "DAZN España": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-24T21:23:48.238885+00:00"
+ },
+ "Premier Sports Player": {
+  "status": "online",
+  "sat": [],
+  "checked": "2026-11-24T21:23:48.705275+00:00"
+ },
+ "ESPN+": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-24T21:23:48.240253+00:00"
+ },
+ "DAZN Italia": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-24T21:23:49.213146+00:00"
+ },
+ "DAZN France": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-24T21:23:50.089143+00:00"
+ },
+ "Disney+ Premium": {
+  "status": "online",
+  "sat": [],
+  "checked": "2026-11-24T21:23:50.486402+00:00"
+ },
+ "DAZN Austria": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-24T21:23:50.486478+00:00"
+ },
+ "Begin": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-24T21:23:50.886612+00:00"
+ },
+ "TSN Premium": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-24T21:23:48.241132+00:00"
+ },
+ "DAZN LaLiga": {
+  "status": "sat",
+  "sat": [
+   {
+    "position": "19.2E",
+    "satellite": "Astra 1P",
+    "frequency": 10906,
+    "polarization": "V",
+    "symbol_rate": 22000,
+    "fec": "2/3",
+    "standard": "DVB-S2",
+    "name": "DAZN LaLiga HD",
+    "kos_id": "DAZN LALIGA HD",
+    "country": "Spain",
+    "package": "Movistar+",
+    "encryption": "Nagravision 3",
+    "free": false,
+    "satellite_ar": "أسترا 19.2"
+   },
+   {
+    "position": "19.2E",
+    "satellite": "Astra 1P",
+    "frequency": 11038,
+    "polarization": "V",
+    "symbol_rate": 22000,
+    "fec": "5/6",
+    "standard": "DVB-S",
+    "name": "DAZN LaLiga",
+    "kos_id": "DAZN LALIGA",
+    "country": "Spain",
+    "package": "Movistar+",
+    "encryption": "Nagravision 3",
+    "free": false,
+    "satellite_ar": "أسترا 19.2"
+   }
+  ],
+  "checked": "2026-11-24T21:23:48.239255+00:00"
+ },
+ "LaLiga TV Bar HD": {
+  "status": "sat",
+  "sat": [
+   {
+    "position": "19.2E",
+    "satellite": "Astra 1P",
+    "frequency": 10817,
+    "polarization": "V",
+    "symbol_rate": 22000,
+    "fec": "2/3",
+    "standard": "DVB-S2",
+    "name": "LaLiga TV Bar HD",
+    "kos_id": "LALIGA TV BAR (HD-H2)",
+    "country": "Spain",
+    "package": "Movistar+",
+    "encryption": "Nagravision 3",
+    "free": false,
+    "satellite_ar": "أسترا 19.2"
+   }
+  ],
+  "checked": "2026-11-24T21:23:48.239713+00:00"
+ },
+ "DAZN Belgium": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-24T21:23:51.283790+00:00"
+ },
+ "Now Sports 2": {
+  "status": "online",
+  "sat": [],
+  "checked": "2026-11-24T21:23:52.855655+00:00"
+ },
+ "Spíler2": {
+  "status": "sat",
+  "sat": [
+   {
+    "position": "0.8W",
+    "satellite": "Thor 6",
+    "frequency": 11727,
+    "polarization": "V",
+    "symbol_rate": 28000,
+    "fec": "7/8",
+    "standard": "DVB-S",
+    "name": "Spíler2 TV",
+    "kos_id": "Spiler2 TV",
+    "country": "Hungary",
+    "package": "Focus Sat",
+    "encryption": "Conax / Cryptoworks / Irdeto 2 / Nagravision 3",
+    "free": false,
+    "satellite_ar": "ثور"
+   }
+  ],
+  "checked": "2026-11-24T21:23:52.855687+00:00"
+ },
+ "LaLigaTV": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-24T21:23:48.705317+00:00"
+ },
+ "ESPN Deportes USA": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-24T21:23:48.240009+00:00"
+ },
+ "Azam Sports 4 HD": {
+  "status": "sat",
+  "sat": [
+   {
+    "position": "46.0E",
+    "satellite": "Azerspace-1",
+    "frequency": 4180,
+    "polarization": "V",
+    "symbol_rate": 16325,
+    "fec": "3/4",
+    "standard": "DVB-S2",
+    "name": "Azam Sports 4 HD",
+    "kos_id": "",
+    "country": "",
+    "package": "Azam Digital",
+    "encryption": "Nagravision 3",
+    "free": false,
+    "satellite_ar": "أزر سبيس 46"
+   }
+  ],
+  "checked": "2026-11-24T21:23:53.646935+00:00"
+ },
+ "Sky Sports Norte": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-24T21:23:52.377571+00:00"
+ },
+ "ESPN Deportes": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-24T21:23:52.734689+00:00"
+ },
+ "ICE Xtra": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-24T21:23:54.065453+00:00"
+ },
+ "DAZN International": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-24T21:23:53.288748+00:00"
+ },
+ "beIN Sports Connect New Zealand": {
+  "status": "online",
+  "sat": [],
+  "checked": "2026-11-24T21:23:56.623857+00:00"
+ },
+ "Sky+": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-24T21:23:54.889977+00:00"
+ },
+ "Sportbox.ru": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-24T21:23:56.623898+00:00"
+ },
+ "DGO": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-24T21:23:56.157346+00:00"
+ },
+ "izzi": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-24T21:23:55.289125+00:00"
+ },
+ "SCTV 15": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-24T21:23:58.076919+00:00"
+ },
+ "SCTV Online": {
+  "status": "online",
+  "sat": [],
+  "checked": "2026-11-24T21:23:58.495912+00:00"
+ },
+ "Sky Sports Mexico": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-24T21:23:54.482292+00:00"
+ },
+ "Match! Football 2": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-24T21:23:56.692705+00:00"
+ },
+ "DAZN Taiwan": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-24T21:23:51.959791+00:00"
+ },
+ "DAZN Switzerland": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-24T21:23:57.689869+00:00"
+ },
+ "matchtv.ru": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-24T21:23:57.255935+00:00"
+ },
+ "M+ LALIGA TV": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-24T21:24:03.363387+00:00"
+ },
+ "Belarus 5": {
+  "status": "sat",
+  "sat": [
+   {
+    "position": "51.5E",
+    "satellite": "Belintersat 1",
+    "frequency": 11350,
+    "polarization": "H",
+    "symbol_rate": 45000,
+    "fec": "3/4",
+    "standard": "DVB-S2",
+    "name": "Belarus 5",
+    "kos_id": "Belarus 5",
+    "country": "Belarus",
+    "package": "Belintersat",
+    "encryption": "DRE-Crypt",
+    "free": false,
+    "satellite_ar": "Belintersat 1"
+   }
+  ],
+  "checked": "2026-11-24T21:24:03.364479+00:00"
+ },
+ "beIN SPORTS 2": {
+  "status": "sat",
+  "sat": [
+   {
+    "position": "26.0E",
+    "satellite": "Es'hail 2",
+    "frequency": 10810,
+    "polarization": "H",
+    "symbol_rate": 27500,
+    "fec": "2/3",
+    "standard": "DVB-S2",
+    "name": "beIN Sports 2 HD",
+    "kos_id": "beIN SPORTS 2",
+    "country": "Qatar",
+    "package": "beIN SPORTS",
+    "encryption": "Irdeto 2 / VideoGuard",
+    "free": false,
+    "satellite_ar": "بدر / سهيل سات"
+   },
+   {
+    "position": "26.0E",
+    "satellite": "Es'hail 2",
+    "frequency": 11390,
+    "polarization": "V",
+    "symbol_rate": 27500,
+    "fec": "2/3",
+    "standard": "DVB-S2",
+    "name": "beIN Sports 2 HD",
+    "kos_id": "beIN SPORTS EN 2",
+    "country": "Qatar",
+    "package": "beIN SPORTS",
+    "encryption": "Irdeto 2 / VideoGuard",
+    "free": false,
+    "satellite_ar": "بدر / سهيل سات"
+   },
+   {
+    "position": "8.0W",
+    "satellite": "Eutelsat 8 West B",
+    "frequency": 11012,
+    "polarization": "H",
+    "symbol_rate": 27500,
+    "fec": "2/3",
+    "standard": "DVB-S2",
+    "name": "beIN Sports 2 HD",
+    "kos_id": "beIN SPORTS 2",
+    "country": "Qatar",
+    "package": "beIN SPORTS",
+    "encryption": "Irdeto 2 / VideoGuard",
+    "free": false,
+    "satellite_ar": "يوتل 8 غرب"
+   }
+  ],
+  "checked": "2026-11-24T21:24:03.364071+00:00"
+ },
+ "DAZN1 Belgium": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-24T21:24:03.364948+00:00"
+ },
+ "Setanta Sports Kazakhstan": {
+  "status": "sat",
+  "sat": [
+   {
+    "position": "4.8E",
+    "satellite": "Astra 4A",
+    "frequency": 11957,
+    "polarization": "H",
+    "symbol_rate": 27500,
+    "fec": "5/6",
+    "standard": "DVB-S2",
+    "name": "Setanta Sport Evraziya",
+    "kos_id": "Setanta Sports",
+    "country": "Ireland",
+    "package": "TV3 Group",
+    "encryption": "VideoGuard",
+    "free": false,
+    "satellite_ar": "أسترا 4.8"
+   },
+   {
+    "position": "4.8E",
+    "satellite": "Astra 4A",
+    "frequency": 12207,
+    "polarization": "V",
+    "symbol_rate": 30000,
+    "fec": "2/3",
+    "standard": "DVB-S2",
+    "name": "Setanta Sports Ukraine",
+    "kos_id": "Setanta Sports",
+    "country": "Ukraine",
+    "package": "Viasat",
+    "encryption": "VeriMatrix",
+    "free": false,
+    "satellite_ar": "أسترا 4.8"
+   }
+  ],
+  "checked": "2026-11-24T21:24:03.365668+00:00"
+ },
+ "Canal+ AYiTi Sport 1": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-24T21:24:03.365345+00:00"
+ },
+ "DAZN1": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-24T21:24:18.362844+00:00"
+ },
+ "Startimes Am'mobi": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-24T21:24:18.363820+00:00"
+ },
+ "AF Sports": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-24T21:24:18.363207+00:00"
+ },
+ "Match TV": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-24T21:24:18.364461+00:00"
+ },
+ "GasyStar": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-24T21:24:18.364102+00:00"
+ },
+ "Peacock": {
+  "status": "online",
+  "sat": [],
+  "checked": "2026-11-24T21:24:33.321730+00:00"
+ },
+ "Fubo Sports Network 4 Canada": {
+  "status": "online",
+  "sat": [],
+  "checked": "2026-11-24T21:24:33.322101+00:00"
+ },
+ "beIN Sports Connect Australia": {
+  "status": "online",
+  "sat": [],
+  "checked": "2026-11-24T21:24:33.323188+00:00"
+ },
+ "STARZPLAY": {
+  "status": "online",
+  "sat": [],
+  "checked": "2026-11-24T21:24:33.323541+00:00"
+ },
+ "Shasha": {
+  "status": "online",
+  "sat": [],
+  "checked": "2026-11-24T21:24:33.323648+00:00"
+ },
+ "TV2 Play Denmark": {
+  "status": "online",
+  "sat": [],
+  "checked": "2026-11-24T21:24:33.324144+00:00"
+ },
+ "DAZN UK": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-24T21:24:33.322168+00:00"
+ },
+ "Match4": {
+  "status": "sat",
+  "sat": [
+   {
+    "position": "0.8W",
+    "satellite": "Thor 5",
+    "frequency": 12130,
+    "polarization": "H",
+    "symbol_rate": 28000,
+    "fec": "7/8",
+    "standard": "DVB-S",
+    "name": "Match4",
+    "kos_id": "MATCH4",
+    "country": "Hungary",
+    "package": "Allente Digi TV Direct One Focus Sat",
+    "encryption": "Conax / Cryptoworks / Irdeto 2 / Nagravision 3",
+    "free": false,
+    "satellite_ar": "ثور"
+   },
+   {
+    "position": "0.8W",
+    "satellite": "Thor 5",
+    "frequency": 12188,
+    "polarization": "V",
+    "symbol_rate": 28000,
+    "fec": "7/8",
+    "standard": "DVB-S",
+    "name": "Match4 HD",
+    "kos_id": "MATCH4 HD",
+    "country": "Hungary",
+    "package": "Allente Digi TV Direct One Focus Sat",
+    "encryption": "Conax / Cryptoworks / Irdeto 2 / Nagravision 3",
+    "free": false,
+    "satellite_ar": "ثور"
+   }
+  ],
+  "checked": "2026-11-24T21:24:33.804776+00:00"
+ },
+ "ZEE5": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-24T21:24:33.323217+00:00"
+ },
+ "beIN SPORTS 3": {
+  "status": "sat",
+  "sat": [
+   {
+    "position": "26.0E",
+    "satellite": "Es'hail 2",
+    "frequency": 10810,
+    "polarization": "H",
+    "symbol_rate": 27500,
+    "fec": "2/3",
+    "standard": "DVB-S2",
+    "name": "beIN Sports 3 HD",
+    "kos_id": "beIN SPORTS 3",
+    "country": "Qatar",
+    "package": "beIN SPORTS",
+    "encryption": "Irdeto 2 / VideoGuard",
+    "free": false,
+    "satellite_ar": "بدر / سهيل سات"
+   },
+   {
+    "position": "8.0W",
+    "satellite": "Eutelsat 8 West B",
+    "frequency": 11012,
+    "polarization": "H",
+    "symbol_rate": 27500,
+    "fec": "2/3",
+    "standard": "DVB-S2",
+    "name": "beIN Sports 3 HD",
+    "kos_id": "beIN SPORTS 3",
+    "country": "Qatar",
+    "package": "beIN SPORTS",
+    "encryption": "Irdeto 2 / VideoGuard",
+    "free": false,
+    "satellite_ar": "يوتل 8 غرب"
+   }
+  ],
+  "checked": "2026-11-24T21:24:33.323992+00:00"
+ },
+ "MagentaSport 1": {
+  "status": "sat",
+  "sat": [
+   {
+    "position": "9.0E",
+    "satellite": "Eutelsat 9B",
+    "frequency": 12283,
+    "polarization": "H",
+    "symbol_rate": 27500,
+    "fec": "2/3",
+    "standard": "DVB-S2",
+    "name": "Magenta Sport 1",
+    "kos_id": "MagentaSport1",
+    "country": "Greece",
+    "package": "Cosmote",
+    "encryption": "VideoGuard",
+    "free": false,
+    "satellite_ar": "يوتل 9"
+   }
+  ],
+  "checked": "2026-11-24T21:24:33.324422+00:00"
+ },
+ "Almanasa": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-24T21:24:34.366157+00:00"
+ },
+ "Match! Football 1": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-24T21:24:36.010375+00:00"
+ },
+ "STC TV": {
+  "status": "online",
+  "sat": [],
+  "checked": "2026-11-24T21:24:36.363143+00:00"
+ },
+ "VG+": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-24T21:24:35.472328+00:00"
+ },
+ "TV2 Sport X": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-24T21:24:33.324163+00:00"
+ },
+ "TV4 Play": {
+  "status": "online",
+  "sat": [],
+  "checked": "2026-11-24T21:24:37.455617+00:00"
+ },
+ "SCCN": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-24T21:24:36.746697+00:00"
+ },
+ "Arena Sport 1 Premium": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-24T21:24:36.363219+00:00"
+ },
+ "True Premier Football HD 3": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-24T21:24:37.455653+00:00"
+ },
+ "Diwan Sport": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-24T21:24:37.524753+00:00"
+ },
+ "Eleven Sports 2 Poland": {
+  "status": "sat",
+  "sat": [
+   {
+    "position": "13.0E",
+    "satellite": "Hot Bird 13G",
+    "frequency": 10795,
+    "polarization": "V",
+    "symbol_rate": 27500,
+    "fec": "5/6",
+    "standard": "DVB-S2",
+    "name": "Eleven Sports 2 HD",
+    "kos_id": "Eleven Sports 2 HD",
+    "country": "Poland",
+    "package": "Orange Polska Platforma Canal+ Polsat Box",
+    "encryption": "Conax / Irdeto 2 / Mediaguard 3 / Nagravision 3 / Viaccess 3.0",
+    "free": false,
+    "satellite_ar": "هوت بيرد"
+   },
+   {
+    "position": "13.0E",
+    "satellite": "Hot Bird 13G",
+    "frequency": 11116,
+    "polarization": "V",
+    "symbol_rate": 27500,
+    "fec": "3/4",
+    "standard": "DVB-S2",
+    "name": "Eleven Sports 2 HD",
+    "kos_id": "Eleven Sports 2",
+    "country": "Poland",
+    "package": "Polsat Box",
+    "encryption": "Irdeto 2 / Nagravision 3",
+    "free": false,
+    "satellite_ar": "هوت بيرد"
+   }
+  ],
+  "checked": "2026-11-24T21:24:35.540509+00:00"
+ },
+ "Azam Sports 3 HD": {
+  "status": "sat",
+  "sat": [
+   {
+    "position": "46.0E",
+    "satellite": "Azerspace-1",
+    "frequency": 4180,
+    "polarization": "V",
+    "symbol_rate": 16325,
+    "fec": "3/4",
+    "standard": "DVB-S2",
+    "name": "Azam Sports 3 HD",
+    "kos_id": "",
+    "country": "",
+    "package": "Azam Digital",
+    "encryption": "Nagravision 3",
+    "free": false,
+    "satellite_ar": "أزر سبيس 46"
+   }
+  ],
+  "checked": "2026-11-24T21:24:35.024694+00:00"
+ },
+ "beIN SPORTS 3 Australia": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-24T21:24:33.322486+00:00"
+ },
+ "Fubo Sports Network Canada": {
+  "status": "online",
+  "sat": [],
+  "checked": "2026-11-24T21:24:48.368794+00:00"
+ },
+ "Sky Sport 251": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-24T21:24:48.367696+00:00"
+ },
+ "VIVA": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-24T21:24:48.368491+00:00"
+ },
+ "TLN": {
+  "status": "sat",
+  "sat": [
+   {
+    "position": "36.0E",
+    "satellite": "Express AMU1",
+    "frequency": 12361,
+    "polarization": "H",
+    "symbol_rate": 27500,
+    "fec": "2/3",
+    "standard": "DVB-S2",
+    "name": "TLN",
+    "kos_id": "",
+    "country": "",
+    "package": "MCK",
+    "encryption": "Irdeto 2",
+    "free": false,
+    "satellite_ar": "يوتل 36"
+   }
+  ],
+  "checked": "2026-11-24T21:24:48.368058+00:00"
+ },
+ "MBC Shahid": {
+  "status": "online",
+  "sat": [],
+  "checked": "2026-11-24T21:25:03.289593+00:00"
+ },
+ "Play Sports 2": {
+  "status": "online",
+  "sat": [],
+  "checked": "2026-11-24T21:25:03.289768+00:00"
+ },
+ "Fandango": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-24T21:25:03.288611+00:00"
+ },
+ "beIN Sports MAX 4": {
+  "status": "sat",
+  "sat": [
+   {
+    "position": "26.0E",
+    "satellite": "Es'hail 2",
+    "frequency": 10850,
+    "polarization": "H",
+    "symbol_rate": 27500,
+    "fec": "2/3",
+    "standard": "DVB-S2",
+    "name": "beIN Sports Max 4 HD",
+    "kos_id": "beIN SPORTS MAX 4",
+    "country": "Qatar",
+    "package": "beIN",
+    "encryption": "Irdeto 2 / VideoGuard",
+    "free": false,
+    "satellite_ar": "بدر / سهيل سات"
+   },
+   {
+    "position": "8.0W",
+    "satellite": "Eutelsat 8 West B",
+    "frequency": 12604,
+    "polarization": "H",
+    "symbol_rate": 27500,
+    "fec": "2/3",
+    "standard": "DVB-S2",
+    "name": "beIN Sports Max 4 HD",
+    "kos_id": "beIN SPORTS MAX 4",
+    "country": "Qatar",
+    "package": "beIN",
+    "encryption": "Clear",
+    "free": true,
+    "satellite_ar": "يوتل 8 غرب"
+   }
+  ],
+  "checked": "2026-11-24T21:25:03.288992+00:00"
+ },
+ "See": {
+  "status": "sat",
+  "sat": [
+   {
+    "position": "0.8W",
+    "satellite": "Thor 5",
+    "frequency": 11228,
+    "polarization": "H",
+    "symbol_rate": 25000,
+    "fec": "3/4",
+    "standard": "DVB-S2",
+    "name": "Xee",
+    "kos_id": "See",
+    "country": "Denmark",
+    "package": "Allente",
+    "encryption": "Conax / Nagravision 3 / VideoGuard",
+    "free": false,
+    "satellite_ar": "ثور"
+   }
+  ],
+  "checked": "2026-11-24T21:25:03.290446+00:00"
+ },
+ "Sport 4": {
+  "status": "sat",
+  "sat": [
+   {
+    "position": "52.0E",
+    "satellite": "TurkmenÄlem / MonacoSat",
+    "frequency": 10845,
+    "polarization": "H",
+    "symbol_rate": 30000,
+    "fec": "8/9",
+    "standard": "DVB-S2",
+    "name": "Sport-4",
+    "kos_id": "SPORT 4",
+    "country": "Kazakhstan",
+    "package": "Älem TV",
+    "encryption": "Conax / Cryptoguard",
+    "free": false,
+    "satellite_ar": "TurkmenÄlem / MonacoSat"
+   },
+   {
+    "position": "30.0W",
+    "satellite": "Hispasat 30W-5",
+    "frequency": 12360,
+    "polarization": "H",
+    "symbol_rate": 27500,
+    "fec": "3/4",
+    "standard": "DVB-S2",
+    "name": "Sport TV 4",
+    "kos_id": "Sport TV 4 HD",
+    "country": "Portugal",
+    "package": "Nos",
+    "encryption": "Nagravision 3",
+    "free": false,
+    "satellite_ar": "Hispasat 30W-5"
+   }
+  ],
+  "checked": "2026-11-24T21:25:04.636271+00:00"
+ },
+ "Setanta Sports+": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-24T21:25:05.022239+00:00"
+ },
+ "Nova Sports 3 Cyprus": {
+  "status": "sat",
+  "sat": [
+   {
+    "position": "9.0E",
+    "satellite": "Eutelsat 9B",
+    "frequency": 12206,
+    "polarization": "H",
+    "symbol_rate": 27500,
+    "fec": "2/3",
+    "standard": "DVB-S2",
+    "name": "Nova Sports 3 HD",
+    "kos_id": "Novasports3HD",
+    "country": "Greece",
+    "package": "Cosmote",
+    "encryption": "VideoGuard",
+    "free": false,
+    "satellite_ar": "يوتل 9"
+   }
+  ],
+  "checked": "2026-11-24T21:25:03.290172+00:00"
+ },
+ "Arena Sport 6": {
+  "status": "sat",
+  "sat": [
+   {
+    "position": "16.0E",
+    "satellite": "Eutelsat 16D",
+    "frequency": 10721,
+    "polarization": "H",
+    "symbol_rate": 30000,
+    "fec": "3/4",
+    "standard": "DVB-S2",
+    "name": "Arena Sport 6 HD",
+    "kos_id": "Arena Sport 6 HD",
+    "country": "Croatia",
+    "package": "Total TV",
+    "encryption": "Irdeto 2 / VideoGuard",
+    "free": false,
+    "satellite_ar": "يوتل 16"
+   },
+   {
+    "position": "16.0E",
+    "satellite": "Eutelsat 16D",
+    "frequency": 11554,
+    "polarization": "V",
+    "symbol_rate": 30000,
+    "fec": "5/6",
+    "standard": "DVB-S2",
+    "name": "Arena Sport 6 HD",
+    "kos_id": "Arena Sport 6 HD",
+    "country": "Croatia",
+    "package": "Total TV",
+    "encryption": "Conax / Irdeto 2 / Nagravision 3 / VideoGuard",
+    "free": false,
+    "satellite_ar": "يوتل 16"
+   },
+   {
+    "position": "23.5E",
+    "satellite": "Astra 3C",
+    "frequency": 12480,
+    "polarization": "V",
+    "symbol_rate": 30000,
+    "fec": "3/4",
+    "standard": "DVB-S2",
+    "name": "Arena Sport 6 HD",
+    "kos_id": "Arena Sport 6 HD",
+    "country": "Croatia",
+    "package": "M:Sat TV",
+    "encryption": "Conax / Nagravision 3",
+    "free": false,
+    "satellite_ar": "أسترا 23.5"
+   }
+  ],
+  "checked": "2026-11-24T21:25:03.289790+00:00"
+ },
+ "Arena4": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-24T21:25:03.912921+00:00"
+ },
+ "Nova Sports 3": {
+  "status": "sat",
+  "sat": [
+   {
+    "position": "9.0E",
+    "satellite": "Eutelsat 9B",
+    "frequency": 12206,
+    "polarization": "H",
+    "symbol_rate": 27500,
+    "fec": "2/3",
+    "standard": "DVB-S2",
+    "name": "Nova Sports 3 HD",
+    "kos_id": "Novasports3HD",
+    "country": "Greece",
+    "package": "Cosmote",
+    "encryption": "VideoGuard",
+    "free": false,
+    "satellite_ar": "يوتل 9"
+   }
+  ],
+  "checked": "2026-11-24T21:25:03.290615+00:00"
+ },
+ "beIN Sports MAX 5": {
+  "status": "sat",
+  "sat": [
+   {
+    "position": "26.0E",
+    "satellite": "Es'hail 2",
+    "frequency": 10850,
+    "polarization": "H",
+    "symbol_rate": 27500,
+    "fec": "2/3",
+    "standard": "DVB-S2",
+    "name": "beIN Sports Max 5 HD Arabic",
+    "kos_id": "beIN SPORTS MAX 5",
+    "country": "Qatar",
+    "package": "beIN",
+    "encryption": "Clear",
+    "free": true,
+    "satellite_ar": "بدر / سهيل سات"
+   },
+   {
+    "position": "8.0W",
+    "satellite": "Eutelsat 8 West B",
+    "frequency": 11054,
+    "polarization": "H",
+    "symbol_rate": 27500,
+    "fec": "2/3",
+    "standard": "DVB-S2",
+    "name": "beIN Sports Max 5 HD Arabic",
+    "kos_id": "beIN SPORTS MAX 5",
+    "country": "Qatar",
+    "package": "beIN",
+    "encryption": "Irdeto 2 / VideoGuard",
+    "free": false,
+    "satellite_ar": "يوتل 8 غرب"
+   }
+  ],
+  "checked": "2026-11-24T21:25:18.330455+00:00"
+ },
+ "Nova Sports 5": {
+  "status": "sat",
+  "sat": [
+   {
+    "position": "9.0E",
+    "satellite": "Eutelsat 9B",
+    "frequency": 11938,
+    "polarization": "H",
+    "symbol_rate": 27500,
+    "fec": "2/3",
+    "standard": "DVB-S2",
+    "name": "Nova Sports 5 HD",
+    "kos_id": "Novasports5HD",
+    "country": "Greece",
+    "package": "Cosmote",
+    "encryption": "VideoGuard",
+    "free": false,
+    "satellite_ar": "يوتل 9"
+   }
+  ],
+  "checked": "2026-11-24T21:25:18.331581+00:00"
+ },
+ "Nova Sports 5 Cyprus": {
+  "status": "sat",
+  "sat": [
+   {
+    "position": "9.0E",
+    "satellite": "Eutelsat 9B",
+    "frequency": 11938,
+    "polarization": "H",
+    "symbol_rate": 27500,
+    "fec": "2/3",
+    "standard": "DVB-S2",
+    "name": "Nova Sports 5 HD",
+    "kos_id": "Novasports5HD",
+    "country": "Greece",
+    "package": "Cosmote",
+    "encryption": "VideoGuard",
+    "free": false,
+    "satellite_ar": "يوتل 9"
+   }
+  ],
+  "checked": "2026-11-24T21:25:18.330994+00:00"
+ },
+ "ŠTV 3": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-24T21:25:18.331866+00:00"
+ },
+ "ŠTV 2": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-24T21:25:33.289873+00:00"
+ },
+ "Nova Sports 4": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-24T21:25:33.289593+00:00"
+ },
+ "beIN Sports MAX 7": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-24T21:25:33.288510+00:00"
+ },
+ "Nova Sports 4 Cyprus": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-24T21:25:33.288954+00:00"
+ },
+ "UNIVERSO": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-24T21:25:48.362562+00:00"
+ },
+ "beIN Sports 1": {
+  "status": "sat",
+  "sat": [
+   {
+    "position": "26.0E",
+    "satellite": "Es'hail 2",
+    "frequency": 10810,
+    "polarization": "H",
+    "symbol_rate": 27500,
+    "fec": "2/3",
+    "standard": "DVB-S2",
+    "name": "beIN Sports 1 HD",
+    "kos_id": "beIN SPORTS 1",
+    "country": "Qatar",
+    "package": "beIN SPORTS",
+    "encryption": "Irdeto 2 / VideoGuard",
+    "free": false,
+    "satellite_ar": "بدر / سهيل سات"
+   },
+   {
+    "position": "8.0W",
+    "satellite": "Eutelsat 8 West B",
+    "frequency": 11012,
+    "polarization": "H",
+    "symbol_rate": 27500,
+    "fec": "2/3",
+    "standard": "DVB-S2",
+    "name": "beIN Sports 1 HD",
+    "kos_id": "beIN SPORTS 1",
+    "country": "Qatar",
+    "package": "beIN SPORTS",
+    "encryption": "Irdeto 2 / VideoGuard",
+    "free": false,
+    "satellite_ar": "يوتل 8 غرب"
+   }
+  ],
+  "checked": "2026-11-24T21:25:48.363476+00:00"
+ },
+ "MBC Action": {
+  "status": "sat",
+  "sat": [
+   {
+    "position": "26.0E",
+    "satellite": "Badr 8",
+    "frequency": 12283,
+    "polarization": "V",
+    "symbol_rate": 27500,
+    "fec": "5/6",
+    "standard": "DVB-S",
+    "name": "MBC Action",
+    "kos_id": "MBC Action",
+    "country": "United Arab Emirates",
+    "package": "",
+    "encryption": "Clear",
+    "free": true,
+    "satellite_ar": "بدر / سهيل سات"
+   },
+   {
+    "position": "26.0E",
+    "satellite": "Badr 8",
+    "frequency": 12399,
+    "polarization": "V",
+    "symbol_rate": 27500,
+    "fec": "3/4",
+    "standard": "DVB-S2",
+    "name": "MBC Action HD",
+    "kos_id": "MBC Action HD",
+    "country": "United Arab Emirates",
+    "package": "MBC",
+    "encryption": "Irdeto 2",
+    "free": false,
+    "satellite_ar": "بدر / سهيل سات"
+   },
+   {
+    "position": "46.0E",
+    "satellite": "Azerspace-1",
+    "frequency": 4180,
+    "polarization": "V",
+    "symbol_rate": 16325,
+    "fec": "3/4",
+    "standard": "DVB-S2",
+    "name": "MBC Action",
+    "kos_id": "",
+    "country": "",
+    "package": "Azam Digital",
+    "encryption": "Nagravision 3",
+    "free": false,
+    "satellite_ar": "أزر سبيس 46"
+   },
+   {
+    "position": "7.0W",
+    "satellite": "Eutelsat 7 West A",
+    "frequency": 11553,
+    "polarization": "V",
+    "symbol_rate": 29949,
+    "fec": "3/4",
+    "standard": "DVB-S2",
+    "name": "MBC Action",
+    "kos_id": "MBC Action",
+    "country": "United Arab Emirates",
+    "package": "MBC",
+    "encryption": "Clear",
+    "free": true,
+    "satellite_ar": "نايل سات"
+   }
+  ],
+  "checked": "2026-11-24T21:25:48.362921+00:00"
+ },
+ "Sky Sports Football": {
+  "status": "sat",
+  "sat": [
+   {
+    "position": "28.2E",
+    "satellite": "Astra 2E",
+    "frequency": 12012,
+    "polarization": "V",
+    "symbol_rate": 27500,
+    "fec": "2/3",
+    "standard": "DVB-S2",
+    "name": "Sky Sports Football HD",
+    "kos_id": "SkySp F'ball HD",
+    "country": "United Kingdom",
+    "package": "Sky Digital",
+    "encryption": "VideoGuard",
+    "free": false,
+    "satellite_ar": "أسترا 28"
+   },
+   {
+    "position": "28.2E",
+    "satellite": "Astra 2E",
+    "frequency": 12090,
+    "polarization": "V",
+    "symbol_rate": 29500,
+    "fec": "8/9",
+    "standard": "DVB-S2",
+    "name": "Sky Sports Football",
+    "kos_id": "SkySp F'ball",
+    "country": "United Kingdom",
+    "package": "Sky Digital",
+    "encryption": "VideoGuard",
+    "free": false,
+    "satellite_ar": "أسترا 28"
+   }
+  ],
+  "checked": "2026-11-24T21:25:48.364244+00:00"
+ },
+ "Setanta Sports Premium": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-24T21:25:49.350802+00:00"
+ },
+ "Eleven Sports 3 Poland": {
+  "status": "sat",
+  "sat": [
+   {
+    "position": "13.0E",
+    "satellite": "Hot Bird 13G",
+    "frequency": 10795,
+    "polarization": "V",
+    "symbol_rate": 27500,
+    "fec": "5/6",
+    "standard": "DVB-S2",
+    "name": "Eleven Sports 3 HD",
+    "kos_id": "Eleven Sports 3 HD",
+    "country": "Poland",
+    "package": "Orange Polska Platforma Canal+ Polsat Box",
+    "encryption": "Conax / Irdeto 2 / Mediaguard 3 / Nagravision 3 / Viaccess 3.0",
+    "free": false,
+    "satellite_ar": "هوت بيرد"
+   },
+   {
+    "position": "13.0E",
+    "satellite": "Hot Bird 13G",
+    "frequency": 11116,
+    "polarization": "V",
+    "symbol_rate": 27500,
+    "fec": "3/4",
+    "standard": "DVB-S2",
+    "name": "Eleven Sports 3 HD",
+    "kos_id": "Eleven Sports 3",
+    "country": "Poland",
+    "package": "Polsat Box",
+    "encryption": "Irdeto 2 / Nagravision 3",
+    "free": false,
+    "satellite_ar": "هوت بيرد"
+   }
+  ],
+  "checked": "2026-11-24T21:25:48.885731+00:00"
+ },
+ "ZBC 2 Tanzania": {
+  "status": "sat",
+  "sat": [
+   {
+    "position": "46.0E",
+    "satellite": "Azerspace-1",
+    "frequency": 4180,
+    "polarization": "V",
+    "symbol_rate": 16325,
+    "fec": "3/4",
+    "standard": "DVB-S2",
+    "name": "ZBC 2",
+    "kos_id": "",
+    "country": "",
+    "package": "Azam Digital",
+    "encryption": "Nagravision 3",
+    "free": false,
+    "satellite_ar": "أزر سبيس 46"
+   }
+  ],
+  "checked": "2026-11-24T21:25:48.364483+00:00"
+ },
+ "Nova Sports Prime": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-24T21:25:48.363896+00:00"
+ },
+ "beIN SPORTS CONNECT U.S.A.": {
+  "status": "online",
+  "sat": [],
+  "checked": "2026-11-24T21:26:03.295855+00:00"
+ },
+ "beIN SPORTS CONNECT Canada": {
+  "status": "online",
+  "sat": [],
+  "checked": "2026-11-24T21:26:03.296052+00:00"
+ },
+ "Ligue 1+": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-24T21:26:03.294991+00:00"
+ },
+ "Molotov": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-24T21:26:03.295372+00:00"
+ },
+ "Fanatiz Canada": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-24T21:26:03.296078+00:00"
+ },
+ "Arena Sport 7": {
+  "status": "sat",
+  "sat": [
+   {
+    "position": "16.0E",
+    "satellite": "Eutelsat 16D",
+    "frequency": 11366,
+    "polarization": "V",
+    "symbol_rate": 30000,
+    "fec": "3/4",
+    "standard": "DVB-S2",
+    "name": "Arena Sport 7 HD",
+    "kos_id": "Arena Sport 7 HD",
+    "country": "Croatia",
+    "package": "Total TV",
+    "encryption": "Irdeto 2 / VideoGuard",
+    "free": false,
+    "satellite_ar": "يوتل 16"
+   },
+   {
+    "position": "23.5E",
+    "satellite": "Astra 3C",
+    "frequency": 12304,
+    "polarization": "H",
+    "symbol_rate": 30000,
+    "fec": "3/4",
+    "standard": "DVB-S2",
+    "name": "Arena Sport 7 HD",
+    "kos_id": "Arena Sport_7",
+    "country": "Croatia",
+    "package": "M:Sat TV",
+    "encryption": "Conax / Nagravision 3",
+    "free": false,
+    "satellite_ar": "أسترا 23.5"
+   },
+   {
+    "position": "23.5E",
+    "satellite": "Astra 3C",
+    "frequency": 12480,
+    "polarization": "V",
+    "symbol_rate": 30000,
+    "fec": "3/4",
+    "standard": "DVB-S2",
+    "name": "Arena Sport 7 HD",
+    "kos_id": "Arena Sport 7 HD",
+    "country": "Croatia",
+    "package": "M:Sat TV",
+    "encryption": "Conax / Nagravision 3",
+    "free": false,
+    "satellite_ar": "أسترا 23.5"
+   }
+  ],
+  "checked": "2026-11-24T21:26:03.296408+00:00"
+ },
+ "Ligue1+": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-24T21:26:03.296618+00:00"
+ },
+ "Tubi": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-24T21:26:18.306912+00:00"
+ },
+ "beIN SPORTS XTRA en Español": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-24T21:26:18.306444+00:00"
+ },
+ "Eleven Sports 4 Poland": {
+  "status": "sat",
+  "sat": [
+   {
+    "position": "13.0E",
+    "satellite": "Hot Bird 13G",
+    "frequency": 10795,
+    "polarization": "V",
+    "symbol_rate": 27500,
+    "fec": "5/6",
+    "standard": "DVB-S2",
+    "name": "Eleven Sports 4 HD",
+    "kos_id": "Eleven Sports 4 HD",
+    "country": "Poland",
+    "package": "Orange Polska Platforma Canal+",
+    "encryption": "Conax / Mediaguard 3 / Nagravision 3 / Viaccess 3.0",
+    "free": false,
+    "satellite_ar": "هوت بيرد"
+   },
+   {
+    "position": "13.0E",
+    "satellite": "Hot Bird 13G",
+    "frequency": 11116,
+    "polarization": "V",
+    "symbol_rate": 27500,
+    "fec": "3/4",
+    "standard": "DVB-S2",
+    "name": "Eleven Sports 4 HD",
+    "kos_id": "Eleven Sports 4",
+    "country": "Poland",
+    "package": "Polsat Box",
+    "encryption": "Irdeto 2 / Nagravision 3",
+    "free": false,
+    "satellite_ar": "هوت بيرد"
+   }
+  ],
+  "checked": "2026-11-24T21:26:18.307463+00:00"
+ },
+ "beIN Sports HD 7": {
+  "status": "sat",
+  "sat": [
+   {
+    "position": "26.0E",
+    "satellite": "Es'hail 2",
+    "frequency": 10850,
+    "polarization": "V",
+    "symbol_rate": 27500,
+    "fec": "2/3",
+    "standard": "DVB-S2",
+    "name": "beIN Sports 7 HD",
+    "kos_id": "beIN SPORTS 7",
+    "country": "Qatar",
+    "package": "beIN SPORTS",
+    "encryption": "Irdeto 2 / VideoGuard",
+    "free": false,
+    "satellite_ar": "بدر / سهيل سات"
+   },
+   {
+    "position": "7.0W",
+    "satellite": "Eutelsat 7 West A",
+    "frequency": 12245,
+    "polarization": "V",
+    "symbol_rate": 27500,
+    "fec": "2/3",
+    "standard": "DVB-S2",
+    "name": "beIN Sports 7 HD",
+    "kos_id": "beIN SPORTS 7",
+    "country": "Qatar",
+    "package": "beIN",
+    "encryption": "Irdeto 2 / VideoGuard",
+    "free": false,
+    "satellite_ar": "نايل سات"
+   }
+  ],
+  "checked": "2026-11-24T21:26:33.306943+00:00"
+ },
+ "beIN SPORTS XTRA": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-24T21:26:33.306561+00:00"
+ },
+ "Arena Sport 2 Slovenia": {
+  "status": "sat",
+  "sat": [
+   {
+    "position": "16.0E",
+    "satellite": "Eutelsat 16D",
+    "frequency": 11429,
+    "polarization": "V",
+    "symbol_rate": 28330,
+    "fec": "3/5",
+    "standard": "DVB-S2",
+    "name": "Arena Sport 2 HD",
+    "kos_id": "Arena Sport 2 HD",
+    "country": "Croatia",
+    "package": "Total TV",
+    "encryption": "Irdeto 2 / VideoGuard",
+    "free": false,
+    "satellite_ar": "يوتل 16"
+   },
+   {
+    "position": "16.0E",
+    "satellite": "Eutelsat 16D",
+    "frequency": 11471,
+    "polarization": "V",
+    "symbol_rate": 30000,
+    "fec": "5/6",
+    "standard": "DVB-S2",
+    "name": "Arena Sport 2",
+    "kos_id": "Arena Sport 2",
+    "country": "Slovakia",
+    "package": "Antik",
+    "encryption": "Conax",
+    "free": false,
+    "satellite_ar": "يوتل 16"
+   },
+   {
+    "position": "16.0E",
+    "satellite": "Eutelsat 16D",
+    "frequency": 11554,
+    "polarization": "V",
+    "symbol_rate": 30000,
+    "fec": "5/6",
+    "standard": "DVB-S2",
+    "name": "Arena Sport 2 HD",
+    "kos_id": "Arena Sport 2 HD",
+    "country": "Croatia",
+    "package": "Total TV",
+    "encryption": "Conax / Irdeto 2 / Nagravision 3 / VideoGuard",
+    "free": false,
+    "satellite_ar": "يوتل 16"
+   },
+   {
+    "position": "23.5E",
+    "satellite": "Astra 3C",
+    "frequency": 12460,
+    "polarization": "H",
+    "symbol_rate": 30000,
+    "fec": "3/4",
+    "standard": "DVB-S2",
+    "name": "Arena Sport 2 HD",
+    "kos_id": "Arena Sport 2 HD",
+    "country": "Croatia",
+    "package": "M:Sat TV",
+    "encryption": "Conax / Nagravision 3",
+    "free": false,
+    "satellite_ar": "أسترا 23.5"
+   }
+  ],
+  "checked": "2026-11-24T21:26:33.307456+00:00"
+ },
+ "beIN SPORTS en Español": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-24T21:26:48.334763+00:00"
+ },
+ "TV5MONDE Amérique Latine": {
+  "status": "sat",
+  "sat": [
+   {
+    "position": "58.0W",
+    "satellite": "Intelsat 21",
+    "frequency": 3840,
+    "polarization": "H",
+    "symbol_rate": 27690,
+    "fec": "7/8",
+    "standard": "DVB-S",
+    "name": "TV5 Monde Amérique Latine",
+    "kos_id": "TV5MONDE",
+    "country": "France",
+    "package": "",
+    "encryption": "PowerVu",
+    "free": false,
+    "satellite_ar": "Intelsat 21"
+   }
+  ],
+  "checked": "2026-11-24T21:26:48.335894+00:00"
+ },
+ "ELTA Sports 3": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-24T21:26:48.336536+00:00"
+ },
+ "beIN SPORTS en Espanol": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-24T21:26:48.335454+00:00"
+ },
+ "TV5 Monde": {
+  "status": "sat",
+  "sat": [
+   {
+    "position": "30.0W",
+    "satellite": "Hispasat 30W-5",
+    "frequency": 12398,
+    "polarization": "H",
+    "symbol_rate": 27500,
+    "fec": "3/4",
+    "standard": "DVB-S2",
+    "name": "TV5 Monde",
+    "kos_id": "",
+    "country": "",
+    "package": "Meo Nos",
+    "encryption": "Nagravision 3",
+    "free": false,
+    "satellite_ar": "Hispasat 30W-5"
+   }
+  ],
+  "checked": "2026-11-24T21:26:49.810660+00:00"
+ },
+ "TV5 Monde USA": {
+  "status": "sat",
+  "sat": [
+   {
+    "position": "30.0W",
+    "satellite": "Hispasat 30W-5",
+    "frequency": 12398,
+    "polarization": "H",
+    "symbol_rate": 27500,
+    "fec": "3/4",
+    "standard": "DVB-S2",
+    "name": "TV5 Monde",
+    "kos_id": "",
+    "country": "",
+    "package": "Meo Nos",
+    "encryption": "Nagravision 3",
+    "free": false,
+    "satellite_ar": "Hispasat 30W-5"
+   }
+  ],
+  "checked": "2026-11-24T21:26:48.335172+00:00"
+ },
+ "DAZN2 Belgium": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-24T21:26:48.336273+00:00"
+ },
+ "Sport TV4": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-24T21:26:51.268496+00:00"
+ },
+ "5Plus": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-24T21:26:50.588590+00:00"
+ },
+ "Watania 1": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-24T21:27:03.246464+00:00"
+ },
+ "Azam Sports 5 HD": {
+  "status": "sat",
+  "sat": [
+   {
+    "position": "46.0E",
+    "satellite": "Azerspace-1",
+    "frequency": 4180,
+    "polarization": "V",
+    "symbol_rate": 16325,
+    "fec": "3/4",
+    "standard": "DVB-S2",
+    "name": "Azam Sports 5 HD",
+    "kos_id": "Azam Sports 5 HD",
+    "country": "Tanzania",
+    "package": "Azam Digital",
+    "encryption": "Nagravision 3",
+    "free": false,
+    "satellite_ar": "أزر سبيس 46"
+   }
+  ],
+  "checked": "2026-11-24T21:27:03.247040+00:00"
+ },
+ "Time Sports": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-24T21:27:18.271142+00:00"
+ },
+ "Azam Sports HD": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-24T21:27:18.271549+00:00"
+ },
+ "beIN Sports MAX 8": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-24T21:27:33.262776+00:00"
+ },
+ "Arryadia TNT": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-24T21:27:48.277159+00:00"
+ },
+ "SNRT Live": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-24T21:27:48.277600+00:00"
+ },
+ "SPOTV Asia": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-24T21:28:03.260224+00:00"
+ },
+ "ESPN Africa": {
+  "status": "sat",
+  "sat": [
+   {
+    "position": "8.0W",
+    "satellite": "Eutelsat 8 West B",
+    "frequency": 3925,
+    "polarization": "R",
+    "symbol_rate": 30000,
+    "fec": "5/6",
+    "standard": "DVB-S2",
+    "name": "ESPN Africa",
+    "kos_id": "ESPN Africa",
+    "country": "South Africa",
+    "package": "Vivacom",
+    "encryption": "Irdeto 2",
+    "free": false,
+    "satellite_ar": "يوتل 8 غرب"
+   }
+  ],
+  "checked": "2026-11-24T21:28:03.259791+00:00"
+ },
+ "Sportdigital FUSSBALL": {
+  "status": "sat",
+  "sat": [
+   {
+    "position": "19.2E",
+    "satellite": "Astra 1P",
+    "frequency": 11185,
+    "polarization": "V",
+    "symbol_rate": 22000,
+    "fec": "2/3",
+    "standard": "DVB-S2",
+    "name": "Sport Digital Fussball HD",
+    "kos_id": "SPORTDIGITAL FUSSBALL HD",
+    "country": "Germany",
+    "package": "Austriasat Boobles HD + Sky Deutschland",
+    "encryption": "Irdeto 2 / Marlin / Nagravision 3 / Viaccess 5.0 / VideoGuard",
+    "free": false,
+    "satellite_ar": "أسترا 19.2"
+   }
+  ],
+  "checked": "2026-11-24T21:28:03.259321+00:00"
+ },
+ "Fox Sports 2 USA": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-24T21:28:03.258947+00:00"
+ },
+ "True Premier Football HD 4": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-24T21:28:04.186866+00:00"
+ },
+ "Fox Sports 2": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-24T21:28:03.260823+00:00"
+ },
+ "Sport TV2": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-24T21:28:03.260487+00:00"
+ },
+ "Fox Soccer Plus": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-24T21:28:18.287356+00:00"
+ },
+ "Vamos 3": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-24T21:28:18.287785+00:00"
+ },
+ "Astro Premier League": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-24T21:28:33.308281+00:00"
+ },
+ "beIN 4K Arabia": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-24T21:28:33.307841+00:00"
+ },
+ "Fubo Sports Network 6 Canada": {
+  "status": "online",
+  "sat": [],
+  "checked": "2026-11-24T21:28:48.388678+00:00"
+ },
+ "MONOMAX Sports": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-24T21:28:48.389367+00:00"
+ },
+ "Sky Sport 9 NZ": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-24T21:28:48.389949+00:00"
+ },
+ "SuperSport OTT 4": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-24T21:28:48.388931+00:00"
+ },
+ "622 Now Premier League 2": {
+  "status": "online",
+  "sat": [],
+  "checked": "2026-11-24T21:29:03.323935+00:00"
+ },
+ "Astro Premier League 3": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-24T21:29:03.322620+00:00"
+ },
+ "222 Hub Premier 2": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-24T21:29:03.324056+00:00"
+ },
+ "Canal+ Sport 8": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-24T21:29:03.323642+00:00"
+ },
+ "Sky Sport 6 NZ": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-24T21:29:03.323020+00:00"
+ },
+ "CBS Sports Network": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-24T21:30:18.306777+00:00"
+ },
+ "BBC Sport Web": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-24T21:30:18.307155+00:00"
+ },
+ "BBC iPlayer": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-24T21:30:18.307944+00:00"
+ },
+ "BBC Alba": {
+  "status": "sat",
+  "sat": [
+   {
+    "position": "28.2E",
+    "satellite": "Astra 2G",
+    "frequency": 11023,
+    "polarization": "H",
+    "symbol_rate": 23000,
+    "fec": "3/4",
+    "standard": "DVB-S2",
+    "name": "BBC Alba HD",
+    "kos_id": "BBC ALBA HD",
+    "country": "United Kingdom",
+    "package": "Sky Digital",
+    "encryption": "Clear",
+    "free": true,
+    "satellite_ar": "أسترا 28"
+   },
+   {
+    "position": "15.0W",
+    "satellite": "Telstar 12 Vantage",
+    "frequency": 11043,
+    "polarization": "V",
+    "symbol_rate": 44100,
+    "fec": "9/10",
+    "standard": "DVB-S2",
+    "name": "BBC Alba",
+    "kos_id": "",
+    "country": "",
+    "package": "BBC",
+    "encryption": "DVB Scrambling",
+    "free": false,
+    "satellite_ar": "Telstar 12 Vantage"
+   }
+  ],
+  "checked": "2026-11-24T21:30:18.307630+00:00"
+ },
+ "Fubo Sports Network 8 Canada": {
+  "status": "online",
+  "sat": [],
+  "checked": "2026-11-24T21:30:33.306905+00:00"
+ },
+ "Arena Sport 3 Slovenia": {
+  "status": "sat",
+  "sat": [
+   {
+    "position": "16.0E",
+    "satellite": "Eutelsat 16D",
+    "frequency": 10721,
+    "polarization": "H",
+    "symbol_rate": 30000,
+    "fec": "3/4",
+    "standard": "DVB-S2",
+    "name": "Arena Sport 3 HD",
+    "kos_id": "Arena Sport 3 HD",
+    "country": "Croatia",
+    "package": "Total TV",
+    "encryption": "Irdeto 2 / VideoGuard",
+    "free": false,
+    "satellite_ar": "يوتل 16"
+   },
+   {
+    "position": "16.0E",
+    "satellite": "Eutelsat 16D",
+    "frequency": 11512,
+    "polarization": "H",
+    "symbol_rate": 30000,
+    "fec": "3/4",
+    "standard": "DVB-S2",
+    "name": "Arena Sport 3 HD",
+    "kos_id": "Arena Sport 3 HD.",
+    "country": "Croatia",
+    "package": "Max TV Total TV",
+    "encryption": "Conax / Irdeto 2 / Nagravision 3 / VideoGuard",
+    "free": false,
+    "satellite_ar": "يوتل 16"
+   },
+   {
+    "position": "23.5E",
+    "satellite": "Astra 3C",
+    "frequency": 12441,
+    "polarization": "V",
+    "symbol_rate": 30000,
+    "fec": "3/4",
+    "standard": "DVB-S2",
+    "name": "Arena Sport 3 HD",
+    "kos_id": "Arena Sport_3 HD",
+    "country": "Croatia",
+    "package": "M:Sat TV",
+    "encryption": "Conax / Nagravision 3",
+    "free": false,
+    "satellite_ar": "أسترا 23.5"
+   },
+   {
+    "position": "23.5E",
+    "satellite": "Astra 3C",
+    "frequency": 12460,
+    "polarization": "H",
+    "symbol_rate": 30000,
+    "fec": "3/4",
+    "standard": "DVB-S2",
+    "name": "Arena Sport 3 HD",
+    "kos_id": "Arena Sport 3 HD",
+    "country": "Croatia",
+    "package": "M:Sat TV",
+    "encryption": "Conax / Nagravision 3",
+    "free": false,
+    "satellite_ar": "أسترا 23.5"
+   }
+  ],
+  "checked": "2026-11-24T21:30:33.307079+00:00"
+ },
+ "Fubo Sports Network 9 Canada": {
+  "status": "online",
+  "sat": [],
+  "checked": "2026-11-24T21:30:48.347502+00:00"
+ },
+ "beIN Sports 2": {
+  "status": "sat",
+  "sat": [
+   {
+    "position": "26.0E",
+    "satellite": "Es'hail 2",
+    "frequency": 10810,
+    "polarization": "H",
+    "symbol_rate": 27500,
+    "fec": "2/3",
+    "standard": "DVB-S2",
+    "name": "beIN Sports 2 HD",
+    "kos_id": "beIN SPORTS 2",
+    "country": "Qatar",
+    "package": "beIN SPORTS",
+    "encryption": "Irdeto 2 / VideoGuard",
+    "free": false,
+    "satellite_ar": "بدر / سهيل سات"
+   },
+   {
+    "position": "26.0E",
+    "satellite": "Es'hail 2",
+    "frequency": 11390,
+    "polarization": "V",
+    "symbol_rate": 27500,
+    "fec": "2/3",
+    "standard": "DVB-S2",
+    "name": "beIN Sports 2 HD",
+    "kos_id": "beIN SPORTS EN 2",
+    "country": "Qatar",
+    "package": "beIN SPORTS",
+    "encryption": "Irdeto 2 / VideoGuard",
+    "free": false,
+    "satellite_ar": "بدر / سهيل سات"
+   },
+   {
+    "position": "8.0W",
+    "satellite": "Eutelsat 8 West B",
+    "frequency": 11012,
+    "polarization": "H",
+    "symbol_rate": 27500,
+    "fec": "2/3",
+    "standard": "DVB-S2",
+    "name": "beIN Sports 2 HD",
+    "kos_id": "beIN SPORTS 2",
+    "country": "Qatar",
+    "package": "beIN SPORTS",
+    "encryption": "Irdeto 2 / VideoGuard",
+    "free": false,
+    "satellite_ar": "يوتل 8 غرب"
+   }
+  ],
+  "checked": "2026-11-24T21:31:18.339569+00:00"
+ },
+ "ZAP": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-24T21:31:18.338401+00:00"
+ },
+ "ZSPORTS 2": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-24T21:31:18.339164+00:00"
+ },
+ "beIN SPORTS": {
+  "status": "sat",
+  "sat": [
+   {
+    "position": "26.0E",
+    "satellite": "Es'hail 2",
+    "frequency": 10850,
+    "polarization": "H",
+    "symbol_rate": 27500,
+    "fec": "2/3",
+    "standard": "DVB-S2",
+    "name": "beIN Sports HD",
+    "kos_id": "beIN SPORTS",
+    "country": "Qatar",
+    "package": "beIN",
+    "encryption": "Clear",
+    "free": true,
+    "satellite_ar": "بدر / سهيل سات"
+   },
+   {
+    "position": "8.0W",
+    "satellite": "Eutelsat 8 West B",
+    "frequency": 11054,
+    "polarization": "H",
+    "symbol_rate": 27500,
+    "fec": "2/3",
+    "standard": "DVB-S2",
+    "name": "beIN Sports HD",
+    "kos_id": "beIN SPORTS",
+    "country": "Qatar",
+    "package": "beIN SPORTS",
+    "encryption": "Clear",
+    "free": true,
+    "satellite_ar": "يوتل 8 غرب"
+   }
+  ],
+  "checked": "2026-11-24T21:31:33.303290+00:00"
+ },
+ "beIN Sports Canada": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-24T21:31:33.302738+00:00"
+ },
+ "beIN SPORTS USA": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-24T21:31:33.302342+00:00"
+ },
+ "Viaplay TV": {
+  "status": "online",
+  "sat": [],
+  "checked": "2026-11-24T21:31:48.337949+00:00"
+ },
+ "Sport.TV África": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-24T21:32:03.288559+00:00"
+ },
+ "Eleven Sports 1 Poland": {
+  "status": "sat",
+  "sat": [
+   {
+    "position": "13.0E",
+    "satellite": "Hot Bird 13G",
+    "frequency": 10795,
+    "polarization": "V",
+    "symbol_rate": 27500,
+    "fec": "5/6",
+    "standard": "DVB-S2",
+    "name": "Eleven Sports 1 HD",
+    "kos_id": "Eleven Sports 1 HD",
+    "country": "Poland",
+    "package": "Orange Polska Platforma Canal+ Polsat Box",
+    "encryption": "Conax / Irdeto 2 / Mediaguard 3 / Nagravision 3 / Viaccess 3.0",
+    "free": false,
+    "satellite_ar": "هوت بيرد"
+   },
+   {
+    "position": "13.0E",
+    "satellite": "Hot Bird 13G",
+    "frequency": 11116,
+    "polarization": "V",
+    "symbol_rate": 27500,
+    "fec": "3/4",
+    "standard": "DVB-S2",
+    "name": "Eleven Sports 1 HD",
+    "kos_id": "Eleven Sports 1",
+    "country": "Poland",
+    "package": "Polsat Box",
+    "encryption": "Irdeto 2 / Nagravision 3",
+    "free": false,
+    "satellite_ar": "هوت بيرد"
+   }
+  ],
+  "checked": "2026-11-24T21:32:03.288975+00:00"
+ },
+ "beIN Sports 1 Turkey": {
+  "status": "sat",
+  "sat": [
+   {
+    "position": "42.0E",
+    "satellite": "Turksat 5B",
+    "frequency": 11385,
+    "polarization": "V",
+    "symbol_rate": 30000,
+    "fec": "3/4",
+    "standard": "DVB-S2",
+    "name": "beIN Sports 1 HD Turkey",
+    "kos_id": "beIN SPORTS 1",
+    "country": "Turkey",
+    "package": "Digitürk",
+    "encryption": "Irdeto 2",
+    "free": false,
+    "satellite_ar": "ترك سات"
+   },
+   {
+    "position": "42.0E",
+    "satellite": "Türksat 4A",
+    "frequency": 12073,
+    "polarization": "V",
+    "symbol_rate": 27500,
+    "fec": "3/4",
+    "standard": "DVB-S2",
+    "name": "beIN Sports 1 HD Turkey",
+    "kos_id": "beIN SPORTS 1",
+    "country": "Turkey",
+    "package": "Digitürk",
+    "encryption": "Irdeto 2",
+    "free": false,
+    "satellite_ar": "ترك سات"
+   }
+  ],
+  "checked": "2026-11-24T21:32:18.279532+00:00"
+ },
+ "beIN Sports MAX 6": {
+  "status": "sat",
+  "sat": [
+   {
+    "position": "26.0E",
+    "satellite": "Es'hail 2",
+    "frequency": 10810,
+    "polarization": "V",
+    "symbol_rate": 27500,
+    "fec": "2/3",
+    "standard": "DVB-S2",
+    "name": "beIN Sports Max 6 HD Arabic",
+    "kos_id": "beIN SPORTS MAX 6",
+    "country": "Qatar",
+    "package": "beIN",
+    "encryption": "Irdeto 2 / VideoGuard",
+    "free": false,
+    "satellite_ar": "بدر / سهيل سات"
+   },
+   {
+    "position": "7.0W",
+    "satellite": "Eutelsat 7 West A",
+    "frequency": 12245,
+    "polarization": "V",
+    "symbol_rate": 27500,
+    "fec": "2/3",
+    "standard": "DVB-S2",
+    "name": "beIN Sports Max 6 HD Arabic",
+    "kos_id": "beIN SPORTS MAX 6",
+    "country": "Qatar",
+    "package": "beIN",
+    "encryption": "Clear",
+    "free": true,
+    "satellite_ar": "نايل سات"
+   }
+  ],
+  "checked": "2026-11-24T21:32:33.248661+00:00"
+ },
+ "Match! Football 3": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-24T21:32:33.249058+00:00"
+ },
+ "TV2 Sport Denmark": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-24T21:33:33.291549+00:00"
  }
 }

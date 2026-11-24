@@ -1,23 +1,35 @@
+221 Hub Premier 1	Singapore
+222 Hub Premier 2	Singapore
+5Plus	Israel
 5Sport	Israel
 5Stars	Israel
+AF Sports	Afghanistan
 ART Sport 1	Kosovo
 ART Sport 2	Kosovo
 ART Sport 3	Kosovo
 ART Sport 4	Kosovo
 ART Sport 5	Kosovo
 ART Sport 6	Kosovo
-Amazon Prime Video	Italy, San Marino
+Almanasa	Iraq
+Amazon Prime Video	Great Britain, Ireland Republic
+Arena Sport 1 Premium	Slovenia
 Arena Sport 1P	Bosnia and Herzegovina
 Arena Sport 2P	Bosnia and Herzegovina
 Arena Sport 3P	Bosnia and Herzegovina
 Arena Sport 4P	Bosnia and Herzegovina
 Arena Sport 5P	Bosnia and Herzegovina
-Astro Arena Bola	Malaysia
-Astro Arena Bola 2	Malaysia
+Arena4	Hungary
+Arryadia TNT	Morocco
 Astro Football	Malaysia
 Astro Grandstand	Brunei Darussalam, Malaysia
+Astro Premier League	Brunei Darussalam, Malaysia
+Astro Premier League 2	Brunei Darussalam, Malaysia
+Astro Premier League 3	Brunei Darussalam, Malaysia
+Azam Sports HD	Kenya, Malawi, Tanzania, Uganda
 BBC Radio 5 Live	Great Britain, Ireland Republic
-BG Sports	Thailand, Laos
+BBC Sport Web	Great Britain, Ireland Republic
+BBC iPlayer	Great Britain, Ireland Republic
+Begin	Bangladesh, Pakistan, Sri Lanka
 Blue Sport	Liechtenstein, Switzerland
 Blue Sport 1 Live	Liechtenstein, Switzerland
 Blue Sport 10 Live	Liechtenstein, Switzerland
@@ -38,9 +50,12 @@ Blue Sport D 2	Switzerland, Liechtenstein
 CANAL+ Austria	Austria
 CBC Sport Azerbaijan	Azerbaijan
 CBS Sports Golazo	USA
+CBS Sports Network	USA, Puerto Rico
 Canal + Mae Madi	Myanmar
 Canal + Sports 1 Myanmar	Myanmar
 Canal + Sports 3 Myanmar	Myanmar
+Canal GOAT	Brazil
+Canal+ AYiTi Sport 1	Haiti
 Canal+ Extra 5	Poland
 Canal+ Extra 6	Poland
 Canal+ Extra 7	Poland
@@ -55,12 +70,14 @@ Canal+ Live 17	Andorra, France
 Canal+ Live 18	France, Andorra
 Canal+ Myanmar	Myanmar
 Canal+ Netherlands	Netherlands
-Canal+ Sport	France, Andorra, Switzerland
+Canal+ Sport	Poland
 Canal+ Sport 2 Afrique	Benin, Burkina Faso, Burundi, Cameroon, Cape Verde Islands, Central African Republic, Chad, Congo DR, Côte d'Ivoire, Djibouti, Equatorial Guinea, Gabon, Gambia, Ghana, Guinea, Guinea-Bissau, Madagascar, Mali, Mauritania, Mauritius, Niger, Nigeria, Rwanda, Senegal, Sierra Leone, Swaziland, Togo
 Canal+ Sport 5 Poland	Poland
+Canal+ Sport 8	Czech Republic, Slovakia
 Canal+ Sports 2 Myanmar	Myanmar
 CazéTV	Brazil
-Claro Sports	Mexico, Belize, Costa Rica, Cuba, Dominican Republic, El Salvador, Guatemala, Honduras, Nicaragua, Panama
+Claro Sports	Belize, Costa Rica, Cuba, Dominican Republic, El Salvador, Guatemala, Honduras, Mexico, Nicaragua, Panama
+Como TV	Italy, San Marino
 Cytavision Sports 2	Cyprus
 Cytavision Sports 3	Cyprus
 Cytavision Sports 4	Cyprus
@@ -68,16 +85,32 @@ Cytavision Sports 5	Cyprus
 Cytavision Sports 6	Cyprus
 Cytavision Sports 7	Cyprus
 Cytavision Sports 8	Cyprus
+DAZN Austria	Austria
+DAZN Belgium	Belgium
+DAZN España	Spain
+DAZN France	Andorra, France, Monaco
+DAZN International	International
+DAZN Italia	Italy, San Marino
 DAZN Japan	Japan
+DAZN Spain	Andorra, Spain
+DAZN Switzerland	Switzerland
+DAZN Taiwan	Chinese Taipei
+DAZN UK	Great Britain, Ireland Republic
+DAZN1	Italy, San Marino
+DAZN1 Belgium	Belgium, Luxembourg
 DAZN1 Germany	Germany, Austria
 DAZN1 Portugal	Portugal
+DAZN2 Belgium	Belgium, Luxembourg
 DAZN2 Germany	Germany, Austria
 DAZN2 Portugal	Portugal
 DAZN3 Portugal	Portugal
 DAZN4 Portugal	Portugal
+DGO	Nepal
 Dialog TV	Sri Lanka
+Diwan Sport	Tunisia
 ELTA Sports 1	Chinese Taipei
 ELTA Sports 2	Chinese Taipei
+ELTA Sports 3	Chinese Taipei
 ESPN 4 Sur	Bolivia, Colombia, Ecuador, Paraguay, Peru, Uruguay, Venezuela
 ESPN 5 Norte	Belize, Costa Rica, Dominican Republic, El Salvador, Guatemala, Honduras, Nicaragua, Panama
 ESPN 5 Sur	Bolivia, Colombia, Ecuador, Paraguay, Peru, Uruguay, Venezuela
@@ -85,8 +118,10 @@ ESPN 6 Norte	Belize, Costa Rica, Dominican Republic, El Salvador, Guatemala, Hon
 ESPN Argentina	Argentina
 ESPN Chile	Chile
 ESPN Colombia	Bolivia, Colombia, Ecuador, Paraguay, Peru, Uruguay, Venezuela
+ESPN Deportes	Guam, Northern Mariana Islands, Puerto Rico, U.S. Virgin Islands, USA
+ESPN Deportes USA	USA
 ESPN Norte	Belize, Costa Rica, Dominican Republic, El Salvador, Guatemala, Honduras, Nicaragua, Panama
-ESPN UHD	Netherlands
+ESPN+	USA
 ESPN2 Argentina	Argentina
 ESPN2 Chile	Chile
 ESPN2 Colombia	Bolivia, Colombia, Ecuador, Paraguay, Peru, Uruguay, Venezuela
@@ -95,29 +130,40 @@ ESPN3 Argentina	Argentina
 ESPN3 Chile	Chile
 ESPN3 Colombia	Bolivia, Colombia, Ecuador, Paraguay, Peru, Uruguay, Venezuela
 ESPN4 Argentina	Argentina, Paraguay, Uruguay
-ESPN4 Brazil	Brazil
 ESPN4 Chile	Chile
 ESPN5 Chile	Chile
 ESPN6 Sur	Bolivia, Chile, Colombia, Ecuador, Paraguay, Peru, Uruguay, Venezuela
 ESPN7 Sur	Bolivia, Chile, Colombia, Ecuador, Paraguay, Peru, Uruguay, Venezuela
+FOX Deportes	USA, Puerto Rico
 FOX Mexico	Mexico
 FOX One	Mexico
 FOX+	Mexico
 FanCode	Afghanistan, Bangladesh, Bhutan, India, Maldives, Nepal, Pakistan, Sri Lanka
+Fanatiz Canada	Canada
+Fandango	USA
 Fast Sports	Armenia
 Fast Sports 1	Armenia
 Fast Sports 2	Armenia
+Fox Soccer Plus	USA
+Fox Sports 2	Puerto Rico, USA
+Fox Sports 2 USA	USA
 Fox Sports Argentina	Argentina
-GTV Sports	Indonesia
+GasyStar	Madagascar
 Go3 Extra Sports Estonia	Estonia
 Go3 Extra Sports Latvia	Latvia
 Go3 Extra Sports Lithuania	Lithuania
-HOY TV	Hong Kong
 HRTi	Croatia
+ICE Xtra	Maldives
 Ictimai TV	Azerbaijan
-K-Vision	Indonesia
+JioHotstar	India
+Kantipur Max	Nepal
+Kyivstar TV	Ukraine
+LaLigaTV	Great Britain, Ireland Republic
+Ligue 1+	France, Great Britain
+Ligue1+	France, Great Britain, Ireland Republic, Italy
 LiveMode	Portugal
 M Plus Live	Hong Kong, Macau
+M+ LALIGA TV	Spain
 M4 Sports	Hungary
 MAXstream TV	Indonesia
 MEGOGO Football 1	Ukraine
@@ -127,11 +173,17 @@ MEGOGO Football 5	Ukraine
 MEGOGO Football 6	Ukraine
 MEGOGO Football 7	Ukraine
 MEGOGO Football 8	Ukraine
-MNC Soccer Channel	Indonesia, Papua New Guinea, Timor-leste
+MONOMAX	Cambodia, Laos, Thailand
+MONOMAX Sports	Cambodia, Laos, Thailand
 MTV Urheilu 3	Finland
+Match TV	Russia
+Match! Football 1	Russia
+Match! Football 2	Russia
+Match! Football 3	Russia
 Medianet	Maldives
 Megogo	Ukraine
 Migu	China
+Molotov	France
 Movistar Liga de Campeones	Spain
 Movistar Liga de Campeones 2	Spain
 Movistar Liga de Campeones 3	Spain
@@ -143,17 +195,20 @@ Movistar Liga de Campeones 8	Spain
 Movistar Liga de Campeones 9	Spain
 MyTV Vietnam	Vietnam
 MáXimo 360	South Africa
-New World Sport 5	Benin, Burkina Faso, Burundi, Cameroon, Central African Republic, Chad, Congo DR, Côte d'Ivoire, Gabon, Guinea, Guinea-Bissau, Madagascar, Mali, Mauritania, Mauritius, Rwanda, Senegal, Seychelles, Togo
 New World Sport 6	Benin, Burkina Faso, Burundi, Cameroon, Central African Republic, Chad, Congo DR, Côte d'Ivoire, Gabon, Guinea, Guinea-Bissau, Madagascar, Mali, Mauritania, Mauritius, Rwanda, Senegal, Seychelles, Togo
 New World Sport 7	Benin, Burkina Faso, Burundi, Cameroon, Central African Republic, Chad, Congo DR, Côte d'Ivoire, Gabon, Guinea, Guinea-Bissau, Madagascar, Mali, Mauritania, Mauritius, Rwanda, Senegal, Seychelles, Togo
 New World Sport1	Benin, Burkina Faso, Burundi, Cameroon, Central African Republic, Chad, Congo DR, Côte d'Ivoire, Gabon, Guinea, Guinea-Bissau, Madagascar, Mali, Mauritania, Mauritius, Rwanda, Senegal, Seychelles, Togo
 New World Sport2	Benin, Burkina Faso, Burundi, Cameroon, Central African Republic, Chad, Congo DR, Côte d'Ivoire, Gabon, Guinea, Guinea-Bissau, Madagascar, Mali, Mauritania, Mauritius, Rwanda, Senegal, Seychelles, Togo
 New World Sport3	Benin, Burkina Faso, Burundi, Cameroon, Central African Republic, Chad, Congo DR, Côte d'Ivoire, Gabon, Guinea, Guinea-Bissau, Madagascar, Mali, Mauritania, Mauritius, Rwanda, Senegal, Seychelles, Togo
-New World Sport4	Benin, Burkina Faso, Burundi, Cameroon, Central African Republic, Chad, Congo DR, Côte d'Ivoire, Gabon, Guinea, Guinea-Bissau, Madagascar, Mali, Mauritania, Mauritius, Rwanda, Senegal, Seychelles, Togo
+New World Sport4	Burkina Faso, Benin, Burundi, Cameroon, Central African Republic, Chad, Congo DR, Côte d'Ivoire, Gabon, Guinea, Guinea-Bissau, Madagascar, Mali, Mauritania, Mauritius, Rwanda, Senegal, Seychelles, Togo
 Nova Sport 3 CZ	Czech Republic
 Nova Sport 4 CZ	Czech Republic
 Nova Sport 5	Slovakia
 Nova Sport 6 CZ	Czech Republic
+Nova Sports 4	Greece
+Nova Sports 4 Cyprus	Cyprus
+Nova Sports Premier League	Greece
+Nova Sports Prime	Cyprus, Greece
 ON Football	Vietnam
 ON Plus	Vietnam
 ON Sports	Vietnam
@@ -163,30 +218,29 @@ On Sports+	Vietnam
 OneSoccer	Canada
 Onefootball	International
 Polsat Sport Extra	Poland
-Premier Sports 1	Mongolia
+Premier Sports 1	Great Britain, Ireland Republic
 Premier Sports 2	Mongolia
 Premier Sports 3	Mongolia
 Premier Sports 4	Mongolia
 Premier Sports 5	Mongolia
-Premier Sports ROI 1	Ireland Republic
 Premier Sports ROI 2	Ireland Republic
 Prima Sport 5	Romania
 Q Sport 1 League	Armenia, Azerbaijan, Belarus, Georgia, Kazakhstan, Kyrgyzstan, Moldova, Tajikistan, Turkmenistan, Uzbekistan
 Q Sport 2 Arena	Armenia, Azerbaijan, Belarus, Georgia, Kazakhstan, Kyrgyzstan, Moldova, Tajikistan, Turkmenistan, Uzbekistan
 Q Sport 3 Football	Armenia, Azerbaijan, Belarus, Georgia, Kazakhstan, Kyrgyzstan, Moldova, Tajikistan, Turkmenistan, Uzbekistan
 Qazsport	Kazakhstan
-RCTI	Indonesia
-RCTI+	Indonesia, Philippines
 RIK 2	Cyprus
 RTE 2	Ireland Republic
 RTS Sport	Switzerland
-Rush Sports	Anguilla, Antigua and Barbuda, Aruba, Bahamas, Barbados, Bermuda, British Virgin Islands, Cayman Islands, Dominica, Grenada, Jamaica, Montserrat, Saint Kitts and Nevis, Seychelles, Suriname, Trinidad and Tobago, Turks and Caicos Islands
-Rush Sports 2	Anguilla, Antigua and Barbuda, Aruba, Bahamas, Barbados, Bermuda, British Virgin Islands, Cayman Islands, Grenada, Jamaica, Montserrat, Panama, Saint Kitts and Nevis, Seychelles, Suriname, Trinidad and Tobago, Turks and Caicos Islands
-Rush Sports 3	Anguilla, Antigua and Barbuda, Aruba, Bahamas, Barbados, Bermuda, British Virgin Islands, Cayman Islands, Grenada, Jamaica, Montserrat, Panama, Saint Kitts and Nevis, Seychelles, Suriname, Trinidad and Tobago, Turks and Caicos Islands
-SBT	Brazil
+S Sport+	Turkey
+SCCN	Suriname
 SCTV	Indonesia
+SCTV 15	Vietnam
+SI Solo Calcio	Italy, San Marino
+SNRT Live	Morocco
 SONY TEN 4	Bangladesh, India, Maldives, Nepal, Pakistan, Sri Lanka
 SONY TEN 5	Bangladesh, India, Maldives, Nepal, Pakistan, Sri Lanka
+SPOTV Asia	Brunei Darussalam, Cambodia, Chinese Taipei, Hong Kong, Indonesia, Laos, Macau, Malaysia, Mongolia, Myanmar, Philippines, Singapore, Thailand, Vietnam
 SPOTV Prime	Korea Republic
 SPOTV Prime 2	Korea Republic
 SPOTV Prime+	Korea Republic
@@ -195,57 +249,65 @@ Selekt	Hungary
 ServusTV On	Austria
 Setanta Sports 2 Georgia	Georgia
 Setanta Sports 3 Georgia	Georgia
+Setanta Sports Philippine	Philippines
+Setanta Sports Premium	Ukraine
+Setanta Sports+	Ukraine
 Shabake 3	Iran
 Silk Sport HD 1	Georgia
 Silk Universal	Georgia
 SiriusXM FC	USA
 Sky Sport 2/HD	Austria, Germany
+Sky Sport 251	Italy, San Marino
 Sky Sport 252	Italy, San Marino
 Sky Sport 253	Italy, San Marino
 Sky Sport 254	Italy, San Marino
 Sky Sport 255	Italy, San Marino
 Sky Sport 256	Italy, San Marino
 Sky Sport 257	Italy, San Marino
-Sky Sport 258	Italy, San Marino
 Sky Sport 3/HD	Austria, Germany
 Sky Sport 4/HD	Germany, Austria
-Solh Sports 1	Afghanistan
+Sky Sport 6 NZ	Cocos Islands, Fiji, Kiribati, Marshall Islands, Nauru, New Zealand, Niue, Palau, Samoa, Solomon Islands, Tonga, Tuvalu, Vanuatu
+Sky Sport 9 NZ	Cocos Islands, Fiji, Kiribati, Marshall Islands, Nauru, New Zealand, Niue, Palau, Samoa, Solomon Islands, Tonga, Tuvalu, Vanuatu
+Sky Sports Main Event	Great Britain, Ireland Republic
+Sky Sports Mexico	Mexico
+Sky Sports Norte	Costa Rica, Dominican Republic, El Salvador, Guatemala, Honduras, Nicaragua, Panama
+Sky Ultra HD	Great Britain, Ireland Republic
+Sky+	Mexico
+Skylink	Czech Republic, Slovakia
 Space Brazil	Brazil
-Spor Smart 2	Turkey
 Sport 1 Baltic	Estonia, Latvia, Lithuania
-Sport 2 Baltic	Estonia, Latvia, Lithuania
 Sport 2 CZ/SK	Czech Republic, Slovakia
 Sport 5max	Israel
 Sport TV Multiscreen	Portugal
+Sport TV1	Portugal
+Sport TV2	Portugal
+Sport TV4	Portugal
 Sport TV5	Portugal
+Sport.TV África	Angola, Cape Verde Islands, Mozambique
 SportKlub 1 Slovenia	Slovenia
-SportKlub 4 Slovenia	Slovenia
-SportKlub 5 Slovenia	Slovenia
+Sportbox.ru	Russia
 Sportdigital FUSSBALL 2	Germany, Austria, Switzerland
-Sportklub 1 Croatia	Croatia
-Sportklub 2 Croatia	Croatia
 Sportklub 2 Slovenia	Slovenia
-Sportklub 3 Croatia	Croatia
 Sportklub 3 Slovenia	Slovenia
-Sportklub 4 Croatia	Croatia
-Sportklub 5 Croatia	Croatia
-Sportklub 6 Croatia	Croatia
-Sportklub 7 Croatia	Croatia
-Sportstars	Indonesia, Papua New Guinea, Timor-leste
-Sportstars 2	Indonesia, Papua New Guinea, Timor-leste
 Sporza	Belgium
-Start	Armenia, Azerbaijan, Belarus, Estonia, Georgia, Latvia, Moldova, Russia, Ukraine
+Spíler1	Hungary
+Star Sports Select 1	India
+Star Sports Select HD1	Bangladesh, Bhutan, India, Maldives, Nepal, Pakistan, Sri Lanka
+Startimes Am'mobi	Guinea
+SuperSport 3 Digitalb	Albania
 SuperSport Action	South Africa
 SuperSport Action Africa	Angola, Benin, Botswana, Burkina Faso, Burundi, Cameroon, Cape Verde Islands, Central African Republic, Chad, Comoros, Congo DR, Côte d'Ivoire, Djibouti, Equatorial Guinea, Eritrea, Ethiopia, Gabon, Gambia, Ghana, Guinea, Guinea-Bissau, Kenya, Lesotho, Liberia, Madagascar, Malawi, Mali, Mauritania, Mauritius, Mayotte, Mozambique, Namibia, Niger, Nigeria, Reunion, Rwanda, Saint Helena, Senegal, Seychelles, Sierra Leone, Somalia, South Africa, Sudan, Swaziland, São Tomé and Príncipe, Tanzania, Togo, Uganda, Zambia, Zimbabwe
 SuperSport Football	South Africa
 SuperSport Football Plus Nigeria	Nigeria
 SuperSport Football Plus ROA	Angola, Benin, Botswana, Burkina Faso, Burundi, Cameroon, Cape Verde Islands, Central African Republic, Chad, Comoros, Congo DR, Côte d'Ivoire, Djibouti, Equatorial Guinea, Eritrea, Ethiopia, Gabon, Gambia, Ghana, Guinea, Guinea-Bissau, Kenya, Lesotho, Liberia, Madagascar, Malawi, Mali, Mauritania, Mauritius, Mayotte, Mozambique, Namibia, Niger, Reunion, Rwanda, Saint Helena, Senegal, Seychelles, Sierra Leone, Somalia, Sudan, Swaziland, São Tomé and Príncipe, Tanzania, Togo, Uganda, Zambia, Zimbabwe
+SuperSport Kosova 3	Kosovo
 SuperSport Laliga	South Africa
 SuperSport Laliga Nigeria	Nigeria
 SuperSport Laliga ROA	Angola, Benin, Botswana, Burkina Faso, Burundi, Cameroon, Cape Verde Islands, Central African Republic, Chad, Comoros, Congo DR, Côte d'Ivoire, Djibouti, Equatorial Guinea, Eritrea, Ethiopia, Gabon, Gambia, Ghana, Guinea, Guinea-Bissau, Kenya, Lesotho, Liberia, Madagascar, Malawi, Mali, Mauritania, Mauritius, Mayotte, Mozambique, Namibia, Niger, Reunion, Rwanda, Saint Helena, Senegal, Seychelles, Sierra Leone, Somalia, Sudan, Swaziland, São Tomé and Príncipe, Tanzania, Togo, Uganda, Zambia, Zimbabwe
 SuperSport MaXimo 1	Angola, Benin, Botswana, Burkina Faso, Burundi, Cameroon, Cape Verde Islands, Central African Republic, Chad, Comoros, Congo DR, Côte d'Ivoire, Djibouti, Equatorial Guinea, Eritrea, Ethiopia, Gabon, Gambia, Ghana, Guinea, Guinea-Bissau, Kenya, Lesotho, Liberia, Madagascar, Malawi, Mali, Mauritania, Mauritius, Mayotte, Mozambique, Namibia, Niger, Nigeria, Reunion, Rwanda, Saint Helena, Senegal, Seychelles, Sierra Leone, Somalia, South Africa, Sudan, Swaziland, São Tomé and Príncipe, Tanzania, Togo, Uganda, Zambia, Zimbabwe
 SuperSport MaXimo 2	Angola, Benin, Botswana, Burkina Faso, Burundi, Cameroon, Cape Verde Islands, Central African Republic, Chad, Comoros, Congo DR, Côte d'Ivoire, Djibouti, Equatorial Guinea, Eritrea, Ethiopia, Gabon, Gambia, Ghana, Guinea, Guinea-Bissau, Kenya, Lesotho, Liberia, Madagascar, Malawi, Mali, Mauritania, Mauritius, Mayotte, Mozambique, Namibia, Niger, Nigeria, Reunion, Rwanda, Saint Helena, Senegal, Seychelles, Sierra Leone, Somalia, South Africa, Sudan, Swaziland, São Tomé and Príncipe, Tanzania, Togo, Uganda, Zambia, Zimbabwe
 SuperSport MáXimo 3	Angola, Benin, Botswana, Burkina Faso, Burundi, Cameroon, Cape Verde Islands, Central African Republic, Chad, Comoros, Congo DR, Côte d'Ivoire, Djibouti, Equatorial Guinea, Eritrea, Ethiopia, Gabon, Gambia, Ghana, Guinea, Guinea-Bissau, Kenya, Lesotho, Liberia, Madagascar, Malawi, Mali, Mauritania, Mauritius, Mayotte, Mozambique, Namibia, Niger, Nigeria, Reunion, Rwanda, Saint Helena, Senegal, Seychelles, Sierra Leone, Somalia, South Africa, Sudan, Swaziland, São Tomé and Príncipe, Tanzania, Togo, Uganda, Zambia, Zimbabwe
+SuperSport OTT 4	Angola, Benin, Botswana, Burkina Faso, Burundi, Cameroon, Cape Verde Islands, Central African Republic, Chad, Comoros, Congo DR, Côte d'Ivoire, Djibouti, Equatorial Guinea, Eritrea, Ethiopia, Gabon, Gambia, Ghana, Guinea, Guinea-Bissau, Kenya, Lesotho, Liberia, Madagascar, Malawi, Mali, Mauritania, Mauritius, Mayotte, Mozambique, Namibia, Niger, Nigeria, Reunion, Rwanda, Saint Helena, Senegal, Seychelles, Sierra Leone, Somalia, South Africa, Sudan, Swaziland, São Tomé and Príncipe, Tanzania, Togo, Uganda, Zambia, Zimbabwe
 SuperSport PSL	South Africa
 SuperSport Premier League	South Africa
 SuperSport Premier League Nigeria	Nigeria
@@ -260,6 +322,7 @@ TDM Desporto	Macau
 TDM HD	Macau
 TNT Brasil	Brazil
 TNT Sports Ultimate	Great Britain
+TSN Premium	Canada
 TSN1 Malta	Malta
 TSN2 Malta	Malta
 TSN3 Malta	Malta
@@ -270,10 +333,10 @@ TSN7 Malta	Malta
 TSN8 Malta	Malta
 TUDN USA	USA
 TV 360	Vietnam
-TV Start Triumph	Armenia, Azerbaijan, Belarus, Estonia, Georgia, Latvia, Moldova, Russia, Ukraine
 TV2 Sport	Norway
+TV2 Sport Denmark	Denmark, Faroe Islands, Greenland
 TV2 Sport Premium	Norway
-TV3 Latvia	Latvia
+TV2 Sport X	Denmark, Faroe Islands
 TV3 Sport	Denmark, Faroe Islands
 TV3+ HD	Denmark, Faroe Islands
 TV3+ Norway	Norway
@@ -281,35 +344,54 @@ TVMSport+	Malta
 TVP1	Poland
 TalkSport Radio UK	Great Britain, Ireland Republic
 Talksport 2 Radio UK	Great Britain, Ireland Republic
+Telemundo	USA, Puerto Rico
+Time Sports	Egypt
+Toffee Live	Bangladesh
 True ID	Thailand
+True Premier Football HD 3	Thailand
+True Premier Football HD 4	Thailand
 True Sport 2	Cambodia, Laos, Thailand
+Tubi	USA
+U-NEXT	Japan
+UNIVERSO	USA, Puerto Rico
+USA Network	USA
 UniMás	USA, Puerto Rico
-V Sport Football	Sweden
-V Sport Premium	Sweden
+V Sport Football	Finland, Sweden
+V Sport Premium	Finland, Sweden
+VG+	Norway
+VIVA	Canada
 VOOsport World 1	Belgium
 VOOsport World 2	Belgium
 VRT MAX	Belgium
-VTV6	Vietnam
-Varzish Sport	Tajikistan
+Vamos 3	Spain
 Virgin Media Two	Ireland Republic
 Vision+	Indonesia, Papua New Guinea, Timor-leste
 WOWOW Cinema	Japan
 WOWOW Live	Japan
 WOWOW Prime	Japan
-Watch ESPN	Netherlands
+Watania 1	Tunisia
 We Sport Moldova	Moldova
-YouTube	International
+Xsports	Brazil
+ZAP	Andorra, Angola, Cape Verde Islands, Guinea-Bissau, Mozambique, São Tomé and Príncipe
+ZEE5	Afghanistan, Bangladesh, Bhutan, India, Maldives, Nepal, Sri Lanka
+ZSPORTS 2	Angola
 Ziggo Sport	Netherlands
 Ziggo Sport 3	Netherlands
-Ziggo Sport 4	Netherlands
 Ziggo Sport 5	Netherlands
 Zoʻr TV	Uzbekistan
+beIN 4K Arabia	Algeria, Bahrain, Chad, Djibouti, Egypt, Iraq, Jordan, Kuwait, Lebanon, Libya, Mauritania, Morocco, Oman, Palestine, Qatar, Saudi Arabia, Somalia, South Sudan, Sudan, Syria, Tunisia, United Arab Emirates, Yemen
+beIN SPORTS 3 Australia	Australia
 beIN SPORTS MAX Hong Kong	Hong Kong
 beIN SPORTS MAX Indonesia	Indonesia
 beIN SPORTS MAX Malaysia	Malaysia
 beIN SPORTS MAX Philippines	Philippines
 beIN SPORTS MAX Singapore	Singapore
 beIN SPORTS MAX Thailand	Brunei Darussalam, Cambodia, Laos, Thailand
+beIN SPORTS USA	USA
+beIN SPORTS XTRA	USA, Canada
+beIN SPORTS XTRA en Español	USA, Canada
+beIN SPORTS en Espanol	Canada
+beIN SPORTS en Español	USA
 beIN Sports 1 Hong Kong	Hong Kong
 beIN Sports 1 Indonesia	Indonesia
 beIN Sports 1 Philippines	Philippines
@@ -326,10 +408,17 @@ beIN Sports 3 Malaysia	Malaysia
 beIN Sports 3 Philippines	Philippines
 beIN Sports 3 Singapore	Singapore
 beIN Sports 3 Thailand	Brunei Darussalam, Cambodia, Laos, Thailand
+beIN Sports Canada	Canada
+beIN Sports MAX 7	France
+beIN Sports MAX 8	France
 beIN Sports Malaysia	Malaysia
 beIN Sports Singapore	Singapore
-meWATCH	Singapore
+izzi	Mexico
+matchtv.ru	Russia
+myco	Bangladesh, Pakistan
 qazsporttv.kz	Kazakhstan
 sport.tvp.pl	Poland
 sportdigital+	Germany, Austria, Switzerland
 ŠTV 1	Slovenia
+ŠTV 2	Slovenia
+ŠTV 3	Slovenia
