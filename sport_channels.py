@@ -124,6 +124,7 @@ def log(msg: str):
 # ─────────────────────────── أدوات نصوص ───────────────────────────
 def norm(s: str) -> str:
     s = re.sub(r"([a-z])([A-Z])", r"\1 \2", s)          # MagentaSport → Magenta Sport
+    s = re.sub(r"(\d)([A-Za-z])", r"\1 \2", s)          # 5Sport → 5 Sport
     s = unicodedata.normalize("NFKD", s)
     s = "".join(c for c in s if not unicodedata.combining(c))
     s = s.lower().replace("+", " plus ").replace("&", " and ")
@@ -343,7 +344,7 @@ def resolve_channel(name: str, db: dict, countries: list[str] | None = None) -> 
     if not is_online_only(name):
         query, targets = alias_for(name)
         queries = [query]
-        split = re.sub(r"([a-z])([A-Z])", r"\1 \2", query)
+        split = re.sub(r"(\d)([A-Za-z])", r"\1 \2", re.sub(r"([a-z])([A-Z])", r"\1 \2", query))
         if split != query:
             queries.append(split)
         words = re.sub(r"\b(HD|SD|UHD|4K)\b", "", split, flags=re.I).split()
@@ -592,7 +593,16 @@ def main():
     d = days[0] - timedelta(days=1)
     while d <= days[-1] + timedelta(days=1):
         html = fetch(f"{LST}/schedules/{d.isoformat()}/", f"schedule_{d}")
-        for m in parse_schedule(html or ""):
+        sc_path = ROOT / "cache" / f"schedule_{d}.json"
+        if html:
+            rows = parse_schedule(html)
+            sc_path.write_text(json.dumps(rows, ensure_ascii=False), encoding="utf-8")
+        elif sc_path.exists():                       # الموقع رفض الطلب: آخر نسخة محفوظة لهذا اليوم
+            log(f"  … جدول {d} من النسخة المحفوظة")
+            rows = json.loads(sc_path.read_text(encoding="utf-8"))
+        else:
+            rows = []
+        for m in rows:
             if m["url"] not in seen:
                 seen.add(m["url"])
                 lst.append(m)
@@ -661,7 +671,9 @@ def main():
         "satellites": [{"position": p, "name_ar": sat_names[p], "channels": n}
                        for p, n in sorted(sat_count.items(), key=lambda kv: sat_sort_key(
                            {"free": True, "position": kv[0], "frequency": 0}))],
-        "competitions": sorted(comp_seen.values(), key=lambda c: c["rank"]),
+        # كل البطولات المعروفة (حتى بدون مباريات اليوم) حتى يختار المستخدم منها
+        "competitions": [{"name_ar": ar, "name_en": (next((c["name_en"] for c in comp_seen.values() if c["name_ar"] == ar), "")),
+                          "rank": i} for i, ar in enumerate(dict.fromkeys(a for _, a in CFG["competitions"]))],
         "days": out_days,
     }
     (od / "matches.json").write_text(json.dumps(payload, ensure_ascii=False, indent=1), encoding="utf-8")
