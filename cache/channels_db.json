@@ -12993,7 +12993,8 @@
     "country": "United Kingdom",
     "package": "Sky Digital",
     "encryption": "VideoGuard",
-    "free": false
+    "free": false,
+    "satellite_ar": "أسترا 28"
    },
    {
     "position": "28.2E",
@@ -13008,7 +13009,8 @@
     "country": "United Kingdom",
     "package": "Sky Digital",
     "encryption": "VideoGuard",
-    "free": false
+    "free": false,
+    "satellite_ar": "أسترا 28"
    }
   ],
   "checked": "2026-11-25T08:53:33.787142+00:00"
@@ -13044,7 +13046,8 @@
     "country": "Croatia",
     "package": "Total TV",
     "encryption": "Irdeto 2 / VideoGuard",
-    "free": false
+    "free": false,
+    "satellite_ar": "يوتل 16"
    },
    {
     "position": "16.0E",
@@ -13059,7 +13062,8 @@
     "country": "Croatia",
     "package": "A1 HR",
     "encryption": "Conax / Irdeto 2 / Nagravision 3",
-    "free": false
+    "free": false,
+    "satellite_ar": "يوتل 16"
    },
    {
     "position": "23.5E",
@@ -13074,7 +13078,8 @@
     "country": "Croatia",
     "package": "M:Sat TV",
     "encryption": "Conax / Nagravision 3",
-    "free": false
+    "free": false,
+    "satellite_ar": "أسترا 23.5"
    }
   ],
   "checked": "2026-11-25T08:53:33.789181+00:00"
@@ -13093,5 +13098,185 @@
   "status": "unmatched",
   "sat": [],
   "checked": "2026-11-25T08:53:33.788259+00:00"
+ },
+ "beIN Sports 2 Turkey": {
+  "status": "sat",
+  "sat": [
+   {
+    "position": "42.0E",
+    "satellite": "Turksat 5B",
+    "frequency": 11265,
+    "polarization": "V",
+    "symbol_rate": 30000,
+    "fec": "3/4",
+    "standard": "DVB-S2",
+    "name": "beIN Sports 2 HD Turkey",
+    "kos_id": "beIN SPORTS 2",
+    "country": "Turkey",
+    "package": "Digitürk",
+    "encryption": "Irdeto 2",
+    "free": false,
+    "satellite_ar": "ترك سات"
+   }
+  ],
+  "checked": "2026-11-25T21:55:18.092834+00:00"
+ },
+ "SPL Watch": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-25T21:55:33.043750+00:00"
+ },
+ "Telemundo Deportes En Vivo": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-25T21:56:18.162360+00:00"
+ },
+ "S Sport": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-25T21:56:33.091231+00:00"
+ },
+ "Livey": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-25T21:57:18.061152+00:00"
+ },
+ "S Sport 2": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-25T21:57:18.061639+00:00"
+ },
+ "UNIVERSO NOW": {
+  "status": "online",
+  "sat": [],
+  "checked": "2026-11-25T21:58:33.074168+00:00"
+ },
+ "Startimes World Football": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-25T21:58:33.074542+00:00"
+ },
+ "TeleXitos": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-25T21:58:33.074299+00:00"
+ },
+ "M Channel Sport": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-25T21:59:33.077673+00:00"
+ },
+ "Nova Sports News": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-25T22:02:18.102658+00:00"
+ },
+ "DAZN2 Spain": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-25T22:02:18.102957+00:00"
+ },
+ "DIRECTV Sports Chile": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-25T22:02:48.061346+00:00"
+ },
+ "DIRECTV Sports Ecuador": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-25T22:02:48.061857+00:00"
+ },
+ "Startimes Sports Premium": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-25T22:02:48.060939+00:00"
+ },
+ "DIRECTV Sports Venezuela": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-25T22:02:49.777188+00:00"
+ },
+ "DIRECTV Sports Argentina": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-25T22:02:48.060645+00:00"
+ },
+ "DIRECTV Sports Uruguay": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-25T22:02:49.194688+00:00"
+ },
+ "DIRECTV Sports Peru": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-25T22:02:48.062146+00:00"
+ },
+ "DIRECTV Sports Colombia": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-25T22:02:48.061602+00:00"
+ },
+ "Startimes Sports Life": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-25T22:03:03.115774+00:00"
+ },
+ "MagentaSport 3 League": {
+  "status": "sat",
+  "sat": [
+   {
+    "position": "9.0E",
+    "satellite": "Eutelsat 9B",
+    "frequency": 12283,
+    "polarization": "H",
+    "symbol_rate": 27500,
+    "fec": "2/3",
+    "standard": "DVB-S2",
+    "name": "Magenta Sport 3 League",
+    "kos_id": "MagentaSport3League",
+    "country": "Greece",
+    "package": "Cosmote",
+    "encryption": "VideoGuard",
+    "free": false,
+    "satellite_ar": "يوتل 9"
+   },
+   {
+    "position": "13.0E",
+    "satellite": "Hot Bird 13F",
+    "frequency": 11823,
+    "polarization": "H",
+    "symbol_rate": 27500,
+    "fec": "3/4",
+    "standard": "DVB-S2",
+    "name": "Magenta Sport 3 League",
+    "kos_id": "MagentaSport3League",
+    "country": "Greece",
+    "package": "Nova",
+    "encryption": "Irdeto 2",
+    "free": false,
+    "satellite_ar": "هوت بيرد"
+   }
+  ],
+  "checked": "2026-11-25T22:03:18.085253+00:00"
+ },
+ "Football360": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-25T22:05:18.105807+00:00"
+ },
+ "Silk Sport HD 3": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-25T22:05:18.106092+00:00"
+ },
+ "ESPN2 USA": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-25T22:09:48.093766+00:00"
+ },
+ "ESPN2": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-25T22:09:48.094057+00:00"
  }
 }
