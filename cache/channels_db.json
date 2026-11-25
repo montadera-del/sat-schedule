@@ -12279,5 +12279,819 @@
   "status": "unmatched",
   "sat": [],
   "checked": "2026-11-24T21:33:33.291549+00:00"
+ },
+ "MEGOGO Football 4": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-25T08:45:45.929524+00:00"
+ },
+ "NBCSN": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-25T08:53:00.942883+00:00"
+ },
+ "RTB": {
+  "status": "sat",
+  "sat": [
+   {
+    "position": "3.0E",
+    "satellite": "Eutelsat 3B",
+    "frequency": 3729,
+    "polarization": "L",
+    "symbol_rate": 16832,
+    "fec": "3/5",
+    "standard": "DVB-S2",
+    "name": "RTB",
+    "kos_id": "RTB",
+    "country": "Burkina Faso",
+    "package": "SBT",
+    "encryption": "Clear",
+    "free": true,
+    "satellite_ar": "Eutelsat 3B"
+   }
+  ],
+  "checked": "2026-11-25T08:53:00.944114+00:00"
+ },
+ "Sporty TV App": {
+  "status": "online",
+  "sat": [],
+  "checked": "2026-11-25T08:53:01.720311+00:00"
+ },
+ "StarTimes App": {
+  "status": "online",
+  "sat": [],
+  "checked": "2026-11-25T08:53:01.720337+00:00"
+ },
+ "Sporty TV": {
+  "status": "sat",
+  "sat": [
+   {
+    "position": "3.0E",
+    "satellite": "Eutelsat 3B",
+    "frequency": 3917,
+    "polarization": "R",
+    "symbol_rate": 19630,
+    "fec": "3/4",
+    "standard": "DVB-S2",
+    "name": "Sporty TV",
+    "kos_id": "SPORTY TV",
+    "country": "Uganda",
+    "package": "Harmonic",
+    "encryption": "Conax",
+    "free": false,
+    "satellite_ar": "Eutelsat 3B"
+   },
+   {
+    "position": "10.0E",
+    "satellite": "Eutelsat 10B",
+    "frequency": 3900,
+    "polarization": "R",
+    "symbol_rate": 23330,
+    "fec": "8/9",
+    "standard": "DVB-S2",
+    "name": "Sporty TV",
+    "kos_id": "SPORTY TV",
+    "country": "Uganda",
+    "package": "Harmonic",
+    "encryption": "Clear",
+    "free": true,
+    "satellite_ar": "Eutelsat 10B"
+   }
+  ],
+  "checked": "2026-11-25T08:53:00.944296+00:00"
+ },
+ "RTNB TV": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-25T08:53:01.511271+00:00"
+ },
+ "YTV": {
+  "status": "sat",
+  "sat": [
+   {
+    "position": "68.5E",
+    "satellite": "Intelsat 20 (IS-20)",
+    "frequency": 12602,
+    "polarization": "V",
+    "symbol_rate": 30000,
+    "fec": "3/4",
+    "standard": "DVB-S2",
+    "name": "Ytv",
+    "kos_id": "",
+    "country": "",
+    "package": "MCK",
+    "encryption": "Irdeto 2",
+    "free": false,
+    "satellite_ar": "إنتل 68.5"
+   },
+   {
+    "position": "68.5E",
+    "satellite": "Intelsat 20 (IS-20)",
+    "frequency": 12634,
+    "polarization": "V",
+    "symbol_rate": 16170,
+    "fec": "3/4",
+    "standard": "DVB-S2",
+    "name": "YTV",
+    "kos_id": "YTV Botswana",
+    "country": "Botswana",
+    "package": "DBS",
+    "encryption": "Clear",
+    "free": true,
+    "satellite_ar": "إنتل 68.5"
+   }
+  ],
+  "checked": "2026-11-25T08:53:00.943883+00:00"
+ },
+ "Télé Congo": {
+  "status": "sat",
+  "sat": [
+   {
+    "position": "9.0E",
+    "satellite": "Eutelsat 9B",
+    "frequency": 12034,
+    "polarization": "V",
+    "symbol_rate": 27500,
+    "fec": "3/4",
+    "standard": "DVB-S2",
+    "name": "TV Congo Daytime",
+    "kos_id": "TELE CONGO HD",
+    "country": "Congo",
+    "package": "TELEDIFFUSION DU CONGO",
+    "encryption": "Clear",
+    "free": true,
+    "satellite_ar": "يوتل 9"
+   },
+   {
+    "position": "13.0E",
+    "satellite": "Hot Bird 13G",
+    "frequency": 12149,
+    "polarization": "V",
+    "symbol_rate": 27500,
+    "fec": "3/4",
+    "standard": "DVB-S",
+    "name": "TV Congo Daytime",
+    "kos_id": "TELE CONGO",
+    "country": "Congo",
+    "package": "GLOBECAST",
+    "encryption": "Clear",
+    "free": true,
+    "satellite_ar": "هوت بيرد"
+   },
+   {
+    "position": "8.0W",
+    "satellite": "Eutelsat 8 West B",
+    "frequency": 3826,
+    "polarization": "R",
+    "symbol_rate": 13830,
+    "fec": "2/3",
+    "standard": "DVB-S2",
+    "name": "TV Congo",
+    "kos_id": "TELE CONGO",
+    "country": "Congo",
+    "package": "GLOBECAST-B",
+    "encryption": "Clear",
+    "free": true,
+    "satellite_ar": "يوتل 8 غرب"
+   },
+   {
+    "position": "8.0W",
+    "satellite": "Eutelsat 8 West B",
+    "frequency": 3977,
+    "polarization": "R",
+    "symbol_rate": 3410,
+    "fec": "2/3",
+    "standard": "DVB-S2",
+    "name": "TV Congo",
+    "kos_id": "TELE CONGO",
+    "country": "Congo",
+    "package": "TELEDIFFUSION DU CONGO",
+    "encryption": "Clear",
+    "free": true,
+    "satellite_ar": "يوتل 8 غرب"
+   }
+  ],
+  "checked": "2026-11-25T08:53:02.925699+00:00"
+ },
+ "CCTV-5 Sports": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-25T08:53:02.316933+00:00"
+ },
+ "NCI": {
+  "status": "sat",
+  "sat": [
+   {
+    "position": "22.0W",
+    "satellite": "SES 4",
+    "frequency": 3749,
+    "polarization": "L",
+    "symbol_rate": 45830,
+    "fec": "2/3",
+    "standard": "DVB-S2",
+    "name": "NCI",
+    "kos_id": "",
+    "country": "",
+    "package": "Soci?t? Ivoirienne de T?l?diffusion",
+    "encryption": "Clear",
+    "free": true,
+    "satellite_ar": "SES 4"
+   }
+  ],
+  "checked": "2026-11-25T08:53:03.585569+00:00"
+ },
+ "Tele Centrafrique": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-25T08:53:02.116807+00:00"
+ },
+ "RTC": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-25T08:53:01.720343+00:00"
+ },
+ "Gabon 1ère": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-25T08:53:04.742587+00:00"
+ },
+ "GRTS Gambia": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-25T08:53:05.116618+00:00"
+ },
+ "Benin TV": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-25T08:53:00.943705+00:00"
+ },
+ "RTG": {
+  "status": "sat",
+  "sat": [
+   {
+    "position": "17.0E",
+    "satellite": "Amos 17",
+    "frequency": 3981,
+    "polarization": "H",
+    "symbol_rate": 2623,
+    "fec": "5/6",
+    "standard": "DVB-S2",
+    "name": "RTG",
+    "kos_id": "RTG1",
+    "country": "Guinea",
+    "package": "RTG Koloma",
+    "encryption": "Clear",
+    "free": true,
+    "satellite_ar": "Amos 17"
+   }
+  ],
+  "checked": "2026-11-25T08:53:06.149756+00:00"
+ },
+ "RTNC": {
+  "status": "sat",
+  "sat": [
+   {
+    "position": "3.0E",
+    "satellite": "Rascom QAF 1R",
+    "frequency": 3987,
+    "polarization": "R",
+    "symbol_rate": 16300,
+    "fec": "5/6",
+    "standard": "DVB-S",
+    "name": "RTNC",
+    "kos_id": "RTNC 1",
+    "country": "Congo",
+    "package": "MultiProgram",
+    "encryption": "Clear",
+    "free": true,
+    "satellite_ar": "Rascom QAF 1R"
+   },
+   {
+    "position": "10.0E",
+    "satellite": "Eutelsat 10B",
+    "frequency": 4008,
+    "polarization": "R",
+    "symbol_rate": 3600,
+    "fec": "3/4",
+    "standard": "DVB-S2",
+    "name": "RTNC",
+    "kos_id": "RTNC",
+    "country": "Congo",
+    "package": "Harmonic",
+    "encryption": "BISS",
+    "free": false,
+    "satellite_ar": "Eutelsat 10B"
+   }
+  ],
+  "checked": "2026-11-25T08:53:03.118750+00:00"
+ },
+ "TPA": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-25T08:53:00.943446+00:00"
+ },
+ "EBC": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-25T08:53:04.391328+00:00"
+ },
+ "CIS TV": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-25T08:53:03.969097+00:00"
+ },
+ "MATV": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-25T08:53:06.724799+00:00"
+ },
+ "TV Miramar": {
+  "status": "sat",
+  "sat": [
+   {
+    "position": "3.0E",
+    "satellite": "Eutelsat 3B",
+    "frequency": 4063,
+    "polarization": "L",
+    "symbol_rate": 33900,
+    "fec": "2/3",
+    "standard": "DVB-S2",
+    "name": "Miramar",
+    "kos_id": "TV MIRAMAR",
+    "country": "Mozambique",
+    "package": "Harmonic",
+    "encryption": "Conax",
+    "free": false,
+    "satellite_ar": "Eutelsat 3B"
+   }
+  ],
+  "checked": "2026-11-25T08:53:08.363484+00:00"
+ },
+ "K24 TV": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-25T08:53:06.363950+00:00"
+ },
+ "MBC 11": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-25T08:53:07.561337+00:00"
+ },
+ "GTV Sports+": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-25T08:53:05.514001+00:00"
+ },
+ "ORTM Mali": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-25T08:53:07.345449+00:00"
+ },
+ "NTA Sports 24": {
+  "status": "sat",
+  "sat": [
+   {
+    "position": "3.0E",
+    "satellite": "Eutelsat 3B",
+    "frequency": 3888,
+    "polarization": "R",
+    "symbol_rate": 10250,
+    "fec": "3/4",
+    "standard": "DVB-S2",
+    "name": "NTA Sports 24",
+    "kos_id": "NTA Sports",
+    "country": "Nigeria",
+    "package": "Harmonic",
+    "encryption": "Clear",
+    "free": true,
+    "satellite_ar": "Eutelsat 3B"
+   }
+  ],
+  "checked": "2026-11-25T08:53:09.518847+00:00"
+ },
+ "RTV Rwanda": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-25T08:53:09.933938+00:00"
+ },
+ "SBC+": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-25T08:53:10.774261+00:00"
+ },
+ "SBC 3": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-25T08:53:11.163926+00:00"
+ },
+ "TVM": {
+  "status": "sat",
+  "sat": [
+   {
+    "position": "3.0E",
+    "satellite": "Eutelsat 3B",
+    "frequency": 4007,
+    "polarization": "L",
+    "symbol_rate": 4833,
+    "fec": "3/4",
+    "standard": "DVB-S2",
+    "name": "TVM Moçambique",
+    "kos_id": "TVM",
+    "country": "Mozambique",
+    "package": "TandbergTV",
+    "encryption": "Clear",
+    "free": true,
+    "satellite_ar": "Eutelsat 3B"
+   },
+   {
+    "position": "3.0E",
+    "satellite": "Eutelsat 3B",
+    "frequency": 4063,
+    "polarization": "L",
+    "symbol_rate": 33900,
+    "fec": "2/3",
+    "standard": "DVB-S2",
+    "name": "TVM Internacional",
+    "kos_id": "TVM HD",
+    "country": "Mozambique",
+    "package": "Harmonic",
+    "encryption": "Conax",
+    "free": false,
+    "satellite_ar": "Eutelsat 3B"
+   }
+  ],
+  "checked": "2026-11-25T08:53:07.960334+00:00"
+ },
+ "223 Hub Premier 3": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-25T08:53:11.564281+00:00"
+ },
+ "SABC 3": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-25T08:53:11.964709+00:00"
+ },
+ "One Africa TV": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-25T08:53:08.762304+00:00"
+ },
+ "Télé Sahel": {
+  "status": "sat",
+  "sat": [
+   {
+    "position": "9.0E",
+    "satellite": "Eutelsat 9B",
+    "frequency": 11900,
+    "polarization": "H",
+    "symbol_rate": 27500,
+    "fec": "2/3",
+    "standard": "DVB-S2",
+    "name": "Télé Sahel",
+    "kos_id": "Tele Sahel",
+    "country": "Niger",
+    "package": "",
+    "encryption": "Clear",
+    "free": true,
+    "satellite_ar": "يوتل 9"
+   },
+   {
+    "position": "26.0E",
+    "satellite": "Badr 8",
+    "frequency": 4100,
+    "polarization": "L",
+    "symbol_rate": 20000,
+    "fec": "2/3",
+    "standard": "DVB-S2",
+    "name": "Télé Sahel",
+    "kos_id": "TV SAHEL",
+    "country": "Niger",
+    "package": "ORTN",
+    "encryption": "Clear",
+    "free": true,
+    "satellite_ar": "بدر / سهيل سات"
+   }
+  ],
+  "checked": "2026-11-25T08:53:09.118560+00:00"
+ },
+ "Eswatini TV": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-25T08:53:13.150335+00:00"
+ },
+ "SABC Plus": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-25T08:53:12.336738+00:00"
+ },
+ "DAZN1 Spain": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-25T08:53:12.762648+00:00"
+ },
+ "KC2 Rwanda": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-25T08:53:10.361864+00:00"
+ },
+ "ZNBC TV1 Zambia": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-25T08:53:13.947197+00:00"
+ },
+ "UTV": {
+  "status": "sat",
+  "sat": [
+   {
+    "position": "28.2E",
+    "satellite": "Astra 2E",
+    "frequency": 11386,
+    "polarization": "V",
+    "symbol_rate": 27500,
+    "fec": "2/3",
+    "standard": "DVB-S2",
+    "name": "UTV HD",
+    "kos_id": "UTV HD",
+    "country": "United Kingdom",
+    "package": "Sky Digital",
+    "encryption": "Clear",
+    "free": true,
+    "satellite_ar": "أسترا 28"
+   },
+   {
+    "position": "36.0E",
+    "satellite": "Express AMU1",
+    "frequency": 12437,
+    "polarization": "H",
+    "symbol_rate": 27500,
+    "fec": "2/3",
+    "standard": "DVB-S2",
+    "name": "UTV",
+    "kos_id": "",
+    "country": "",
+    "package": "MCK",
+    "encryption": "Irdeto 2",
+    "free": false,
+    "satellite_ar": "يوتل 36"
+   },
+   {
+    "position": "46.0E",
+    "satellite": "Azerspace-1",
+    "frequency": 4180,
+    "polarization": "V",
+    "symbol_rate": 16325,
+    "fec": "3/4",
+    "standard": "DVB-S2",
+    "name": "UTV",
+    "kos_id": "",
+    "country": "",
+    "package": "Azam Digital",
+    "encryption": "Nagravision 3",
+    "free": false,
+    "satellite_ar": "أزر سبيس 46"
+   },
+   {
+    "position": "15.0W",
+    "satellite": "Telstar 12 Vantage",
+    "frequency": 11043,
+    "polarization": "V",
+    "symbol_rate": 44100,
+    "fec": "9/10",
+    "standard": "DVB-S2",
+    "name": "UTV HD",
+    "kos_id": "",
+    "country": "",
+    "package": "UTV",
+    "encryption": "DVB Scrambling",
+    "free": false,
+    "satellite_ar": "Telstar 12 Vantage"
+   }
+  ],
+  "checked": "2026-11-25T08:53:13.561452+00:00"
+ },
+ "623 Now Premier League 3": {
+  "status": "online",
+  "sat": [],
+  "checked": "2026-11-25T08:53:18.813323+00:00"
+ },
+ "Sky Sports+": {
+  "status": "sat",
+  "sat": [
+   {
+    "position": "28.2E",
+    "satellite": "Astra 2F",
+    "frequency": 12148,
+    "polarization": "H",
+    "symbol_rate": 27500,
+    "fec": "2/3",
+    "standard": "DVB-S2",
+    "name": "Sky Sports+",
+    "kos_id": "SkySp+",
+    "country": "United Kingdom",
+    "package": "Sky Digital",
+    "encryption": "VideoGuard",
+    "free": false,
+    "satellite_ar": "أسترا 28"
+   },
+   {
+    "position": "28.2E",
+    "satellite": "Astra 2F",
+    "frequency": 12226,
+    "polarization": "H",
+    "symbol_rate": 27500,
+    "fec": "2/3",
+    "standard": "DVB-S2",
+    "name": "Sky Sports+ HD",
+    "kos_id": "SkySp+ HD",
+    "country": "United Kingdom",
+    "package": "Sky Digital",
+    "encryption": "VideoGuard",
+    "free": false,
+    "satellite_ar": "أسترا 28"
+   }
+  ],
+  "checked": "2026-11-25T08:53:18.811604+00:00"
+ },
+ "SÝN Sport 5": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-25T08:53:18.813408+00:00"
+ },
+ "Sky Sport 7": {
+  "status": "sat",
+  "sat": [
+   {
+    "position": "19.2E",
+    "satellite": "Astra 1P",
+    "frequency": 12305,
+    "polarization": "H",
+    "symbol_rate": 27500,
+    "fec": "9/10",
+    "standard": "DVB-S2",
+    "name": "Sky Sport 7 HD Germany",
+    "kos_id": "Sky Sport 7",
+    "country": "Germany",
+    "package": "SKY",
+    "encryption": "VideoGuard",
+    "free": false,
+    "satellite_ar": "أسترا 19.2"
+   }
+  ],
+  "checked": "2026-11-25T08:53:18.812445+00:00"
+ },
+ "Astro Premier League 4": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-25T08:53:18.812195+00:00"
+ },
+ "Canal+ Sport 6": {
+  "status": "sat",
+  "sat": [
+   {
+    "position": "13.0E",
+    "satellite": "Hot Bird 13G",
+    "frequency": 11449,
+    "polarization": "H",
+    "symbol_rate": 27500,
+    "fec": "5/6",
+    "standard": "DVB-S2",
+    "name": "CANAL+ SPORT 6",
+    "kos_id": "",
+    "country": "",
+    "package": "Platforma Canal+",
+    "encryption": "Nagravision 3",
+    "free": false,
+    "satellite_ar": "هوت بيرد"
+   }
+  ],
+  "checked": "2026-11-25T08:53:18.813034+00:00"
+ },
+ "Fubo Sports Network 7 Canada": {
+  "status": "online",
+  "sat": [],
+  "checked": "2026-11-25T08:53:33.787746+00:00"
+ },
+ "624 Now Premier League 4": {
+  "status": "online",
+  "sat": [],
+  "checked": "2026-11-25T08:53:33.789077+00:00"
+ },
+ "Sky Sports Cricket": {
+  "status": "sat",
+  "sat": [
+   {
+    "position": "28.2E",
+    "satellite": "Astra 2E",
+    "frequency": 12090,
+    "polarization": "V",
+    "symbol_rate": 29500,
+    "fec": "8/9",
+    "standard": "DVB-S2",
+    "name": "Sky Sports Cricket",
+    "kos_id": "SkySp Cricket",
+    "country": "United Kingdom",
+    "package": "Sky Digital",
+    "encryption": "VideoGuard",
+    "free": false
+   },
+   {
+    "position": "28.2E",
+    "satellite": "Astra 2E",
+    "frequency": 12109,
+    "polarization": "H",
+    "symbol_rate": 27500,
+    "fec": "2/3",
+    "standard": "DVB-S2",
+    "name": "Sky Sports Cricket HD",
+    "kos_id": "SkySpCricket HD",
+    "country": "United Kingdom",
+    "package": "Sky Digital",
+    "encryption": "VideoGuard",
+    "free": false
+   }
+  ],
+  "checked": "2026-11-25T08:53:33.787142+00:00"
+ },
+ "Sky Sport Select": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-25T08:53:33.788507+00:00"
+ },
+ "DAZN4 Spain": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-25T08:53:33.788048+00:00"
+ },
+ "224 Hub Premier 4": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-25T08:53:34.183545+00:00"
+ },
+ "Arena Sport 8 Serbia": {
+  "status": "sat",
+  "sat": [
+   {
+    "position": "16.0E",
+    "satellite": "Eutelsat 16D",
+    "frequency": 11429,
+    "polarization": "V",
+    "symbol_rate": 28330,
+    "fec": "3/5",
+    "standard": "DVB-S2",
+    "name": "Arena Sport 8 HD",
+    "kos_id": "Arena Sport 8 HD",
+    "country": "Croatia",
+    "package": "Total TV",
+    "encryption": "Irdeto 2 / VideoGuard",
+    "free": false
+   },
+   {
+    "position": "16.0E",
+    "satellite": "Eutelsat 16D",
+    "frequency": 11554,
+    "polarization": "V",
+    "symbol_rate": 30000,
+    "fec": "5/6",
+    "standard": "DVB-S2",
+    "name": "Arena Sport 8 HD",
+    "kos_id": "Arena Sport 8 HD",
+    "country": "Croatia",
+    "package": "A1 HR",
+    "encryption": "Conax / Irdeto 2 / Nagravision 3",
+    "free": false
+   },
+   {
+    "position": "23.5E",
+    "satellite": "Astra 3C",
+    "frequency": 12402,
+    "polarization": "V",
+    "symbol_rate": 30000,
+    "fec": "3/4",
+    "standard": "DVB-S2",
+    "name": "Arena Sport 8 HD",
+    "kos_id": "Arena Sport 8 HD",
+    "country": "Croatia",
+    "package": "M:Sat TV",
+    "encryption": "Conax / Nagravision 3",
+    "free": false
+   }
+  ],
+  "checked": "2026-11-25T08:53:33.789181+00:00"
+ },
+ "SuperSport Events": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-25T08:53:34.539097+00:00"
+ },
+ "Canal+ Sport 7": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-25T08:53:33.788804+00:00"
+ },
+ "Astro Premier League 5": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-25T08:53:33.788259+00:00"
  }
 }
