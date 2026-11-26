@@ -13402,9 +13402,465 @@
     "country": "The Netherlands",
     "package": "Canal Digitaal",
     "encryption": "Mediaguard 3 / Nagravision 3 / Viaccess 5.0",
-    "free": false
+    "free": false,
+    "satellite_ar": "أسترا 23.5"
    }
   ],
   "checked": "2026-11-26T08:27:20.731223+00:00"
+ },
+ "Star Sports 3 Asia": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-26T21:39:50.892755+00:00"
+ },
+ "Setanta Sports 1": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-26T21:39:50.890338+00:00"
+ },
+ "Idman TV": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-26T21:39:50.892447+00:00"
+ },
+ "Max": {
+  "status": "online",
+  "sat": [],
+  "checked": "2026-11-26T21:40:05.893716+00:00"
+ },
+ "Disney+ Premium Turkey": {
+  "status": "online",
+  "sat": [],
+  "checked": "2026-11-26T21:40:20.903626+00:00"
+ },
+ "One Sport": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-26T21:40:20.903048+00:00"
+ },
+ "SuperSport 2 Digitalb": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-26T21:40:20.902645+00:00"
+ },
+ "Canal+ Sport 4 Afrique": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-26T21:40:35.912294+00:00"
+ },
+ "Canal+ Sport 3 Afrique": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-26T21:40:50.883751+00:00"
+ },
+ "TV4 Fotball": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-26T21:41:05.868757+00:00"
+ },
+ "Unite8 Sports 1": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-26T21:41:20.884555+00:00"
+ },
+ "ONE2": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-26T21:41:20.885478+00:00"
+ },
+ "Unite8 Sports 1 HD": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-26T21:41:20.884992+00:00"
+ },
+ "Sky Sport Bundesliga 1": {
+  "status": "sat",
+  "sat": [
+   {
+    "position": "19.2E",
+    "satellite": "Astra 1N",
+    "frequency": 11915,
+    "polarization": "H",
+    "symbol_rate": 27500,
+    "fec": "9/10",
+    "standard": "DVB-S2",
+    "name": "Sky Sport Bundesliga 1 HD",
+    "kos_id": "Sky Sport Bundesliga 1",
+    "country": "Germany",
+    "package": "Sky Deutschland",
+    "encryption": "VideoGuard",
+    "free": false,
+    "satellite_ar": "أسترا 19.2"
+   }
+  ],
+  "checked": "2026-11-26T21:41:35.896028+00:00"
+ },
+ "Sky Sport Bundesliga UHD": {
+  "status": "sat",
+  "sat": [
+   {
+    "position": "19.2E",
+    "satellite": "Astra 1P",
+    "frequency": 11798,
+    "polarization": "H",
+    "symbol_rate": 27500,
+    "fec": "9/10",
+    "standard": "DVB-S2",
+    "name": "Sky Sport Bundesliga UHD",
+    "kos_id": "Sky Sport Bundesliga UHD",
+    "country": "Germany",
+    "package": "Sky Deutschland",
+    "encryption": "VideoGuard",
+    "free": false,
+    "satellite_ar": "أسترا 19.2"
+   }
+  ],
+  "checked": "2026-11-26T21:41:35.896407+00:00"
+ },
+ "Canal+ Sport 1 Afrique": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-26T21:41:35.897206+00:00"
+ },
+ "Sky Sport Top Event": {
+  "status": "sat",
+  "sat": [
+   {
+    "position": "19.2E",
+    "satellite": "Astra 1N",
+    "frequency": 11915,
+    "polarization": "H",
+    "symbol_rate": 27500,
+    "fec": "9/10",
+    "standard": "DVB-S2",
+    "name": "Sky Sport Top Event HD",
+    "kos_id": "Sky Sport Top Event",
+    "country": "Germany",
+    "package": "Sky Deutschland",
+    "encryption": "VideoGuard",
+    "free": false,
+    "satellite_ar": "أسترا 19.2"
+   }
+  ],
+  "checked": "2026-11-26T21:41:35.896853+00:00"
+ },
+ "SportyNet": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-26T21:41:35.897676+00:00"
+ },
+ "Sky Sport Bundesliga 4": {
+  "status": "sat",
+  "sat": [
+   {
+    "position": "19.2E",
+    "satellite": "Astra 1P",
+    "frequency": 12032,
+    "polarization": "H",
+    "symbol_rate": 27500,
+    "fec": "9/10",
+    "standard": "DVB-S2",
+    "name": "Sky Sport Bundesliga 4 HD",
+    "kos_id": "Sky Sport Bundesliga 4",
+    "country": "Germany",
+    "package": "Sky Deutschland",
+    "encryption": "VideoGuard",
+    "free": false,
+    "satellite_ar": "أسترا 19.2"
+   }
+  ],
+  "checked": "2026-11-26T21:41:50.842866+00:00"
+ },
+ "Startimes Sports Focus": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-26T21:41:50.843276+00:00"
+ },
+ "Sky Sport Bundesliga 3": {
+  "status": "sat",
+  "sat": [
+   {
+    "position": "19.2E",
+    "satellite": "Astra 1P",
+    "frequency": 12305,
+    "polarization": "H",
+    "symbol_rate": 27500,
+    "fec": "9/10",
+    "standard": "DVB-S2",
+    "name": "Sky Sport Bundesliga 3",
+    "kos_id": "",
+    "country": "",
+    "package": "Sky Deutschland",
+    "encryption": "VideoGuard",
+    "free": false,
+    "satellite_ar": "أسترا 19.2"
+   }
+  ],
+  "checked": "2026-11-26T21:42:05.875482+00:00"
+ },
+ "Unite8 Sports 2": {
+  "status": "sat",
+  "sat": [
+   {
+    "position": "68.5E",
+    "satellite": "Intelsat 20 (IS-20)",
+    "frequency": 3974,
+    "polarization": "V",
+    "symbol_rate": 22500,
+    "fec": "3/4",
+    "standard": "DVB-S2",
+    "name": "Unite8 Sports 2",
+    "kos_id": "UNITE8 SPORTS 2",
+    "country": "India",
+    "package": "ZEE NETWORK",
+    "encryption": "Conax",
+    "free": false,
+    "satellite_ar": "إنتل 68.5"
+   }
+  ],
+  "checked": "2026-11-26T21:42:20.898858+00:00"
+ },
+ "Unite8 Sports 2 HD": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-26T21:42:20.899306+00:00"
+ },
+ "Star Sports Select HD2": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-26T21:43:20.871980+00:00"
+ },
+ "Star Sports Select 2": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-26T21:43:20.872358+00:00"
+ },
+ "SuperSport 4 Digitalb": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-26T21:43:35.831238+00:00"
+ },
+ "Eurosport": {
+  "status": "sat",
+  "sat": [
+   {
+    "position": "39.0E",
+    "satellite": "Hellas Sat 3",
+    "frequency": 12405,
+    "polarization": "V",
+    "symbol_rate": 30000,
+    "fec": "7/8",
+    "standard": "DVB-S",
+    "name": "Eurosport Romania",
+    "kos_id": "Eurosport",
+    "country": "Romania",
+    "package": "Orange Romania",
+    "encryption": "Viaccess 5.0 / VideoGuard",
+    "free": false,
+    "satellite_ar": "هيلاس سات"
+   },
+   {
+    "position": "39.0E",
+    "satellite": "Hellas Sat 3",
+    "frequency": 12463,
+    "polarization": "H",
+    "symbol_rate": 30000,
+    "fec": "5/6",
+    "standard": "DVB-S2",
+    "name": "Eurosport 1 HD",
+    "kos_id": "Eurosport HD",
+    "country": "France",
+    "package": "A1 Bulgaria Bulsatcom",
+    "encryption": "Conax / Nagravision 3",
+    "free": false,
+    "satellite_ar": "هيلاس سات"
+   }
+  ],
+  "checked": "2026-11-26T21:43:35.832262+00:00"
+ },
+ "Sportklub 8 Croatia": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-26T21:43:35.831616+00:00"
+ },
+ "Startimes Sports Arena": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-26T21:44:50.825265+00:00"
+ },
+ "Sky Sport 6/HD": {
+  "status": "sat",
+  "sat": [
+   {
+    "position": "19.2E",
+    "satellite": "Astra 1N",
+    "frequency": 11915,
+    "polarization": "H",
+    "symbol_rate": 27500,
+    "fec": "9/10",
+    "standard": "DVB-S2",
+    "name": "Sky Sport 6 HD Germany",
+    "kos_id": "Sky Sport 6",
+    "country": "Germany",
+    "package": "Sky Deutschland",
+    "encryption": "VideoGuard",
+    "free": false,
+    "satellite_ar": "أسترا 19.2"
+   }
+  ],
+  "checked": "2026-11-26T21:45:35.903863+00:00"
+ },
+ "Sky Sport 8/HD": {
+  "status": "sat",
+  "sat": [
+   {
+    "position": "19.2E",
+    "satellite": "Astra 1P",
+    "frequency": 11798,
+    "polarization": "H",
+    "symbol_rate": 27500,
+    "fec": "9/10",
+    "standard": "DVB-S2",
+    "name": "Sky Sport 8 HD Germany",
+    "kos_id": "Sky Sport 8",
+    "country": "Germany",
+    "package": "Sky Deutschland",
+    "encryption": "VideoGuard",
+    "free": false,
+    "satellite_ar": "أسترا 19.2"
+   }
+  ],
+  "checked": "2026-11-26T21:45:50.847671+00:00"
+ },
+ "Sky Sport 7/HD": {
+  "status": "sat",
+  "sat": [
+   {
+    "position": "19.2E",
+    "satellite": "Astra 1P",
+    "frequency": 12305,
+    "polarization": "H",
+    "symbol_rate": 27500,
+    "fec": "9/10",
+    "standard": "DVB-S2",
+    "name": "Sky Sport 7 HD Germany",
+    "kos_id": "Sky Sport 7",
+    "country": "Germany",
+    "package": "SKY",
+    "encryption": "VideoGuard",
+    "free": false,
+    "satellite_ar": "أسترا 19.2"
+   }
+  ],
+  "checked": "2026-11-26T21:46:05.921105+00:00"
+ },
+ "Canal+ Sport 5 Afrique": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-26T21:46:35.934763+00:00"
+ },
+ "ESPN Mexico": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-26T21:47:35.884467+00:00"
+ },
+ "TV4 Sportkanalen": {
+  "status": "sat",
+  "sat": [
+   {
+    "position": "0.8W",
+    "satellite": "Thor 6",
+    "frequency": 10778,
+    "polarization": "H",
+    "symbol_rate": 25000,
+    "fec": "3/4",
+    "standard": "DVB-S2",
+    "name": "TV4 Sportkanalen HD",
+    "kos_id": "TV4 Sportkanalen HD",
+    "country": "Sweden",
+    "package": "Allente",
+    "encryption": "Conax / Nagravision 3 / VideoGuard",
+    "free": false,
+    "satellite_ar": "ثور"
+   }
+  ],
+  "checked": "2026-11-26T21:47:50.850726+00:00"
+ },
+ "Jovem Pan Esportes": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-26T21:48:21.167102+00:00"
+ },
+ "SuperSport 1 Digitalb": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-26T21:49:35.892637+00:00"
+ },
+ "Sport Plus": {
+  "status": "sat",
+  "sat": [
+   {
+    "position": "7.0W",
+    "satellite": "Eutelsat 7 West A",
+    "frequency": 10922,
+    "polarization": "V",
+    "symbol_rate": 27500,
+    "fec": "7/8",
+    "standard": "DVB-S",
+    "name": "Sport Plus HD Algeria",
+    "kos_id": "SPORT PLUS HD",
+    "country": "Algeria",
+    "package": "TDA",
+    "encryption": "Clear",
+    "free": true,
+    "satellite_ar": "نايل سات"
+   }
+  ],
+  "checked": "2026-11-26T21:50:20.823515+00:00"
+ },
+ "Vamos 2": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-26T21:52:20.852094+00:00"
+ },
+ "Canal+ Sport 4": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-26T21:52:20.852470+00:00"
+ },
+ "Canal+ Sport 5": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-26T21:52:35.903869+00:00"
+ },
+ "SÝN Sport Ísland 2": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-26T21:52:50.830504+00:00"
+ },
+ "Canal+ Sport 3": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-26T21:53:20.865474+00:00"
+ },
+ "SÝN Sport Ísland 4": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-26T21:53:20.865853+00:00"
+ },
+ "SÝN Sport 6": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-26T21:53:35.882497+00:00"
+ },
+ "Canal+ Sport 2": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-26T21:53:50.866803+00:00"
+ },
+ "SÝN Sport Ísland 3": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-26T21:53:50.867237+00:00"
  }
 }
