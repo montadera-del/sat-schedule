@@ -122,15 +122,19 @@ ESPN Chile	Chile
 ESPN Colombia	Bolivia, Colombia, Ecuador, Paraguay, Peru, Uruguay, Venezuela
 ESPN Deportes	Guam, Northern Mariana Islands, Puerto Rico, U.S. Virgin Islands, USA
 ESPN Deportes USA	USA
+ESPN Extra	Netherlands
+ESPN UHD	Netherlands
 ESPN+	USA
 ESPN2	Puerto Rico, USA
 ESPN2 Argentina	Argentina
 ESPN2 Chile	Chile
 ESPN2 Colombia	Bolivia, Colombia, Ecuador, Paraguay, Peru, Uruguay, Venezuela
+ESPN2 Mexico	Mexico
 ESPN2 USA	USA
 ESPN3 Argentina	Argentina
 ESPN3 Chile	Chile
 ESPN3 Colombia	Bolivia, Colombia, Ecuador, Paraguay, Peru, Uruguay, Venezuela
+ESPN3 Mexico	Mexico
 ESPN4 Argentina	Argentina, Paraguay, Uruguay
 ESPN4 Chile	Chile
 ESPN5 Chile	Chile
@@ -255,6 +259,7 @@ SPOTV Prime+	Korea Republic
 Salom TV	Uzbekistan
 Selekt	Hungary
 ServusTV On	Austria
+Setanta Sports 2	Armenia, Azerbaijan, Belarus, Estonia, Georgia, Kazakhstan, Kyrgyzstan, Latvia, Lithuania, Moldova, Tajikistan, Turkmenistan, Uzbekistan
 Setanta Sports 2 Georgia	Georgia
 Setanta Sports 3 Georgia	Georgia
 Setanta Sports Philippine	Philippines
@@ -375,6 +380,8 @@ Vision+	Indonesia, Papua New Guinea, Timor-leste
 WOWOW Live	Japan
 WOWOW Prime	Japan
 Watania 1	Tunisia
+Watch ESPN	Netherlands
+Watch ESPN Netherlands	Netherlands
 Xsports	Brazil
 ZAP	Andorra, Angola, Cape Verde Islands, Guinea-Bissau, Mozambique, São Tomé and Príncipe
 ZEE5	Afghanistan, Bangladesh, Bhutan, India, Maldives, Nepal, Sri Lanka

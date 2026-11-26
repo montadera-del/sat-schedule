@@ -13278,5 +13278,133 @@
   "status": "unmatched",
   "sat": [],
   "checked": "2026-11-25T22:09:48.094057+00:00"
+ },
+ "ESPN Netherlands": {
+  "status": "sat",
+  "sat": [
+   {
+    "position": "23.5E",
+    "satellite": "Astra 3C",
+    "frequency": 11739,
+    "polarization": "V",
+    "symbol_rate": 29900,
+    "fec": "3/4",
+    "standard": "DVB-S2",
+    "name": "ESPN Netherlands HD",
+    "kos_id": "ESPN HD",
+    "country": "The Netherlands",
+    "package": "Canal Digitaal",
+    "encryption": "Mediaguard 3 / Nagravision 3 / Viaccess 5.0",
+    "free": false,
+    "satellite_ar": "أسترا 23.5"
+   }
+  ],
+  "checked": "2026-11-26T08:26:50.759060+00:00"
+ },
+ "Sport 6": {
+  "status": "sat",
+  "sat": [
+   {
+    "position": "30.0W",
+    "satellite": "Hispasat 30W-5",
+    "frequency": 12360,
+    "polarization": "H",
+    "symbol_rate": 27500,
+    "fec": "3/4",
+    "standard": "DVB-S2",
+    "name": "Sport TV 6 HD",
+    "kos_id": "Sport TV 6 HD",
+    "country": "Portugal",
+    "package": "Meo Nos",
+    "encryption": "Nagravision 3",
+    "free": false,
+    "satellite_ar": "Hispasat 30W-5"
+   }
+  ],
+  "checked": "2026-11-26T08:26:50.763139+00:00"
+ },
+ "ESPN3 Mexico": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-26T08:26:50.762003+00:00"
+ },
+ "ESPN Extra": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-26T08:26:50.761713+00:00"
+ },
+ "Watch ESPN Netherlands": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-26T08:26:50.761408+00:00"
+ },
+ "Nova Sports 2": {
+  "status": "sat",
+  "sat": [
+   {
+    "position": "9.0E",
+    "satellite": "Eutelsat 9B",
+    "frequency": 12053,
+    "polarization": "H",
+    "symbol_rate": 27500,
+    "fec": "2/3",
+    "standard": "DVB-S2",
+    "name": "Nova Sports 2 HD",
+    "kos_id": "Novasports2HD",
+    "country": "Greece",
+    "package": "Cosmote",
+    "encryption": "VideoGuard",
+    "free": false,
+    "satellite_ar": "يوتل 9"
+   },
+   {
+    "position": "13.0E",
+    "satellite": "Hot Bird 13F",
+    "frequency": 12129,
+    "polarization": "H",
+    "symbol_rate": 30000,
+    "fec": "5/6",
+    "standard": "DVB-S2",
+    "name": "Nova Sports 2 HD",
+    "kos_id": "Novasports2HD",
+    "country": "Greece",
+    "package": "Nova",
+    "encryption": "Irdeto 2",
+    "free": false,
+    "satellite_ar": "هوت بيرد"
+   }
+  ],
+  "checked": "2026-11-26T08:26:50.762304+00:00"
+ },
+ "ESPN2 Mexico": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-26T08:27:05.745206+00:00"
+ },
+ "Setanta Sports 2": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-26T08:27:05.745603+00:00"
+ },
+ "ESPN 2 Netherlands": {
+  "status": "sat",
+  "sat": [
+   {
+    "position": "23.5E",
+    "satellite": "Astra 3C",
+    "frequency": 11856,
+    "polarization": "V",
+    "symbol_rate": 29900,
+    "fec": "3/4",
+    "standard": "DVB-S2",
+    "name": "ESPN 2 Netherlands HD",
+    "kos_id": "ESPN 2 HD",
+    "country": "The Netherlands",
+    "package": "Canal Digitaal",
+    "encryption": "Mediaguard 3 / Nagravision 3 / Viaccess 5.0",
+    "free": false
+   }
+  ],
+  "checked": "2026-11-26T08:27:20.731223+00:00"
  }
 }

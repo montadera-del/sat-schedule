@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T01:09:48+03:00",
+ "generated": "2026-11-26T11:27:26+03:00",
  "timezone": "Asia/Baghdad",
  "satellites": [
   {
@@ -15,17 +15,17 @@
   {
    "position": "13.0E",
    "name_ar": "هوت بيرد",
-   "channels": 111
+   "channels": 113
   },
   {
    "position": "19.2E",
    "name_ar": "أسترا 19.2",
-   "channels": 138
+   "channels": 140
   },
   {
    "position": "16.0E",
    "name_ar": "يوتل 16",
-   "channels": 232
+   "channels": 241
   },
   {
    "position": "42.0E",
@@ -35,12 +35,12 @@
   {
    "position": "39.0E",
    "name_ar": "هيلاس سات",
-   "channels": 101
+   "channels": 103
   },
   {
    "position": "9.0E",
    "name_ar": "يوتل 9",
-   "channels": 33
+   "channels": 35
   },
   {
    "position": "28.2E",
@@ -50,7 +50,7 @@
   {
    "position": "23.5E",
    "name_ar": "أسترا 23.5",
-   "channels": 200
+   "channels": 209
   },
   {
    "position": "4.8E",
@@ -60,7 +60,7 @@
   {
    "position": "8.0W",
    "name_ar": "يوتل 8 غرب",
-   "channels": 76
+   "channels": 78
   },
   {
    "position": "68.5E",
@@ -75,12 +75,12 @@
   {
    "position": "52.0E",
    "name_ar": "TurkmenÄlem / MonacoSat",
-   "channels": 12
+   "channels": 13
   },
   {
    "position": "30.0W",
    "name_ar": "Hispasat 30W-5",
-   "channels": 13
+   "channels": 15
   },
   {
    "position": "1.9E",
@@ -95,12 +95,12 @@
   {
    "position": "46.0E",
    "name_ar": "أزر سبيس 46",
-   "channels": 23
+   "channels": 26
   },
   {
    "position": "3.0E",
    "name_ar": "Eutelsat 3B",
-   "channels": 9
+   "channels": 10
   },
   {
    "position": "22.0W",
@@ -120,7 +120,7 @@
   {
    "position": "36.0E",
    "name_ar": "يوتل 36",
-   "channels": 4
+   "channels": 5
   },
   {
    "position": "51.5E",
@@ -130,6 +130,11 @@
   {
    "position": "58.0W",
    "name_ar": "Intelsat 21",
+   "channels": 1
+  },
+  {
+   "position": "3.0W",
+   "name_ar": "ABS-3A",
    "channels": 1
   }
  ],
@@ -256,7 +261,7 @@
   },
   {
    "name_ar": "الدوري الهولندي",
-   "name_en": "",
+   "name_en": "Netherlands - Eredivisie",
    "rank": 24
   },
   {
@@ -20561,6 +20566,313 @@
      ]
     },
     {
+     "competition": "الدوري الهولندي",
+     "competition_en": "Netherlands - Eredivisie",
+     "rank": 24,
+     "matches": [
+      {
+       "id": "5653432",
+       "kickoff": "2026-11-28T20:45:00+03:00",
+       "time_ar": "8:45 م",
+       "venue": "Philips Stadion",
+       "status": "EventScheduled",
+       "broadcast_on": [],
+       "channels": [
+        {
+         "name": "Nova Sports 2",
+         "countries": [
+          "Greece"
+         ],
+         "arab_rights": false,
+         "free": false,
+         "sat": [
+          {
+           "position": "13.0E",
+           "satellite": "Hot Bird 13F",
+           "frequency": 12129,
+           "polarization": "H",
+           "symbol_rate": 30000,
+           "fec": "5/6",
+           "standard": "DVB-S2",
+           "name": "Nova Sports 2 HD",
+           "kos_id": "Novasports2HD",
+           "country": "Greece",
+           "package": "Nova",
+           "encryption": "Irdeto 2",
+           "free": false,
+           "satellite_ar": "هوت بيرد"
+          },
+          {
+           "position": "9.0E",
+           "satellite": "Eutelsat 9B",
+           "frequency": 12053,
+           "polarization": "H",
+           "symbol_rate": 27500,
+           "fec": "2/3",
+           "standard": "DVB-S2",
+           "name": "Nova Sports 2 HD",
+           "kos_id": "Novasports2HD",
+           "country": "Greece",
+           "package": "Cosmote",
+           "encryption": "VideoGuard",
+           "free": false,
+           "satellite_ar": "يوتل 9"
+          }
+         ]
+        },
+        {
+         "name": "Sportdigital FUSSBALL",
+         "countries": [
+          "Germany",
+          "Austria",
+          "Switzerland"
+         ],
+         "arab_rights": false,
+         "free": false,
+         "sat": [
+          {
+           "position": "19.2E",
+           "satellite": "Astra 1P",
+           "frequency": 11185,
+           "polarization": "V",
+           "symbol_rate": 22000,
+           "fec": "2/3",
+           "standard": "DVB-S2",
+           "name": "Sport Digital Fussball HD",
+           "kos_id": "SPORTDIGITAL FUSSBALL HD",
+           "country": "Germany",
+           "package": "Austriasat Boobles HD + Sky Deutschland",
+           "encryption": "Irdeto 2 / Marlin / Nagravision 3 / Viaccess 5.0 / VideoGuard",
+           "free": false,
+           "satellite_ar": "أسترا 19.2"
+          }
+         ]
+        },
+        {
+         "name": "Arena Sport 6",
+         "countries": [
+          "Bosnia and Herzegovina"
+         ],
+         "arab_rights": false,
+         "free": false,
+         "sat": [
+          {
+           "position": "16.0E",
+           "satellite": "Eutelsat 16D",
+           "frequency": 10721,
+           "polarization": "H",
+           "symbol_rate": 30000,
+           "fec": "3/4",
+           "standard": "DVB-S2",
+           "name": "Arena Sport 6 HD",
+           "kos_id": "Arena Sport 6 HD",
+           "country": "Croatia",
+           "package": "Total TV",
+           "encryption": "Irdeto 2 / VideoGuard",
+           "free": false,
+           "satellite_ar": "يوتل 16"
+          },
+          {
+           "position": "16.0E",
+           "satellite": "Eutelsat 16D",
+           "frequency": 11554,
+           "polarization": "V",
+           "symbol_rate": 30000,
+           "fec": "5/6",
+           "standard": "DVB-S2",
+           "name": "Arena Sport 6 HD",
+           "kos_id": "Arena Sport 6 HD",
+           "country": "Croatia",
+           "package": "Total TV",
+           "encryption": "Conax / Irdeto 2 / Nagravision 3 / VideoGuard",
+           "free": false,
+           "satellite_ar": "يوتل 16"
+          },
+          {
+           "position": "23.5E",
+           "satellite": "Astra 3C",
+           "frequency": 12480,
+           "polarization": "V",
+           "symbol_rate": 30000,
+           "fec": "3/4",
+           "standard": "DVB-S2",
+           "name": "Arena Sport 6 HD",
+           "kos_id": "Arena Sport 6 HD",
+           "country": "Croatia",
+           "package": "M:Sat TV",
+           "encryption": "Conax / Nagravision 3",
+           "free": false,
+           "satellite_ar": "أسترا 23.5"
+          }
+         ]
+        },
+        {
+         "name": "Arena Sport 3 Serbia",
+         "countries": [
+          "Macedonia",
+          "Montenegro",
+          "Serbia"
+         ],
+         "arab_rights": false,
+         "free": false,
+         "sat": [
+          {
+           "position": "16.0E",
+           "satellite": "Eutelsat 16D",
+           "frequency": 10721,
+           "polarization": "H",
+           "symbol_rate": 30000,
+           "fec": "3/4",
+           "standard": "DVB-S2",
+           "name": "Arena Sport 3 HD",
+           "kos_id": "Arena Sport 3 HD",
+           "country": "Croatia",
+           "package": "Total TV",
+           "encryption": "Irdeto 2 / VideoGuard",
+           "free": false,
+           "satellite_ar": "يوتل 16"
+          },
+          {
+           "position": "16.0E",
+           "satellite": "Eutelsat 16D",
+           "frequency": 11512,
+           "polarization": "H",
+           "symbol_rate": 30000,
+           "fec": "3/4",
+           "standard": "DVB-S2",
+           "name": "Arena Sport 3 HD",
+           "kos_id": "Arena Sport 3 HD.",
+           "country": "Croatia",
+           "package": "Max TV Total TV",
+           "encryption": "Conax / Irdeto 2 / Nagravision 3 / VideoGuard",
+           "free": false,
+           "satellite_ar": "يوتل 16"
+          },
+          {
+           "position": "23.5E",
+           "satellite": "Astra 3C",
+           "frequency": 12441,
+           "polarization": "V",
+           "symbol_rate": 30000,
+           "fec": "3/4",
+           "standard": "DVB-S2",
+           "name": "Arena Sport 3 HD",
+           "kos_id": "Arena Sport_3 HD",
+           "country": "Croatia",
+           "package": "M:Sat TV",
+           "encryption": "Conax / Nagravision 3",
+           "free": false,
+           "satellite_ar": "أسترا 23.5"
+          },
+          {
+           "position": "23.5E",
+           "satellite": "Astra 3C",
+           "frequency": 12460,
+           "polarization": "H",
+           "symbol_rate": 30000,
+           "fec": "3/4",
+           "standard": "DVB-S2",
+           "name": "Arena Sport 3 HD",
+           "kos_id": "Arena Sport 3 HD",
+           "country": "Croatia",
+           "package": "M:Sat TV",
+           "encryption": "Conax / Nagravision 3",
+           "free": false,
+           "satellite_ar": "أسترا 23.5"
+          }
+         ]
+        },
+        {
+         "name": "ESPN Netherlands",
+         "countries": [
+          "Netherlands"
+         ],
+         "arab_rights": false,
+         "free": false,
+         "sat": [
+          {
+           "position": "23.5E",
+           "satellite": "Astra 3C",
+           "frequency": 11739,
+           "polarization": "V",
+           "symbol_rate": 29900,
+           "fec": "3/4",
+           "standard": "DVB-S2",
+           "name": "ESPN Netherlands HD",
+           "kos_id": "ESPN HD",
+           "country": "The Netherlands",
+           "package": "Canal Digitaal",
+           "encryption": "Mediaguard 3 / Nagravision 3 / Viaccess 5.0",
+           "free": false,
+           "satellite_ar": "أسترا 23.5"
+          }
+         ]
+        },
+        {
+         "name": "ESPN",
+         "countries": [
+          "Netherlands"
+         ],
+         "arab_rights": false,
+         "free": false,
+         "sat": [
+          {
+           "position": "46.0E",
+           "satellite": "Azerspace-1",
+           "frequency": 4180,
+           "polarization": "V",
+           "symbol_rate": 16325,
+           "fec": "3/4",
+           "standard": "DVB-S2",
+           "name": "ESPN",
+           "kos_id": "",
+           "country": "",
+           "package": "Azam Digital",
+           "encryption": "Nagravision 3",
+           "free": false,
+           "satellite_ar": "أزر سبيس 46"
+          }
+         ]
+        },
+        {
+         "name": "Sport 6",
+         "countries": [
+          "Israel"
+         ],
+         "arab_rights": false,
+         "free": false,
+         "sat": [
+          {
+           "position": "30.0W",
+           "satellite": "Hispasat 30W-5",
+           "frequency": 12360,
+           "polarization": "H",
+           "symbol_rate": 27500,
+           "fec": "3/4",
+           "standard": "DVB-S2",
+           "name": "Sport TV 6 HD",
+           "kos_id": "Sport TV 6 HD",
+           "country": "Portugal",
+           "package": "Meo Nos",
+           "encryption": "Nagravision 3",
+           "free": false,
+           "satellite_ar": "Hispasat 30W-5"
+          }
+         ]
+        }
+       ],
+       "source_url": "https://www.livesoccertv.com/match/psv-vs-go-ahead-eagles/6ecrt",
+       "home": "آيندهوفن",
+       "away": "غو أهيد إيغيلز",
+       "home_en": "PSV",
+       "away_en": "Go Ahead Eagles",
+       "home_logo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_1,d_Competitors:default1.png/v7/Competitors/725",
+       "away_logo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_1,d_Competitors:default1.png/v5/Competitors/714",
+       "s365_id": 4734511
+      }
+     ]
+    },
+    {
      "competition": "دوري أبطال أفريقيا",
      "competition_en": "Africa - CAF Champions League",
      "rank": 30,
@@ -22134,380 +22446,6 @@
        "s365_id": 4741982
       },
       {
-       "id": "5661144",
-       "kickoff": "2026-11-29T17:05:00+03:00",
-       "time_ar": "5:05 م",
-       "venue": "Craven Cottage",
-       "status": "EventScheduled",
-       "broadcast_on": [
-        "beIN SPORTS 6"
-       ],
-       "channels": [
-        {
-         "name": "beIN SPORTS 6",
-         "countries": [
-          "Algeria",
-          "Bahrain",
-          "Chad",
-          "Djibouti",
-          "Egypt",
-          "Iran",
-          "Iraq",
-          "Jordan",
-          "Kuwait",
-          "Lebanon",
-          "Libya",
-          "Mauritania",
-          "Morocco",
-          "Oman",
-          "Palestine",
-          "Qatar",
-          "Saudi Arabia",
-          "Somalia",
-          "South Sudan",
-          "Sudan",
-          "Syria",
-          "Tunisia",
-          "United Arab Emirates",
-          "Yemen"
-         ],
-         "arab_rights": true,
-         "free": false,
-         "sat": [
-          {
-           "position": "26.0E",
-           "satellite": "Es'hail 2",
-           "frequency": 11390,
-           "polarization": "V",
-           "symbol_rate": 27500,
-           "fec": "2/3",
-           "standard": "DVB-S2",
-           "name": "beIN Sports 6 HD",
-           "kos_id": "beIN SPORTS 6",
-           "country": "Qatar",
-           "package": "beIN",
-           "encryption": "Irdeto 2 / VideoGuard",
-           "free": false,
-           "satellite_ar": "بدر / سهيل سات"
-          },
-          {
-           "position": "8.0W",
-           "satellite": "Eutelsat 8 West B",
-           "frequency": 11054,
-           "polarization": "H",
-           "symbol_rate": 27500,
-           "fec": "2/3",
-           "standard": "DVB-S2",
-           "name": "beIN Sports 6 HD",
-           "kos_id": "beIN SPORTS 6",
-           "country": "Qatar",
-           "package": "beIN SPORTS",
-           "encryption": "Irdeto 2 / VideoGuard",
-           "free": false,
-           "satellite_ar": "يوتل 8 غرب"
-          }
-         ]
-        },
-        {
-         "name": "Canal+ Sport 6",
-         "countries": [
-          "Czech Republic",
-          "Slovakia"
-         ],
-         "arab_rights": false,
-         "free": false,
-         "sat": [
-          {
-           "position": "13.0E",
-           "satellite": "Hot Bird 13G",
-           "frequency": 11449,
-           "polarization": "H",
-           "symbol_rate": 27500,
-           "fec": "5/6",
-           "standard": "DVB-S2",
-           "name": "CANAL+ SPORT 6",
-           "kos_id": "",
-           "country": "",
-           "package": "Platforma Canal+",
-           "encryption": "Nagravision 3",
-           "free": false,
-           "satellite_ar": "هوت بيرد"
-          }
-         ]
-        },
-        {
-         "name": "Canal+",
-         "countries": [
-          "Poland"
-         ],
-         "arab_rights": false,
-         "free": false,
-         "sat": [
-          {
-           "position": "19.2E",
-           "satellite": "Astra 1P",
-           "frequency": 12012,
-           "polarization": "V",
-           "symbol_rate": 29700,
-           "fec": "2/3",
-           "standard": "DVB-S2",
-           "name": "Canal+",
-           "kos_id": "CANAL+",
-           "country": "France",
-           "package": "Canal+ France",
-           "encryption": "Nagravision 3",
-           "free": false,
-           "satellite_ar": "أسترا 19.2"
-          }
-         ]
-        },
-        {
-         "name": "Canal+ Live 4",
-         "countries": [
-          "France",
-          "Andorra"
-         ],
-         "arab_rights": false,
-         "free": false,
-         "sat": [
-          {
-           "position": "19.2E",
-           "satellite": "Astra 1N",
-           "frequency": 12090,
-           "polarization": "V",
-           "symbol_rate": 29700,
-           "fec": "2/3",
-           "standard": "DVB-S2",
-           "name": "Canal+ Live 4",
-           "kos_id": "CANAL+LIVE 4",
-           "country": "France",
-           "package": "Canal+ France",
-           "encryption": "Nagravision 3",
-           "free": false,
-           "satellite_ar": "أسترا 19.2"
-          }
-         ]
-        },
-        {
-         "name": "Sky Sport 7",
-         "countries": [
-          "Cook Islands",
-          "Fiji",
-          "Kiribati",
-          "Marshall Islands",
-          "Nauru",
-          "New Zealand",
-          "Niue",
-          "Palau",
-          "Samoa",
-          "Solomon Islands",
-          "Tonga",
-          "Tuvalu",
-          "Vanuatu"
-         ],
-         "arab_rights": false,
-         "free": false,
-         "sat": [
-          {
-           "position": "19.2E",
-           "satellite": "Astra 1P",
-           "frequency": 12305,
-           "polarization": "H",
-           "symbol_rate": 27500,
-           "fec": "9/10",
-           "standard": "DVB-S2",
-           "name": "Sky Sport 7 HD Germany",
-           "kos_id": "Sky Sport 7",
-           "country": "Germany",
-           "package": "SKY",
-           "encryption": "VideoGuard",
-           "free": false,
-           "satellite_ar": "أسترا 19.2"
-          }
-         ]
-        },
-        {
-         "name": "Arena Sport 7 Croatia",
-         "countries": [
-          "Croatia"
-         ],
-         "arab_rights": false,
-         "free": false,
-         "sat": [
-          {
-           "position": "16.0E",
-           "satellite": "Eutelsat 16D",
-           "frequency": 11366,
-           "polarization": "V",
-           "symbol_rate": 30000,
-           "fec": "3/4",
-           "standard": "DVB-S2",
-           "name": "Arena Sport 7 HD",
-           "kos_id": "Arena Sport 7 HD",
-           "country": "Croatia",
-           "package": "Total TV",
-           "encryption": "Irdeto 2 / VideoGuard",
-           "free": false,
-           "satellite_ar": "يوتل 16"
-          },
-          {
-           "position": "23.5E",
-           "satellite": "Astra 3C",
-           "frequency": 12304,
-           "polarization": "H",
-           "symbol_rate": 30000,
-           "fec": "3/4",
-           "standard": "DVB-S2",
-           "name": "Arena Sport 7 HD",
-           "kos_id": "Arena Sport_7",
-           "country": "Croatia",
-           "package": "M:Sat TV",
-           "encryption": "Conax / Nagravision 3",
-           "free": false,
-           "satellite_ar": "أسترا 23.5"
-          },
-          {
-           "position": "23.5E",
-           "satellite": "Astra 3C",
-           "frequency": 12480,
-           "polarization": "V",
-           "symbol_rate": 30000,
-           "fec": "3/4",
-           "standard": "DVB-S2",
-           "name": "Arena Sport 7 HD",
-           "kos_id": "Arena Sport 7 HD",
-           "country": "Croatia",
-           "package": "M:Sat TV",
-           "encryption": "Conax / Nagravision 3",
-           "free": false,
-           "satellite_ar": "أسترا 23.5"
-          }
-         ]
-        },
-        {
-         "name": "Arena Sport 1 Serbia",
-         "countries": [
-          "Macedonia",
-          "Montenegro",
-          "Serbia"
-         ],
-         "arab_rights": false,
-         "free": false,
-         "sat": [
-          {
-           "position": "16.0E",
-           "satellite": "Eutelsat 16D",
-           "frequency": 11366,
-           "polarization": "V",
-           "symbol_rate": 30000,
-           "fec": "3/4",
-           "standard": "DVB-S2",
-           "name": "Arena Sport 1 Serbia",
-           "kos_id": "Arena Sport 1 HD",
-           "country": "Serbia",
-           "package": "Total TV",
-           "encryption": "Irdeto 2 / VideoGuard",
-           "free": false,
-           "satellite_ar": "يوتل 16"
-          },
-          {
-           "position": "16.0E",
-           "satellite": "Eutelsat 16D",
-           "frequency": 11678,
-           "polarization": "V",
-           "symbol_rate": 30000,
-           "fec": "3/4",
-           "standard": "DVB-S2",
-           "name": "Arena Sport 1 Serbia",
-           "kos_id": "Arena Sport 1",
-           "country": "Serbia",
-           "package": "Total TV",
-           "encryption": "Irdeto 2 / VideoGuard",
-           "free": false,
-           "satellite_ar": "يوتل 16"
-          }
-         ]
-        },
-        {
-         "name": "Nova Sports 5",
-         "countries": [
-          "Greece"
-         ],
-         "arab_rights": false,
-         "free": false,
-         "sat": [
-          {
-           "position": "9.0E",
-           "satellite": "Eutelsat 9B",
-           "frequency": 11938,
-           "polarization": "H",
-           "symbol_rate": 27500,
-           "fec": "2/3",
-           "standard": "DVB-S2",
-           "name": "Nova Sports 5 HD",
-           "kos_id": "Novasports5HD",
-           "country": "Greece",
-           "package": "Cosmote",
-           "encryption": "VideoGuard",
-           "free": false,
-           "satellite_ar": "يوتل 9"
-          }
-         ]
-        },
-        {
-         "name": "Sky Sports+",
-         "countries": [
-          "Great Britain",
-          "Ireland Republic"
-         ],
-         "arab_rights": false,
-         "free": false,
-         "sat": [
-          {
-           "position": "28.2E",
-           "satellite": "Astra 2F",
-           "frequency": 12148,
-           "polarization": "H",
-           "symbol_rate": 27500,
-           "fec": "2/3",
-           "standard": "DVB-S2",
-           "name": "Sky Sports+",
-           "kos_id": "SkySp+",
-           "country": "United Kingdom",
-           "package": "Sky Digital",
-           "encryption": "VideoGuard",
-           "free": false,
-           "satellite_ar": "أسترا 28"
-          },
-          {
-           "position": "28.2E",
-           "satellite": "Astra 2F",
-           "frequency": 12226,
-           "polarization": "H",
-           "symbol_rate": 27500,
-           "fec": "2/3",
-           "standard": "DVB-S2",
-           "name": "Sky Sports+ HD",
-           "kos_id": "SkySp+ HD",
-           "country": "United Kingdom",
-           "package": "Sky Digital",
-           "encryption": "VideoGuard",
-           "free": false,
-           "satellite_ar": "أسترا 28"
-          }
-         ]
-        }
-       ],
-       "source_url": "https://www.livesoccertv.com/match/fulham-vs-afc-bournemouth/3040y",
-       "home": "فولهام",
-       "away": "بورنموث",
-       "home_en": "Fulham",
-       "away_en": "AFC Bournemouth",
-       "home_logo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_1,d_Competitors:default1.png/v4/Competitors/120",
-       "away_logo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_1,d_Competitors:default1.png/v7/Competitors/50",
-       "s365_id": 4741987
-      },
-      {
        "id": "5661142",
        "kickoff": "2026-11-29T17:05:00+03:00",
        "time_ar": "5:05 م",
@@ -23415,6 +23353,380 @@
        "home_logo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_1,d_Competitors:default1.png/v4/Competitors/38",
        "away_logo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_1,d_Competitors:default1.png/v6/Competitors/116",
        "s365_id": 4741990
+      },
+      {
+       "id": "5661144",
+       "kickoff": "2026-11-29T17:05:00+03:00",
+       "time_ar": "5:05 م",
+       "venue": "Craven Cottage",
+       "status": "EventScheduled",
+       "broadcast_on": [
+        "beIN SPORTS 6"
+       ],
+       "channels": [
+        {
+         "name": "beIN SPORTS 6",
+         "countries": [
+          "Algeria",
+          "Bahrain",
+          "Chad",
+          "Djibouti",
+          "Egypt",
+          "Iran",
+          "Iraq",
+          "Jordan",
+          "Kuwait",
+          "Lebanon",
+          "Libya",
+          "Mauritania",
+          "Morocco",
+          "Oman",
+          "Palestine",
+          "Qatar",
+          "Saudi Arabia",
+          "Somalia",
+          "South Sudan",
+          "Sudan",
+          "Syria",
+          "Tunisia",
+          "United Arab Emirates",
+          "Yemen"
+         ],
+         "arab_rights": true,
+         "free": false,
+         "sat": [
+          {
+           "position": "26.0E",
+           "satellite": "Es'hail 2",
+           "frequency": 11390,
+           "polarization": "V",
+           "symbol_rate": 27500,
+           "fec": "2/3",
+           "standard": "DVB-S2",
+           "name": "beIN Sports 6 HD",
+           "kos_id": "beIN SPORTS 6",
+           "country": "Qatar",
+           "package": "beIN",
+           "encryption": "Irdeto 2 / VideoGuard",
+           "free": false,
+           "satellite_ar": "بدر / سهيل سات"
+          },
+          {
+           "position": "8.0W",
+           "satellite": "Eutelsat 8 West B",
+           "frequency": 11054,
+           "polarization": "H",
+           "symbol_rate": 27500,
+           "fec": "2/3",
+           "standard": "DVB-S2",
+           "name": "beIN Sports 6 HD",
+           "kos_id": "beIN SPORTS 6",
+           "country": "Qatar",
+           "package": "beIN SPORTS",
+           "encryption": "Irdeto 2 / VideoGuard",
+           "free": false,
+           "satellite_ar": "يوتل 8 غرب"
+          }
+         ]
+        },
+        {
+         "name": "Canal+ Sport 6",
+         "countries": [
+          "Czech Republic",
+          "Slovakia"
+         ],
+         "arab_rights": false,
+         "free": false,
+         "sat": [
+          {
+           "position": "13.0E",
+           "satellite": "Hot Bird 13G",
+           "frequency": 11449,
+           "polarization": "H",
+           "symbol_rate": 27500,
+           "fec": "5/6",
+           "standard": "DVB-S2",
+           "name": "CANAL+ SPORT 6",
+           "kos_id": "",
+           "country": "",
+           "package": "Platforma Canal+",
+           "encryption": "Nagravision 3",
+           "free": false,
+           "satellite_ar": "هوت بيرد"
+          }
+         ]
+        },
+        {
+         "name": "Canal+",
+         "countries": [
+          "Poland"
+         ],
+         "arab_rights": false,
+         "free": false,
+         "sat": [
+          {
+           "position": "19.2E",
+           "satellite": "Astra 1P",
+           "frequency": 12012,
+           "polarization": "V",
+           "symbol_rate": 29700,
+           "fec": "2/3",
+           "standard": "DVB-S2",
+           "name": "Canal+",
+           "kos_id": "CANAL+",
+           "country": "France",
+           "package": "Canal+ France",
+           "encryption": "Nagravision 3",
+           "free": false,
+           "satellite_ar": "أسترا 19.2"
+          }
+         ]
+        },
+        {
+         "name": "Canal+ Live 4",
+         "countries": [
+          "France",
+          "Andorra"
+         ],
+         "arab_rights": false,
+         "free": false,
+         "sat": [
+          {
+           "position": "19.2E",
+           "satellite": "Astra 1N",
+           "frequency": 12090,
+           "polarization": "V",
+           "symbol_rate": 29700,
+           "fec": "2/3",
+           "standard": "DVB-S2",
+           "name": "Canal+ Live 4",
+           "kos_id": "CANAL+LIVE 4",
+           "country": "France",
+           "package": "Canal+ France",
+           "encryption": "Nagravision 3",
+           "free": false,
+           "satellite_ar": "أسترا 19.2"
+          }
+         ]
+        },
+        {
+         "name": "Sky Sport 7",
+         "countries": [
+          "Cook Islands",
+          "Fiji",
+          "Kiribati",
+          "Marshall Islands",
+          "Nauru",
+          "New Zealand",
+          "Niue",
+          "Palau",
+          "Samoa",
+          "Solomon Islands",
+          "Tonga",
+          "Tuvalu",
+          "Vanuatu"
+         ],
+         "arab_rights": false,
+         "free": false,
+         "sat": [
+          {
+           "position": "19.2E",
+           "satellite": "Astra 1P",
+           "frequency": 12305,
+           "polarization": "H",
+           "symbol_rate": 27500,
+           "fec": "9/10",
+           "standard": "DVB-S2",
+           "name": "Sky Sport 7 HD Germany",
+           "kos_id": "Sky Sport 7",
+           "country": "Germany",
+           "package": "SKY",
+           "encryption": "VideoGuard",
+           "free": false,
+           "satellite_ar": "أسترا 19.2"
+          }
+         ]
+        },
+        {
+         "name": "Arena Sport 7 Croatia",
+         "countries": [
+          "Croatia"
+         ],
+         "arab_rights": false,
+         "free": false,
+         "sat": [
+          {
+           "position": "16.0E",
+           "satellite": "Eutelsat 16D",
+           "frequency": 11366,
+           "polarization": "V",
+           "symbol_rate": 30000,
+           "fec": "3/4",
+           "standard": "DVB-S2",
+           "name": "Arena Sport 7 HD",
+           "kos_id": "Arena Sport 7 HD",
+           "country": "Croatia",
+           "package": "Total TV",
+           "encryption": "Irdeto 2 / VideoGuard",
+           "free": false,
+           "satellite_ar": "يوتل 16"
+          },
+          {
+           "position": "23.5E",
+           "satellite": "Astra 3C",
+           "frequency": 12304,
+           "polarization": "H",
+           "symbol_rate": 30000,
+           "fec": "3/4",
+           "standard": "DVB-S2",
+           "name": "Arena Sport 7 HD",
+           "kos_id": "Arena Sport_7",
+           "country": "Croatia",
+           "package": "M:Sat TV",
+           "encryption": "Conax / Nagravision 3",
+           "free": false,
+           "satellite_ar": "أسترا 23.5"
+          },
+          {
+           "position": "23.5E",
+           "satellite": "Astra 3C",
+           "frequency": 12480,
+           "polarization": "V",
+           "symbol_rate": 30000,
+           "fec": "3/4",
+           "standard": "DVB-S2",
+           "name": "Arena Sport 7 HD",
+           "kos_id": "Arena Sport 7 HD",
+           "country": "Croatia",
+           "package": "M:Sat TV",
+           "encryption": "Conax / Nagravision 3",
+           "free": false,
+           "satellite_ar": "أسترا 23.5"
+          }
+         ]
+        },
+        {
+         "name": "Arena Sport 1 Serbia",
+         "countries": [
+          "Macedonia",
+          "Montenegro",
+          "Serbia"
+         ],
+         "arab_rights": false,
+         "free": false,
+         "sat": [
+          {
+           "position": "16.0E",
+           "satellite": "Eutelsat 16D",
+           "frequency": 11366,
+           "polarization": "V",
+           "symbol_rate": 30000,
+           "fec": "3/4",
+           "standard": "DVB-S2",
+           "name": "Arena Sport 1 Serbia",
+           "kos_id": "Arena Sport 1 HD",
+           "country": "Serbia",
+           "package": "Total TV",
+           "encryption": "Irdeto 2 / VideoGuard",
+           "free": false,
+           "satellite_ar": "يوتل 16"
+          },
+          {
+           "position": "16.0E",
+           "satellite": "Eutelsat 16D",
+           "frequency": 11678,
+           "polarization": "V",
+           "symbol_rate": 30000,
+           "fec": "3/4",
+           "standard": "DVB-S2",
+           "name": "Arena Sport 1 Serbia",
+           "kos_id": "Arena Sport 1",
+           "country": "Serbia",
+           "package": "Total TV",
+           "encryption": "Irdeto 2 / VideoGuard",
+           "free": false,
+           "satellite_ar": "يوتل 16"
+          }
+         ]
+        },
+        {
+         "name": "Nova Sports 5",
+         "countries": [
+          "Greece"
+         ],
+         "arab_rights": false,
+         "free": false,
+         "sat": [
+          {
+           "position": "9.0E",
+           "satellite": "Eutelsat 9B",
+           "frequency": 11938,
+           "polarization": "H",
+           "symbol_rate": 27500,
+           "fec": "2/3",
+           "standard": "DVB-S2",
+           "name": "Nova Sports 5 HD",
+           "kos_id": "Novasports5HD",
+           "country": "Greece",
+           "package": "Cosmote",
+           "encryption": "VideoGuard",
+           "free": false,
+           "satellite_ar": "يوتل 9"
+          }
+         ]
+        },
+        {
+         "name": "Sky Sports+",
+         "countries": [
+          "Great Britain",
+          "Ireland Republic"
+         ],
+         "arab_rights": false,
+         "free": false,
+         "sat": [
+          {
+           "position": "28.2E",
+           "satellite": "Astra 2F",
+           "frequency": 12148,
+           "polarization": "H",
+           "symbol_rate": 27500,
+           "fec": "2/3",
+           "standard": "DVB-S2",
+           "name": "Sky Sports+",
+           "kos_id": "SkySp+",
+           "country": "United Kingdom",
+           "package": "Sky Digital",
+           "encryption": "VideoGuard",
+           "free": false,
+           "satellite_ar": "أسترا 28"
+          },
+          {
+           "position": "28.2E",
+           "satellite": "Astra 2F",
+           "frequency": 12226,
+           "polarization": "H",
+           "symbol_rate": 27500,
+           "fec": "2/3",
+           "standard": "DVB-S2",
+           "name": "Sky Sports+ HD",
+           "kos_id": "SkySp+ HD",
+           "country": "United Kingdom",
+           "package": "Sky Digital",
+           "encryption": "VideoGuard",
+           "free": false,
+           "satellite_ar": "أسترا 28"
+          }
+         ]
+        }
+       ],
+       "source_url": "https://www.livesoccertv.com/match/fulham-vs-afc-bournemouth/3040y",
+       "home": "فولهام",
+       "away": "بورنموث",
+       "home_en": "Fulham",
+       "away_en": "AFC Bournemouth",
+       "home_logo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_1,d_Competitors:default1.png/v4/Competitors/120",
+       "away_logo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_1,d_Competitors:default1.png/v7/Competitors/50",
+       "s365_id": 4741987
       },
       {
        "id": "5661140",
@@ -29899,6 +30211,646 @@
      ]
     },
     {
+     "competition": "الدوري الهولندي",
+     "competition_en": "Netherlands - Eredivisie",
+     "rank": 24,
+     "matches": [
+      {
+       "id": "5653429",
+       "kickoff": "2026-11-29T16:30:00+03:00",
+       "time_ar": "4:30 م",
+       "venue": "De Kuip",
+       "status": "EventScheduled",
+       "broadcast_on": [
+        "DStv Now"
+       ],
+       "channels": [
+        {
+         "name": "Sportdigital FUSSBALL",
+         "countries": [
+          "Germany",
+          "Austria",
+          "Switzerland"
+         ],
+         "arab_rights": false,
+         "free": false,
+         "sat": [
+          {
+           "position": "19.2E",
+           "satellite": "Astra 1P",
+           "frequency": 11185,
+           "polarization": "V",
+           "symbol_rate": 22000,
+           "fec": "2/3",
+           "standard": "DVB-S2",
+           "name": "Sport Digital Fussball HD",
+           "kos_id": "SPORTDIGITAL FUSSBALL HD",
+           "country": "Germany",
+           "package": "Austriasat Boobles HD + Sky Deutschland",
+           "encryption": "Irdeto 2 / Marlin / Nagravision 3 / Viaccess 5.0 / VideoGuard",
+           "free": false,
+           "satellite_ar": "أسترا 19.2"
+          }
+         ]
+        },
+        {
+         "name": "Arena Sport 2",
+         "countries": [
+          "Bosnia and Herzegovina"
+         ],
+         "arab_rights": false,
+         "free": false,
+         "sat": [
+          {
+           "position": "16.0E",
+           "satellite": "Eutelsat 16D",
+           "frequency": 11429,
+           "polarization": "V",
+           "symbol_rate": 28330,
+           "fec": "3/5",
+           "standard": "DVB-S2",
+           "name": "Arena Sport 2 HD",
+           "kos_id": "Arena Sport 2 HD",
+           "country": "Croatia",
+           "package": "Total TV",
+           "encryption": "Irdeto 2 / VideoGuard",
+           "free": false,
+           "satellite_ar": "يوتل 16"
+          },
+          {
+           "position": "16.0E",
+           "satellite": "Eutelsat 16D",
+           "frequency": 11471,
+           "polarization": "V",
+           "symbol_rate": 30000,
+           "fec": "5/6",
+           "standard": "DVB-S2",
+           "name": "Arena Sport 2",
+           "kos_id": "Arena Sport 2",
+           "country": "Slovakia",
+           "package": "Antik",
+           "encryption": "Conax",
+           "free": false,
+           "satellite_ar": "يوتل 16"
+          },
+          {
+           "position": "16.0E",
+           "satellite": "Eutelsat 16D",
+           "frequency": 11554,
+           "polarization": "V",
+           "symbol_rate": 30000,
+           "fec": "5/6",
+           "standard": "DVB-S2",
+           "name": "Arena Sport 2 HD",
+           "kos_id": "Arena Sport 2 HD",
+           "country": "Croatia",
+           "package": "Total TV",
+           "encryption": "Conax / Irdeto 2 / Nagravision 3 / VideoGuard",
+           "free": false,
+           "satellite_ar": "يوتل 16"
+          },
+          {
+           "position": "23.5E",
+           "satellite": "Astra 3C",
+           "frequency": 12460,
+           "polarization": "H",
+           "symbol_rate": 30000,
+           "fec": "3/4",
+           "standard": "DVB-S2",
+           "name": "Arena Sport 2 HD",
+           "kos_id": "Arena Sport 2 HD",
+           "country": "Croatia",
+           "package": "M:Sat TV",
+           "encryption": "Conax / Nagravision 3",
+           "free": false,
+           "satellite_ar": "أسترا 23.5"
+          }
+         ]
+        },
+        {
+         "name": "Arena 5 Premium",
+         "countries": [
+          "Kosovo",
+          "Macedonia",
+          "Montenegro",
+          "Serbia"
+         ],
+         "arab_rights": false,
+         "free": false,
+         "sat": [
+          {
+           "position": "16.0E",
+           "satellite": "Eutelsat 16D",
+           "frequency": 11429,
+           "polarization": "V",
+           "symbol_rate": 28330,
+           "fec": "3/5",
+           "standard": "DVB-S2",
+           "name": "Arena Premium 5 HD",
+           "kos_id": "Arena Premium 5 HD",
+           "country": "Serbia",
+           "package": "Total TV",
+           "encryption": "Irdeto 2 / VideoGuard",
+           "free": false,
+           "satellite_ar": "يوتل 16"
+          },
+          {
+           "position": "16.0E",
+           "satellite": "Eutelsat 16D",
+           "frequency": 11554,
+           "polarization": "H",
+           "symbol_rate": 30000,
+           "fec": "3/4",
+           "standard": "DVB-S2",
+           "name": "Arena Premium 5 HD",
+           "kos_id": "Arena Premium 5",
+           "country": "Serbia",
+           "package": "Total TV",
+           "encryption": "Irdeto 2 / VideoGuard",
+           "free": false,
+           "satellite_ar": "يوتل 16"
+          },
+          {
+           "position": "23.5E",
+           "satellite": "Astra 3C",
+           "frequency": 12246,
+           "polarization": "V",
+           "symbol_rate": 30000,
+           "fec": "3/4",
+           "standard": "DVB-S2",
+           "name": "Arena Premium 5 HD",
+           "kos_id": "Arena Premium_5",
+           "country": "Serbia",
+           "package": "M:Sat TV",
+           "encryption": "Conax / Nagravision 3",
+           "free": false,
+           "satellite_ar": "أسترا 23.5"
+          },
+          {
+           "position": "23.5E",
+           "satellite": "Astra 3C",
+           "frequency": 12304,
+           "polarization": "H",
+           "symbol_rate": 30000,
+           "fec": "3/4",
+           "standard": "DVB-S2",
+           "name": "Arena Premium 5 HD",
+           "kos_id": "Arena Premium 5 HD",
+           "country": "Serbia",
+           "package": "M:Sat TV",
+           "encryption": "Conax / Nagravision 3",
+           "free": false,
+           "satellite_ar": "أسترا 23.5"
+          }
+         ]
+        },
+        {
+         "name": "Prima Sport 4",
+         "countries": [
+          "Romania"
+         ],
+         "arab_rights": false,
+         "free": false,
+         "sat": [
+          {
+           "position": "39.0E",
+           "satellite": "Hellas Sat 3",
+           "frequency": 12290,
+           "polarization": "V",
+           "symbol_rate": 30000,
+           "fec": "3/4",
+           "standard": "DVB-S2",
+           "name": "Prima Sport 4 HD",
+           "kos_id": "Prima Sport 4 HD",
+           "country": "Romania",
+           "package": "Orange Romania",
+           "encryption": "Viaccess 5.0 / VideoGuard",
+           "free": false,
+           "satellite_ar": "هيلاس سات"
+          },
+          {
+           "position": "39.0E",
+           "satellite": "Hellas Sat 3",
+           "frequency": 12405,
+           "polarization": "V",
+           "symbol_rate": 30000,
+           "fec": "7/8",
+           "standard": "DVB-S",
+           "name": "Prima Sport 4",
+           "kos_id": "Prima Sport 4",
+           "country": "Romania",
+           "package": "Orange Romania",
+           "encryption": "Viaccess 5.0 / VideoGuard",
+           "free": false,
+           "satellite_ar": "هيلاس سات"
+          }
+         ]
+        },
+        {
+         "name": "ESPN Netherlands",
+         "countries": [
+          "Netherlands"
+         ],
+         "arab_rights": false,
+         "free": false,
+         "sat": [
+          {
+           "position": "23.5E",
+           "satellite": "Astra 3C",
+           "frequency": 11739,
+           "polarization": "V",
+           "symbol_rate": 29900,
+           "fec": "3/4",
+           "standard": "DVB-S2",
+           "name": "ESPN Netherlands HD",
+           "kos_id": "ESPN HD",
+           "country": "The Netherlands",
+           "package": "Canal Digitaal",
+           "encryption": "Mediaguard 3 / Nagravision 3 / Viaccess 5.0",
+           "free": false,
+           "satellite_ar": "أسترا 23.5"
+          }
+         ]
+        },
+        {
+         "name": "ESPN Africa",
+         "countries": [
+          "Angola",
+          "Benin",
+          "Botswana",
+          "Burkina Faso",
+          "Burundi",
+          "Cameroon",
+          "Central African Republic",
+          "Congo DR",
+          "Côte d'Ivoire",
+          "Equatorial Guinea",
+          "Eritrea",
+          "Ethiopia",
+          "Gabon",
+          "Gambia",
+          "Ghana",
+          "Guinea",
+          "Guinea-Bissau",
+          "Kenya",
+          "Lesotho",
+          "Liberia",
+          "Madagascar",
+          "Malawi",
+          "Mali",
+          "Mauritius",
+          "Mayotte",
+          "Mozambique",
+          "Namibia",
+          "Niger",
+          "Nigeria",
+          "Reunion",
+          "Rwanda",
+          "Saint Helena",
+          "Senegal",
+          "Seychelles",
+          "Sierra Leone",
+          "South Africa",
+          "Swaziland",
+          "São Tomé and Príncipe",
+          "Tanzania",
+          "Togo",
+          "Uganda",
+          "Zambia",
+          "Zimbabwe"
+         ],
+         "arab_rights": false,
+         "free": false,
+         "sat": [
+          {
+           "position": "8.0W",
+           "satellite": "Eutelsat 8 West B",
+           "frequency": 3925,
+           "polarization": "R",
+           "symbol_rate": 30000,
+           "fec": "5/6",
+           "standard": "DVB-S2",
+           "name": "ESPN Africa",
+           "kos_id": "ESPN Africa",
+           "country": "South Africa",
+           "package": "Vivacom",
+           "encryption": "Irdeto 2",
+           "free": false,
+           "satellite_ar": "يوتل 8 غرب"
+          }
+         ]
+        },
+        {
+         "name": "ESPN",
+         "countries": [
+          "Netherlands"
+         ],
+         "arab_rights": false,
+         "free": false,
+         "sat": [
+          {
+           "position": "46.0E",
+           "satellite": "Azerspace-1",
+           "frequency": 4180,
+           "polarization": "V",
+           "symbol_rate": 16325,
+           "fec": "3/4",
+           "standard": "DVB-S2",
+           "name": "ESPN",
+           "kos_id": "",
+           "country": "",
+           "package": "Azam Digital",
+           "encryption": "Nagravision 3",
+           "free": false,
+           "satellite_ar": "أزر سبيس 46"
+          }
+         ]
+        },
+        {
+         "name": "Sport 4",
+         "countries": [
+          "Israel"
+         ],
+         "arab_rights": false,
+         "free": false,
+         "sat": [
+          {
+           "position": "52.0E",
+           "satellite": "TurkmenÄlem / MonacoSat",
+           "frequency": 10845,
+           "polarization": "H",
+           "symbol_rate": 30000,
+           "fec": "8/9",
+           "standard": "DVB-S2",
+           "name": "Sport-4",
+           "kos_id": "SPORT 4",
+           "country": "Kazakhstan",
+           "package": "Älem TV",
+           "encryption": "Conax / Cryptoguard",
+           "free": false,
+           "satellite_ar": "TurkmenÄlem / MonacoSat"
+          },
+          {
+           "position": "30.0W",
+           "satellite": "Hispasat 30W-5",
+           "frequency": 12360,
+           "polarization": "H",
+           "symbol_rate": 27500,
+           "fec": "3/4",
+           "standard": "DVB-S2",
+           "name": "Sport TV 4",
+           "kos_id": "Sport TV 4 HD",
+           "country": "Portugal",
+           "package": "Nos",
+           "encryption": "Nagravision 3",
+           "free": false,
+           "satellite_ar": "Hispasat 30W-5"
+          }
+         ]
+        }
+       ],
+       "source_url": "https://www.livesoccertv.com/match/ajax-vs-feyenoord/1iclk",
+       "home": "فاينورد",
+       "away": "أياكس",
+       "home_en": "Feyenoord",
+       "away_en": "Ajax",
+       "home_logo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_1,d_Competitors:default1.png/v6/Competitors/691",
+       "away_logo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_1,d_Competitors:default1.png/v8/Competitors/690",
+       "s365_id": 4734515
+      },
+      {
+       "id": "5653434",
+       "kickoff": "2026-11-29T18:45:00+03:00",
+       "time_ar": "6:45 م",
+       "venue": "MAC³PARK Stadion (Zwolle)",
+       "status": "EventScheduled",
+       "broadcast_on": [
+        "DStv Now"
+       ],
+       "channels": [
+        {
+         "name": "ESPN 2",
+         "countries": [
+          "Netherlands"
+         ],
+         "arab_rights": false,
+         "free": true,
+         "sat": [
+          {
+           "position": "3.0E",
+           "satellite": "Eutelsat 3B",
+           "frequency": 4063,
+           "polarization": "L",
+           "symbol_rate": 33900,
+           "fec": "2/3",
+           "standard": "DVB-S2",
+           "name": "ESPN 2",
+           "kos_id": "",
+           "country": "",
+           "package": "Harmonic",
+           "encryption": "Clear",
+           "free": true,
+           "satellite_ar": "Eutelsat 3B"
+          },
+          {
+           "position": "3.0W",
+           "satellite": "ABS-3A",
+           "frequency": 4157,
+           "polarization": "H",
+           "symbol_rate": 45000,
+           "fec": "4/5",
+           "standard": "DVB-S2",
+           "name": "ESPN 2",
+           "kos_id": "ESPN_2_ABS3",
+           "country": "U.S.A.",
+           "package": "CruiseSat",
+           "encryption": "Xcrypt",
+           "free": false,
+           "satellite_ar": "ABS-3A"
+          },
+          {
+           "position": "46.0E",
+           "satellite": "Azerspace-1",
+           "frequency": 4180,
+           "polarization": "V",
+           "symbol_rate": 16325,
+           "fec": "3/4",
+           "standard": "DVB-S2",
+           "name": "ESPN 2",
+           "kos_id": "",
+           "country": "",
+           "package": "Azam Digital",
+           "encryption": "Nagravision 3",
+           "free": false,
+           "satellite_ar": "أزر سبيس 46"
+          },
+          {
+           "position": "36.0E",
+           "satellite": "Express AMU1",
+           "frequency": 12092,
+           "polarization": "H",
+           "symbol_rate": 27500,
+           "fec": "2/3",
+           "standard": "DVB-S2",
+           "name": "ESPN 2 HD",
+           "kos_id": "",
+           "country": "",
+           "package": "MCK",
+           "encryption": "Irdeto 2",
+           "free": false,
+           "satellite_ar": "يوتل 36"
+          }
+         ]
+        },
+        {
+         "name": "Nova Sports 2",
+         "countries": [
+          "Greece"
+         ],
+         "arab_rights": false,
+         "free": false,
+         "sat": [
+          {
+           "position": "13.0E",
+           "satellite": "Hot Bird 13F",
+           "frequency": 12129,
+           "polarization": "H",
+           "symbol_rate": 30000,
+           "fec": "5/6",
+           "standard": "DVB-S2",
+           "name": "Nova Sports 2 HD",
+           "kos_id": "Novasports2HD",
+           "country": "Greece",
+           "package": "Nova",
+           "encryption": "Irdeto 2",
+           "free": false,
+           "satellite_ar": "هوت بيرد"
+          },
+          {
+           "position": "9.0E",
+           "satellite": "Eutelsat 9B",
+           "frequency": 12053,
+           "polarization": "H",
+           "symbol_rate": 27500,
+           "fec": "2/3",
+           "standard": "DVB-S2",
+           "name": "Nova Sports 2 HD",
+           "kos_id": "Novasports2HD",
+           "country": "Greece",
+           "package": "Cosmote",
+           "encryption": "VideoGuard",
+           "free": false,
+           "satellite_ar": "يوتل 9"
+          }
+         ]
+        },
+        {
+         "name": "ESPN 2 Netherlands",
+         "countries": [
+          "Netherlands"
+         ],
+         "arab_rights": false,
+         "free": false,
+         "sat": [
+          {
+           "position": "23.5E",
+           "satellite": "Astra 3C",
+           "frequency": 11856,
+           "polarization": "V",
+           "symbol_rate": 29900,
+           "fec": "3/4",
+           "standard": "DVB-S2",
+           "name": "ESPN 2 Netherlands HD",
+           "kos_id": "ESPN 2 HD",
+           "country": "The Netherlands",
+           "package": "Canal Digitaal",
+           "encryption": "Mediaguard 3 / Nagravision 3 / Viaccess 5.0",
+           "free": false,
+           "satellite_ar": "أسترا 23.5"
+          }
+         ]
+        },
+        {
+         "name": "ESPN Africa",
+         "countries": [
+          "Angola",
+          "Benin",
+          "Botswana",
+          "Burkina Faso",
+          "Burundi",
+          "Cameroon",
+          "Central African Republic",
+          "Congo DR",
+          "Côte d'Ivoire",
+          "Equatorial Guinea",
+          "Eritrea",
+          "Ethiopia",
+          "Gabon",
+          "Gambia",
+          "Ghana",
+          "Guinea",
+          "Guinea-Bissau",
+          "Kenya",
+          "Lesotho",
+          "Liberia",
+          "Madagascar",
+          "Malawi",
+          "Mali",
+          "Mauritius",
+          "Mayotte",
+          "Mozambique",
+          "Namibia",
+          "Niger",
+          "Nigeria",
+          "Reunion",
+          "Rwanda",
+          "Saint Helena",
+          "Senegal",
+          "Seychelles",
+          "Sierra Leone",
+          "South Africa",
+          "Swaziland",
+          "São Tomé and Príncipe",
+          "Tanzania",
+          "Togo",
+          "Uganda",
+          "Zambia",
+          "Zimbabwe"
+         ],
+         "arab_rights": false,
+         "free": false,
+         "sat": [
+          {
+           "position": "8.0W",
+           "satellite": "Eutelsat 8 West B",
+           "frequency": 3925,
+           "polarization": "R",
+           "symbol_rate": 30000,
+           "fec": "5/6",
+           "standard": "DVB-S2",
+           "name": "ESPN Africa",
+           "kos_id": "ESPN Africa",
+           "country": "South Africa",
+           "package": "Vivacom",
+           "encryption": "Irdeto 2",
+           "free": false,
+           "satellite_ar": "يوتل 8 غرب"
+          }
+         ]
+        }
+       ],
+       "source_url": "https://www.livesoccertv.com/match/az-vs-pec-zwolle/6cv7a",
+       "home": "زفولي",
+       "away": "ألكمار",
+       "home_en": "PEC Zwolle",
+       "away_en": "AZ",
+       "home_logo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_1,d_Competitors:default1.png/v1/Competitors/710",
+       "away_logo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_1,d_Competitors:default1.png/v5/Competitors/699",
+       "s365_id": 4734512
+      }
+     ]
+    },
+    {
      "competition": "الدوري التركي",
      "competition_en": "Turkey - Super Lig",
      "rank": 25,
@@ -32167,44 +33119,24 @@
      "rank": 1,
      "matches": [
       {
-       "id": "5661153",
+       "id": "5661157",
        "kickoff": "2026-12-02T22:30:00+03:00",
        "time_ar": "10:30 م",
-       "venue": "Stamford Bridge",
+       "venue": "Etihad Stadium",
        "status": "EventScheduled",
        "broadcast_on": [
         "beIN SPORTS CONNECT Arabia",
         "beIN SPORTS CONNECT"
        ],
        "channels": [],
-       "source_url": "https://www.livesoccertv.com/match/chelsea-vs-crystal-palace/1dq2f",
-       "home": "تشيلسي",
-       "away": "كريستال بالاس",
-       "home_en": "Chelsea",
-       "away_en": "Crystal Palace",
-       "home_logo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_1,d_Competitors:default1.png/v4/Competitors/106",
-       "away_logo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_1,d_Competitors:default1.png/v3/Competitors/10",
-       "s365_id": 4741978
-      },
-      {
-       "id": "5661155",
-       "kickoff": "2026-12-02T22:30:00+03:00",
-       "time_ar": "10:30 م",
-       "venue": "MKM Stadium",
-       "status": "EventScheduled",
-       "broadcast_on": [
-        "beIN SPORTS CONNECT Arabia",
-        "beIN SPORTS CONNECT"
-       ],
-       "channels": [],
-       "source_url": "https://www.livesoccertv.com/match/hull-city-vs-nottingham-forest/1e6q7",
-       "home": "هال سيتي",
-       "away": "نوتنجهام فورست",
-       "home_en": "Hull City",
-       "away_en": "Nottingham Forest",
-       "home_logo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_1,d_Competitors:default1.png/v5/Competitors/11",
-       "away_logo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_1,d_Competitors:default1.png/v7/Competitors/29",
-       "s365_id": 4741976
+       "source_url": "https://www.livesoccertv.com/match/manchester-city-vs-leeds-united/274am",
+       "home": "مانشستر سيتي",
+       "away": "ليدز يونايتد",
+       "home_en": "Manchester City",
+       "away_en": "Leeds United",
+       "home_logo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_1,d_Competitors:default1.png/v3/Competitors/110",
+       "away_logo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_1,d_Competitors:default1.png/v6/Competitors/36",
+       "s365_id": 4741974
       },
       {
        "id": "5661156",
@@ -32228,45 +33160,84 @@
        "s365_id": 4741975
       },
       {
-       "id": "5661157",
+       "id": "5661155",
        "kickoff": "2026-12-02T22:30:00+03:00",
        "time_ar": "10:30 م",
-       "venue": "Etihad Stadium",
+       "venue": "MKM Stadium",
        "status": "EventScheduled",
        "broadcast_on": [
         "beIN SPORTS CONNECT Arabia",
         "beIN SPORTS CONNECT"
        ],
        "channels": [],
-       "source_url": "https://www.livesoccertv.com/match/manchester-city-vs-leeds-united/274am",
-       "home": "مانشستر سيتي",
-       "away": "ليدز يونايتد",
-       "home_en": "Manchester City",
-       "away_en": "Leeds United",
-       "home_logo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_1,d_Competitors:default1.png/v3/Competitors/110",
-       "away_logo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_1,d_Competitors:default1.png/v6/Competitors/36",
-       "s365_id": 4741974
+       "source_url": "https://www.livesoccertv.com/match/hull-city-vs-nottingham-forest/1e6q7",
+       "home": "هال سيتي",
+       "away": "نوتنجهام فورست",
+       "home_en": "Hull City",
+       "away_en": "Nottingham Forest",
+       "home_logo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_1,d_Competitors:default1.png/v5/Competitors/11",
+       "away_logo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_1,d_Competitors:default1.png/v7/Competitors/29",
+       "s365_id": 4741976
       },
       {
-       "id": "5661158",
-       "kickoff": "2026-12-02T23:15:00+03:00",
-       "time_ar": "11:15 م",
-       "venue": "",
-       "status": "",
+       "id": "5661153",
+       "kickoff": "2026-12-02T22:30:00+03:00",
+       "time_ar": "10:30 م",
+       "venue": "Stamford Bridge",
+       "status": "EventScheduled",
        "broadcast_on": [
-        "SuperSport MaXimo 1",
-        "DStv Now",
-        "SuperSport Action Africa"
+        "beIN SPORTS CONNECT Arabia",
+        "beIN SPORTS CONNECT"
        ],
        "channels": [],
-       "source_url": "https://www.livesoccertv.com/match/manchester-united-vs-newcastle-united/1ea2f",
-       "home": "نيوكاسل يونايتد",
-       "away": "مانشستر يونايتد",
-       "home_en": "Newcastle United",
-       "away_en": "Manchester United",
-       "home_logo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_1,d_Competitors:default1.png/v6/Competitors/116",
-       "away_logo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_1,d_Competitors:default1.png/v3/Competitors/105",
-       "s365_id": 4741973
+       "source_url": "https://www.livesoccertv.com/match/chelsea-vs-crystal-palace/1dq2f",
+       "home": "تشيلسي",
+       "away": "كريستال بالاس",
+       "home_en": "Chelsea",
+       "away_en": "Crystal Palace",
+       "home_logo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_1,d_Competitors:default1.png/v4/Competitors/106",
+       "away_logo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_1,d_Competitors:default1.png/v3/Competitors/10",
+       "s365_id": 4741978
+      },
+      {
+       "id": "5661150",
+       "kickoff": "2026-12-02T23:15:00+03:00",
+       "time_ar": "11:15 م",
+       "venue": "Villa Park",
+       "status": "EventScheduled",
+       "broadcast_on": [
+        "DStv Now",
+        "SuperSport GOtv Football"
+       ],
+       "channels": [],
+       "source_url": "https://www.livesoccertv.com/match/aston-villa-vs-everton/17c8f",
+       "home": "أستون فيلا",
+       "away": "إيفرتون",
+       "home_en": "Aston Villa",
+       "away_en": "Everton",
+       "home_logo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_1,d_Competitors:default1.png/v6/Competitors/109",
+       "away_logo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_1,d_Competitors:default1.png/v3/Competitors/107",
+       "s365_id": 4741980
+      },
+      {
+       "id": "5661151",
+       "kickoff": "2026-12-02T23:15:00+03:00",
+       "time_ar": "11:15 م",
+       "venue": "Vitality Stadium",
+       "status": "EventScheduled",
+       "broadcast_on": [
+        "beIN SPORTS CONNECT Arabia",
+        "beIN SPORTS CONNECT"
+       ],
+       "channels": [],
+       "source_url": "https://www.livesoccertv.com/match/brighton-hove-albion-vs-afc-bournemouth/4fufx",
+       "home": "بورنموث",
+       "away": "برايتون",
+       "home_en": "AFC Bournemouth",
+       "away_en": "Brighton & Hove Albion",
+       "home_logo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_1,d_Competitors:default1.png/v7/Competitors/50",
+       "away_logo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_1,d_Competitors:default1.png/v4/Competitors/38",
+       "s365_id": 4741981
       },
       {
        "id": "5661152",
@@ -32290,44 +33261,25 @@
        "s365_id": 4741979
       },
       {
-       "id": "5661151",
+       "id": "5661158",
        "kickoff": "2026-12-02T23:15:00+03:00",
        "time_ar": "11:15 م",
-       "venue": "Vitality Stadium",
-       "status": "EventScheduled",
+       "venue": "",
+       "status": "",
        "broadcast_on": [
-        "beIN SPORTS CONNECT Arabia",
-        "beIN SPORTS CONNECT"
-       ],
-       "channels": [],
-       "source_url": "https://www.livesoccertv.com/match/brighton-hove-albion-vs-afc-bournemouth/4fufx",
-       "home": "بورنموث",
-       "away": "برايتون",
-       "home_en": "AFC Bournemouth",
-       "away_en": "Brighton & Hove Albion",
-       "home_logo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_1,d_Competitors:default1.png/v7/Competitors/50",
-       "away_logo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_1,d_Competitors:default1.png/v4/Competitors/38",
-       "s365_id": 4741981
-      },
-      {
-       "id": "5661150",
-       "kickoff": "2026-12-02T23:15:00+03:00",
-       "time_ar": "11:15 م",
-       "venue": "Villa Park",
-       "status": "EventScheduled",
-       "broadcast_on": [
+        "SuperSport MaXimo 1",
         "DStv Now",
-        "SuperSport GOtv Football"
+        "SuperSport Action Africa"
        ],
        "channels": [],
-       "source_url": "https://www.livesoccertv.com/match/aston-villa-vs-everton/17c8f",
-       "home": "أستون فيلا",
-       "away": "إيفرتون",
-       "home_en": "Aston Villa",
-       "away_en": "Everton",
-       "home_logo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_1,d_Competitors:default1.png/v6/Competitors/109",
-       "away_logo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_1,d_Competitors:default1.png/v3/Competitors/107",
-       "s365_id": 4741980
+       "source_url": "https://www.livesoccertv.com/match/manchester-united-vs-newcastle-united/1ea2f",
+       "home": "نيوكاسل يونايتد",
+       "away": "مانشستر يونايتد",
+       "home_en": "Newcastle United",
+       "away_en": "Manchester United",
+       "home_logo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_1,d_Competitors:default1.png/v6/Competitors/116",
+       "away_logo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_1,d_Competitors:default1.png/v3/Competitors/105",
+       "s365_id": 4741973
       }
      ]
     },
