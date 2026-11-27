@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T00:54:50+03:00",
+ "generated": "2026-11-27T10:56:15+03:00",
  "timezone": "Asia/Baghdad",
  "satellites": [
   {
@@ -10,37 +10,37 @@
   {
    "position": "26.0E",
    "name_ar": "بدر / سهيل سات",
-   "channels": 76
+   "channels": 90
   },
   {
    "position": "13.0E",
    "name_ar": "هوت بيرد",
-   "channels": 79
+   "channels": 104
   },
   {
    "position": "19.2E",
    "name_ar": "أسترا 19.2",
-   "channels": 86
+   "channels": 122
   },
   {
    "position": "16.0E",
    "name_ar": "يوتل 16",
-   "channels": 173
+   "channels": 192
   },
   {
    "position": "42.0E",
    "name_ar": "ترك سات",
-   "channels": 11
+   "channels": 10
   },
   {
    "position": "39.0E",
    "name_ar": "هيلاس سات",
-   "channels": 94
+   "channels": 113
   },
   {
    "position": "9.0E",
    "name_ar": "يوتل 9",
-   "channels": 21
+   "channels": 23
   },
   {
    "position": "28.2E",
@@ -50,7 +50,17 @@
   {
    "position": "23.5E",
    "name_ar": "أسترا 23.5",
-   "channels": 157
+   "channels": 172
+  },
+  {
+   "position": "8.0W",
+   "name_ar": "يوتل 8 غرب",
+   "channels": 71
+  },
+  {
+   "position": "0.8W",
+   "name_ar": "ثور",
+   "channels": 130
   },
   {
    "position": "46.0E",
@@ -60,12 +70,7 @@
   {
    "position": "52.0E",
    "name_ar": "TurkmenÄlem / MonacoSat",
-   "channels": 22
-  },
-  {
-   "position": "8.0W",
-   "name_ar": "يوتل 8 غرب",
-   "channels": 59
+   "channels": 25
   },
   {
    "position": "68.5E",
@@ -90,7 +95,7 @@
   {
    "position": "4.8E",
    "name_ar": "أسترا 4.8",
-   "channels": 29
+   "channels": 39
   },
   {
    "position": "17.0E",
@@ -100,7 +105,7 @@
   {
    "position": "30.0W",
    "name_ar": "Hispasat 30W-5",
-   "channels": 21
+   "channels": 24
   },
   {
    "position": "15.0W",
@@ -111,11 +116,6 @@
    "position": "36.0E",
    "name_ar": "يوتل 36",
    "channels": 5
-  },
-  {
-   "position": "0.8W",
-   "name_ar": "ثور",
-   "channels": 116
   },
   {
    "position": "55.5W",
@@ -246,7 +246,7 @@
   },
   {
    "name_ar": "كأس ألمانيا",
-   "name_en": "",
+   "name_en": "Germany - DFB Pokal",
    "rank": 20
   },
   {
@@ -377,15 +377,217 @@
      "rank": 25,
      "matches": [
       {
-       "id": "5680553",
+       "id": "5680546",
        "kickoff": "2026-11-27T20:00:00+03:00",
        "time_ar": "8:00 م",
-       "venue": "Çaykur Didi Stadyumu (Rize)",
+       "venue": "Alanya Oba Stadium",
        "status": "EventScheduled",
-       "broadcast_on": [],
+       "broadcast_on": [
+        "beIN SPORTS 2"
+       ],
        "channels": [
         {
-         "name": "beIN Sports 1 Turkey",
+         "name": "beIN SPORTS 2",
+         "countries": [
+          "Algeria",
+          "Bahrain",
+          "Chad",
+          "Djibouti",
+          "Egypt",
+          "Iran",
+          "Iraq",
+          "Jordan",
+          "Kuwait",
+          "Lebanon",
+          "Libya",
+          "Mauritania",
+          "Morocco",
+          "Oman",
+          "Palestine",
+          "Qatar",
+          "Saudi Arabia",
+          "Somalia",
+          "South Sudan",
+          "Sudan",
+          "Syria",
+          "Tunisia",
+          "United Arab Emirates",
+          "Yemen"
+         ],
+         "arab_rights": true,
+         "free": false,
+         "sat": [
+          {
+           "position": "26.0E",
+           "satellite": "Es'hail 2",
+           "frequency": 10810,
+           "polarization": "H",
+           "symbol_rate": 27500,
+           "fec": "2/3",
+           "standard": "DVB-S2",
+           "name": "beIN Sports 2 HD",
+           "kos_id": "beIN SPORTS 2",
+           "country": "Qatar",
+           "package": "beIN SPORTS",
+           "encryption": "Irdeto 2 / VideoGuard",
+           "free": false,
+           "satellite_ar": "بدر / سهيل سات"
+          },
+          {
+           "position": "26.0E",
+           "satellite": "Es'hail 2",
+           "frequency": 11390,
+           "polarization": "V",
+           "symbol_rate": 27500,
+           "fec": "2/3",
+           "standard": "DVB-S2",
+           "name": "beIN Sports 2 HD",
+           "kos_id": "beIN SPORTS EN 2",
+           "country": "Qatar",
+           "package": "beIN SPORTS",
+           "encryption": "Irdeto 2 / VideoGuard",
+           "free": false,
+           "satellite_ar": "بدر / سهيل سات"
+          },
+          {
+           "position": "8.0W",
+           "satellite": "Eutelsat 8 West B",
+           "frequency": 11012,
+           "polarization": "H",
+           "symbol_rate": 27500,
+           "fec": "2/3",
+           "standard": "DVB-S2",
+           "name": "beIN Sports 2 HD",
+           "kos_id": "beIN SPORTS 2",
+           "country": "Qatar",
+           "package": "beIN SPORTS",
+           "encryption": "Irdeto 2 / VideoGuard",
+           "free": false,
+           "satellite_ar": "يوتل 8 غرب"
+          }
+         ]
+        },
+        {
+         "name": "beIN SPORTS MAX 4",
+         "countries": [
+          "France"
+         ],
+         "arab_rights": false,
+         "free": true,
+         "sat": [
+          {
+           "position": "8.0W",
+           "satellite": "Eutelsat 8 West B",
+           "frequency": 12604,
+           "polarization": "H",
+           "symbol_rate": 27500,
+           "fec": "2/3",
+           "standard": "DVB-S2",
+           "name": "beIN Sports Max 4 HD",
+           "kos_id": "beIN SPORTS MAX 4",
+           "country": "Qatar",
+           "package": "beIN",
+           "encryption": "Clear",
+           "free": true,
+           "satellite_ar": "يوتل 8 غرب"
+          },
+          {
+           "position": "26.0E",
+           "satellite": "Es'hail 2",
+           "frequency": 10850,
+           "polarization": "H",
+           "symbol_rate": 27500,
+           "fec": "2/3",
+           "standard": "DVB-S2",
+           "name": "beIN Sports Max 4 HD",
+           "kos_id": "beIN SPORTS MAX 4",
+           "country": "Qatar",
+           "package": "beIN",
+           "encryption": "Irdeto 2 / VideoGuard",
+           "free": false,
+           "satellite_ar": "بدر / سهيل سات"
+          }
+         ]
+        },
+        {
+         "name": "Arena 5 Premium",
+         "countries": [
+          "Kosovo",
+          "Macedonia",
+          "Montenegro",
+          "Serbia"
+         ],
+         "arab_rights": false,
+         "free": false,
+         "sat": [
+          {
+           "position": "16.0E",
+           "satellite": "Eutelsat 16D",
+           "frequency": 11429,
+           "polarization": "V",
+           "symbol_rate": 28330,
+           "fec": "3/5",
+           "standard": "DVB-S2",
+           "name": "Arena Premium 5 HD",
+           "kos_id": "Arena Premium 5 HD",
+           "country": "Serbia",
+           "package": "Total TV",
+           "encryption": "Irdeto 2 / VideoGuard",
+           "free": false,
+           "satellite_ar": "يوتل 16"
+          },
+          {
+           "position": "16.0E",
+           "satellite": "Eutelsat 16D",
+           "frequency": 11554,
+           "polarization": "H",
+           "symbol_rate": 30000,
+           "fec": "3/4",
+           "standard": "DVB-S2",
+           "name": "Arena Premium 5 HD",
+           "kos_id": "Arena Premium 5",
+           "country": "Serbia",
+           "package": "Total TV",
+           "encryption": "Irdeto 2 / VideoGuard",
+           "free": false,
+           "satellite_ar": "يوتل 16"
+          },
+          {
+           "position": "23.5E",
+           "satellite": "Astra 3C",
+           "frequency": 12246,
+           "polarization": "V",
+           "symbol_rate": 30000,
+           "fec": "3/4",
+           "standard": "DVB-S2",
+           "name": "Arena Premium 5 HD",
+           "kos_id": "Arena Premium_5",
+           "country": "Serbia",
+           "package": "M:Sat TV",
+           "encryption": "Conax / Nagravision 3",
+           "free": false,
+           "satellite_ar": "أسترا 23.5"
+          },
+          {
+           "position": "23.5E",
+           "satellite": "Astra 3C",
+           "frequency": 12304,
+           "polarization": "H",
+           "symbol_rate": 30000,
+           "fec": "3/4",
+           "standard": "DVB-S2",
+           "name": "Arena Premium 5 HD",
+           "kos_id": "Arena Premium 5 HD",
+           "country": "Serbia",
+           "package": "M:Sat TV",
+           "encryption": "Conax / Nagravision 3",
+           "free": false,
+           "satellite_ar": "أسترا 23.5"
+          }
+         ]
+        },
+        {
+         "name": "beIN Sports 2 Turkey",
          "countries": [
           "Turkey"
          ],
@@ -395,29 +597,13 @@
           {
            "position": "42.0E",
            "satellite": "Turksat 5B",
-           "frequency": 11385,
+           "frequency": 11265,
            "polarization": "V",
            "symbol_rate": 30000,
            "fec": "3/4",
            "standard": "DVB-S2",
-           "name": "beIN Sports 1 HD Turkey",
-           "kos_id": "beIN SPORTS 1",
-           "country": "Turkey",
-           "package": "Digitürk",
-           "encryption": "Irdeto 2",
-           "free": false,
-           "satellite_ar": "ترك سات"
-          },
-          {
-           "position": "42.0E",
-           "satellite": "Türksat 4A",
-           "frequency": 12073,
-           "polarization": "V",
-           "symbol_rate": 27500,
-           "fec": "3/4",
-           "standard": "DVB-S2",
-           "name": "beIN Sports 1 HD Turkey",
-           "kos_id": "beIN SPORTS 1",
+           "name": "beIN Sports 2 HD Turkey",
+           "kos_id": "beIN SPORTS 2",
            "country": "Turkey",
            "package": "Digitürk",
            "encryption": "Irdeto 2",
@@ -425,16 +611,142 @@
            "satellite_ar": "ترك سات"
           }
          ]
+        },
+        {
+         "name": "Prima Sport 2",
+         "countries": [
+          "Romania"
+         ],
+         "arab_rights": false,
+         "free": false,
+         "sat": [
+          {
+           "position": "39.0E",
+           "satellite": "Hellas Sat 3",
+           "frequency": 12290,
+           "polarization": "V",
+           "symbol_rate": 30000,
+           "fec": "3/4",
+           "standard": "DVB-S2",
+           "name": "Prima Sport 2 HD",
+           "kos_id": "Prima Sport 2 HD",
+           "country": "Romania",
+           "package": "Orange Romania",
+           "encryption": "Viaccess 5.0 / VideoGuard",
+           "free": false,
+           "satellite_ar": "هيلاس سات"
+          },
+          {
+           "position": "39.0E",
+           "satellite": "Hellas Sat 3",
+           "frequency": 12565,
+           "polarization": "V",
+           "symbol_rate": 30000,
+           "fec": "7/8",
+           "standard": "DVB-S",
+           "name": "Prima Sport 2",
+           "kos_id": "PRIMA SPORT 2",
+           "country": "Romania",
+           "package": "Orange Romania",
+           "encryption": "Viaccess 5.0 / VideoGuard",
+           "free": false,
+           "satellite_ar": "هيلاس سات"
+          },
+          {
+           "position": "0.8W",
+           "satellite": "Intelsat 10-02",
+           "frequency": 12723,
+           "polarization": "H",
+           "symbol_rate": 27500,
+           "fec": "3/4",
+           "standard": "DVB-S",
+           "name": "Prima Sport 2",
+           "kos_id": "PRIMA SPORT 2",
+           "country": "Romania",
+           "package": "Digi TV",
+           "encryption": "Nagravision 3",
+           "free": false,
+           "satellite_ar": "ثور"
+          }
+         ]
+        },
+        {
+         "name": "ESPN Africa",
+         "countries": [
+          "Angola",
+          "Benin",
+          "Botswana",
+          "Burkina Faso",
+          "Burundi",
+          "Cameroon",
+          "Central African Republic",
+          "Congo DR",
+          "Côte d'Ivoire",
+          "Equatorial Guinea",
+          "Eritrea",
+          "Ethiopia",
+          "Gabon",
+          "Gambia",
+          "Ghana",
+          "Guinea",
+          "Guinea-Bissau",
+          "Kenya",
+          "Lesotho",
+          "Liberia",
+          "Madagascar",
+          "Malawi",
+          "Mali",
+          "Mauritius",
+          "Mayotte",
+          "Mozambique",
+          "Namibia",
+          "Niger",
+          "Nigeria",
+          "Reunion",
+          "Rwanda",
+          "Saint Helena",
+          "Senegal",
+          "Seychelles",
+          "Sierra Leone",
+          "South Africa",
+          "Swaziland",
+          "São Tomé and Príncipe",
+          "Tanzania",
+          "Togo",
+          "Uganda",
+          "Zambia",
+          "Zimbabwe"
+         ],
+         "arab_rights": false,
+         "free": false,
+         "sat": [
+          {
+           "position": "8.0W",
+           "satellite": "Eutelsat 8 West B",
+           "frequency": 3925,
+           "polarization": "R",
+           "symbol_rate": 30000,
+           "fec": "5/6",
+           "standard": "DVB-S2",
+           "name": "ESPN Africa",
+           "kos_id": "ESPN Africa",
+           "country": "South Africa",
+           "package": "Vivacom",
+           "encryption": "Irdeto 2",
+           "free": false,
+           "satellite_ar": "يوتل 8 غرب"
+          }
+         ]
         }
        ],
-       "source_url": "https://www.livesoccertv.com/match/kasimpasa-vs-rizespor/688a3",
-       "home": "ريزة سبور",
-       "away": "قاسم باشا",
-       "home_en": "Rizespor",
-       "away_en": "Kasımpaşa",
-       "home_logo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_1,d_Competitors:default1.png/v1/Competitors/960",
-       "away_logo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_1,d_Competitors:default1.png/v1/Competitors/962",
-       "s365_id": 4763737
+       "source_url": "https://www.livesoccertv.com/match/konyaspor-vs-alanyaspor/an4i5",
+       "home": "ألانيا سبور",
+       "away": "قونيا سبور",
+       "home_en": "Alanyaspor",
+       "away_en": "Konyaspor",
+       "home_logo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_1,d_Competitors:default1.png/v2/Competitors/1009",
+       "away_logo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_1,d_Competitors:default1.png/v1/Competitors/957",
+       "s365_id": 4763738
       }
      ]
     },
@@ -1393,6 +1705,49 @@
          ]
         },
         {
+         "name": "SuperSport 3 Digitalb",
+         "countries": [
+          "Albania",
+          "Kosovo"
+         ],
+         "arab_rights": false,
+         "free": false,
+         "sat": [
+          {
+           "position": "16.0E",
+           "satellite": "Eutelsat 16D",
+           "frequency": 10845,
+           "polarization": "H",
+           "symbol_rate": 30000,
+           "fec": "3/5",
+           "standard": "DVB-S2",
+           "name": "SuperSport HD-3",
+           "kos_id": "SS-3 HD",
+           "country": "Albania",
+           "package": "Digit Alb",
+           "encryption": "Conax",
+           "free": false,
+           "satellite_ar": "يوتل 16"
+          },
+          {
+           "position": "39.0E",
+           "satellite": "Hellas Sat 4",
+           "frequency": 10930,
+           "polarization": "H",
+           "symbol_rate": 30000,
+           "fec": "5/6",
+           "standard": "DVB-S2",
+           "name": "SuperSport HD-3",
+           "kos_id": "SS3-HD",
+           "country": "Albania",
+           "package": "Tring Digital",
+           "encryption": "Conax",
+           "free": false,
+           "satellite_ar": "هيلاس سات"
+          }
+         ]
+        },
+        {
          "name": "Sport 1",
          "countries": [
           "Israel"
@@ -2001,6 +2356,49 @@
            "encryption": "VideoGuard",
            "free": false,
            "satellite_ar": "أسترا 19.2"
+          }
+         ]
+        },
+        {
+         "name": "SuperSport 3 Digitalb",
+         "countries": [
+          "Albania",
+          "Kosovo"
+         ],
+         "arab_rights": false,
+         "free": false,
+         "sat": [
+          {
+           "position": "16.0E",
+           "satellite": "Eutelsat 16D",
+           "frequency": 10845,
+           "polarization": "H",
+           "symbol_rate": 30000,
+           "fec": "3/5",
+           "standard": "DVB-S2",
+           "name": "SuperSport HD-3",
+           "kos_id": "SS-3 HD",
+           "country": "Albania",
+           "package": "Digit Alb",
+           "encryption": "Conax",
+           "free": false,
+           "satellite_ar": "يوتل 16"
+          },
+          {
+           "position": "39.0E",
+           "satellite": "Hellas Sat 4",
+           "frequency": 10930,
+           "polarization": "H",
+           "symbol_rate": 30000,
+           "fec": "5/6",
+           "standard": "DVB-S2",
+           "name": "SuperSport HD-3",
+           "kos_id": "SS3-HD",
+           "country": "Albania",
+           "package": "Tring Digital",
+           "encryption": "Conax",
+           "free": false,
+           "satellite_ar": "هيلاس سات"
           }
          ]
         },
@@ -2856,6 +3254,32 @@
          ]
         },
         {
+         "name": "SuperSport 2 Digitalb",
+         "countries": [
+          "Albania"
+         ],
+         "arab_rights": false,
+         "free": false,
+         "sat": [
+          {
+           "position": "16.0E",
+           "satellite": "Eutelsat 16D",
+           "frequency": 10845,
+           "polarization": "H",
+           "symbol_rate": 30000,
+           "fec": "3/5",
+           "standard": "DVB-S2",
+           "name": "SuperSport HD-2",
+           "kos_id": "SS-2 HD",
+           "country": "Albania",
+           "package": "Digit Alb",
+           "encryption": "Conax",
+           "free": false,
+           "satellite_ar": "يوتل 16"
+          }
+         ]
+        },
+        {
          "name": "Prima Sport 2",
          "countries": [
           "Romania"
@@ -3412,6 +3836,32 @@
          ]
         },
         {
+         "name": "SuperSport 2 Digitalb",
+         "countries": [
+          "Albania"
+         ],
+         "arab_rights": false,
+         "free": false,
+         "sat": [
+          {
+           "position": "16.0E",
+           "satellite": "Eutelsat 16D",
+           "frequency": 10845,
+           "polarization": "H",
+           "symbol_rate": 30000,
+           "fec": "3/5",
+           "standard": "DVB-S2",
+           "name": "SuperSport HD-2",
+           "kos_id": "SS-2 HD",
+           "country": "Albania",
+           "package": "Digit Alb",
+           "encryption": "Conax",
+           "free": false,
+           "satellite_ar": "يوتل 16"
+          }
+         ]
+        },
+        {
          "name": "Prima Sport 2",
          "countries": [
           "Romania"
@@ -3955,6 +4405,32 @@
            "encryption": "Nagravision 3",
            "free": false,
            "satellite_ar": "أسترا 19.2"
+          }
+         ]
+        },
+        {
+         "name": "SuperSport 2 Digitalb",
+         "countries": [
+          "Albania"
+         ],
+         "arab_rights": false,
+         "free": false,
+         "sat": [
+          {
+           "position": "16.0E",
+           "satellite": "Eutelsat 16D",
+           "frequency": 10845,
+           "polarization": "H",
+           "symbol_rate": 30000,
+           "fec": "3/5",
+           "standard": "DVB-S2",
+           "name": "SuperSport HD-2",
+           "kos_id": "SS-2 HD",
+           "country": "Albania",
+           "package": "Digit Alb",
+           "encryption": "Conax",
+           "free": false,
+           "satellite_ar": "يوتل 16"
           }
          ]
         },
@@ -9080,6 +9556,48 @@
          ]
         },
         {
+         "name": "SuperSport 3 Digitalb",
+         "countries": [
+          "Albania"
+         ],
+         "arab_rights": false,
+         "free": false,
+         "sat": [
+          {
+           "position": "16.0E",
+           "satellite": "Eutelsat 16D",
+           "frequency": 10845,
+           "polarization": "H",
+           "symbol_rate": 30000,
+           "fec": "3/5",
+           "standard": "DVB-S2",
+           "name": "SuperSport HD-3",
+           "kos_id": "SS-3 HD",
+           "country": "Albania",
+           "package": "Digit Alb",
+           "encryption": "Conax",
+           "free": false,
+           "satellite_ar": "يوتل 16"
+          },
+          {
+           "position": "39.0E",
+           "satellite": "Hellas Sat 4",
+           "frequency": 10930,
+           "polarization": "H",
+           "symbol_rate": 30000,
+           "fec": "5/6",
+           "standard": "DVB-S2",
+           "name": "SuperSport HD-3",
+           "kos_id": "SS3-HD",
+           "country": "Albania",
+           "package": "Tring Digital",
+           "encryption": "Conax",
+           "free": false,
+           "satellite_ar": "هيلاس سات"
+          }
+         ]
+        },
+        {
          "name": "Arena 4 Premium",
          "countries": [
           "Kosovo",
@@ -9624,6 +10142,48 @@
            "encryption": "Conax / Nagravision 3",
            "free": false,
            "satellite_ar": "أسترا 23.5"
+          }
+         ]
+        },
+        {
+         "name": "SuperSport 4 Digitalb",
+         "countries": [
+          "Albania"
+         ],
+         "arab_rights": false,
+         "free": false,
+         "sat": [
+          {
+           "position": "16.0E",
+           "satellite": "Eutelsat 16D",
+           "frequency": 10845,
+           "polarization": "H",
+           "symbol_rate": 30000,
+           "fec": "3/5",
+           "standard": "DVB-S2",
+           "name": "SuperSport HD-4",
+           "kos_id": "SS-4 HD",
+           "country": "Albania",
+           "package": "Digit Alb",
+           "encryption": "Conax",
+           "free": false,
+           "satellite_ar": "يوتل 16"
+          },
+          {
+           "position": "39.0E",
+           "satellite": "Hellas Sat 4",
+           "frequency": 10930,
+           "polarization": "H",
+           "symbol_rate": 30000,
+           "fec": "5/6",
+           "standard": "DVB-S2",
+           "name": "SuperSport HD-4",
+           "kos_id": "SS4-HD",
+           "country": "Albania",
+           "package": "Tring Digital",
+           "encryption": "Conax",
+           "free": false,
+           "satellite_ar": "هيلاس سات"
           }
          ]
         },
@@ -10627,6 +11187,49 @@
            "encryption": "Nagravision 3",
            "free": false,
            "satellite_ar": "أسترا 19.2"
+          }
+         ]
+        },
+        {
+         "name": "SuperSport 3 Digitalb",
+         "countries": [
+          "Albania",
+          "Kosovo"
+         ],
+         "arab_rights": false,
+         "free": false,
+         "sat": [
+          {
+           "position": "16.0E",
+           "satellite": "Eutelsat 16D",
+           "frequency": 10845,
+           "polarization": "H",
+           "symbol_rate": 30000,
+           "fec": "3/5",
+           "standard": "DVB-S2",
+           "name": "SuperSport HD-3",
+           "kos_id": "SS-3 HD",
+           "country": "Albania",
+           "package": "Digit Alb",
+           "encryption": "Conax",
+           "free": false,
+           "satellite_ar": "يوتل 16"
+          },
+          {
+           "position": "39.0E",
+           "satellite": "Hellas Sat 4",
+           "frequency": 10930,
+           "polarization": "H",
+           "symbol_rate": 30000,
+           "fec": "5/6",
+           "standard": "DVB-S2",
+           "name": "SuperSport HD-3",
+           "kos_id": "SS3-HD",
+           "country": "Albania",
+           "package": "Tring Digital",
+           "encryption": "Conax",
+           "free": false,
+           "satellite_ar": "هيلاس سات"
           }
          ]
         },
@@ -13229,6 +13832,49 @@
            "encryption": "Nagravision 3",
            "free": false,
            "satellite_ar": "أسترا 19.2"
+          }
+         ]
+        },
+        {
+         "name": "SuperSport 3 Digitalb",
+         "countries": [
+          "Albania",
+          "Kosovo"
+         ],
+         "arab_rights": false,
+         "free": false,
+         "sat": [
+          {
+           "position": "16.0E",
+           "satellite": "Eutelsat 16D",
+           "frequency": 10845,
+           "polarization": "H",
+           "symbol_rate": 30000,
+           "fec": "3/5",
+           "standard": "DVB-S2",
+           "name": "SuperSport HD-3",
+           "kos_id": "SS-3 HD",
+           "country": "Albania",
+           "package": "Digit Alb",
+           "encryption": "Conax",
+           "free": false,
+           "satellite_ar": "يوتل 16"
+          },
+          {
+           "position": "39.0E",
+           "satellite": "Hellas Sat 4",
+           "frequency": 10930,
+           "polarization": "H",
+           "symbol_rate": 30000,
+           "fec": "5/6",
+           "standard": "DVB-S2",
+           "name": "SuperSport HD-3",
+           "kos_id": "SS3-HD",
+           "country": "Albania",
+           "package": "Tring Digital",
+           "encryption": "Conax",
+           "free": false,
+           "satellite_ar": "هيلاس سات"
           }
          ]
         },
@@ -20676,6 +21322,48 @@
          ]
         },
         {
+         "name": "SuperSport 1 Digitalb",
+         "countries": [
+          "Albania"
+         ],
+         "arab_rights": false,
+         "free": false,
+         "sat": [
+          {
+           "position": "16.0E",
+           "satellite": "Eutelsat 16D",
+           "frequency": 10845,
+           "polarization": "H",
+           "symbol_rate": 30000,
+           "fec": "3/5",
+           "standard": "DVB-S2",
+           "name": "SuperSport HD-1",
+           "kos_id": "SS-1 HD",
+           "country": "Albania",
+           "package": "Digit Alb",
+           "encryption": "Conax",
+           "free": false,
+           "satellite_ar": "يوتل 16"
+          },
+          {
+           "position": "39.0E",
+           "satellite": "Hellas Sat 4",
+           "frequency": 10930,
+           "polarization": "H",
+           "symbol_rate": 30000,
+           "fec": "5/6",
+           "standard": "DVB-S2",
+           "name": "SuperSport HD-1",
+           "kos_id": "SS1-HD",
+           "country": "Albania",
+           "package": "Tring Digital",
+           "encryption": "Conax",
+           "free": false,
+           "satellite_ar": "هيلاس سات"
+          }
+         ]
+        },
+        {
          "name": "Arena Sport 2",
          "countries": [
           "Bosnia and Herzegovina"
@@ -23287,37 +23975,23 @@
      "rank": 23,
      "matches": [
       {
-       "id": "5673249",
+       "id": "5673248",
        "kickoff": "2026-11-30T23:15:00+03:00",
        "time_ar": "11:15 م",
-       "venue": "Estádio Municipal de Rio Maior (Rio Maior)",
+       "venue": "Estádio do Sport Lisboa e Benfica (da Luz) (Lisboa)",
        "status": "EventScheduled",
-       "broadcast_on": [],
+       "broadcast_on": [
+        "Shasha"
+       ],
        "channels": [
         {
-         "name": "beIN SPORTS MAX 4",
+         "name": "beIN SPORTS",
          "countries": [
-          "France"
+          "USA"
          ],
          "arab_rights": false,
          "free": true,
          "sat": [
-          {
-           "position": "8.0W",
-           "satellite": "Eutelsat 8 West B",
-           "frequency": 12604,
-           "polarization": "H",
-           "symbol_rate": 27500,
-           "fec": "2/3",
-           "standard": "DVB-S2",
-           "name": "beIN Sports Max 4 HD",
-           "kos_id": "beIN SPORTS MAX 4",
-           "country": "Qatar",
-           "package": "beIN",
-           "encryption": "Clear",
-           "free": true,
-           "satellite_ar": "يوتل 8 غرب"
-          },
           {
            "position": "26.0E",
            "satellite": "Es'hail 2",
@@ -23326,18 +24000,134 @@
            "symbol_rate": 27500,
            "fec": "2/3",
            "standard": "DVB-S2",
-           "name": "beIN Sports Max 4 HD",
-           "kos_id": "beIN SPORTS MAX 4",
+           "name": "beIN Sports HD",
+           "kos_id": "beIN SPORTS",
            "country": "Qatar",
            "package": "beIN",
-           "encryption": "Irdeto 2 / VideoGuard",
-           "free": false,
+           "encryption": "Clear",
+           "free": true,
            "satellite_ar": "بدر / سهيل سات"
+          },
+          {
+           "position": "8.0W",
+           "satellite": "Eutelsat 8 West B",
+           "frequency": 11054,
+           "polarization": "H",
+           "symbol_rate": 27500,
+           "fec": "2/3",
+           "standard": "DVB-S2",
+           "name": "beIN Sports HD",
+           "kos_id": "beIN SPORTS",
+           "country": "Qatar",
+           "package": "beIN SPORTS",
+           "encryption": "Clear",
+           "free": true,
+           "satellite_ar": "يوتل 8 غرب"
           }
          ]
         },
         {
-         "name": "Eleven Sports 3 Poland",
+         "name": "inter",
+         "countries": [
+          "Venezuela"
+         ],
+         "arab_rights": false,
+         "free": true,
+         "sat": [
+          {
+           "position": "23.5E",
+           "satellite": "Astra 3C",
+           "frequency": 12285,
+           "polarization": "V",
+           "symbol_rate": 30000,
+           "fec": "2/3",
+           "standard": "DVB-S2",
+           "name": "Inter HD",
+           "kos_id": "Inter HD",
+           "country": "Ukraine",
+           "package": "",
+           "encryption": "Clear",
+           "free": true,
+           "satellite_ar": "أسترا 23.5"
+          },
+          {
+           "position": "4.8E",
+           "satellite": "Astra 4A",
+           "frequency": 12437,
+           "polarization": "V",
+           "symbol_rate": 30000,
+           "fec": "2/3",
+           "standard": "DVB-S2",
+           "name": "Inter HD",
+           "kos_id": "Inter HD",
+           "country": "Ukraine",
+           "package": "",
+           "encryption": "Clear",
+           "free": true,
+           "satellite_ar": "أسترا 4.8"
+          }
+         ]
+        },
+        {
+         "name": "beIN SPORTS 2",
+         "countries": [
+          "France"
+         ],
+         "arab_rights": false,
+         "free": false,
+         "sat": [
+          {
+           "position": "26.0E",
+           "satellite": "Es'hail 2",
+           "frequency": 10810,
+           "polarization": "H",
+           "symbol_rate": 27500,
+           "fec": "2/3",
+           "standard": "DVB-S2",
+           "name": "beIN Sports 2 HD",
+           "kos_id": "beIN SPORTS 2",
+           "country": "Qatar",
+           "package": "beIN SPORTS",
+           "encryption": "Irdeto 2 / VideoGuard",
+           "free": false,
+           "satellite_ar": "بدر / سهيل سات"
+          },
+          {
+           "position": "26.0E",
+           "satellite": "Es'hail 2",
+           "frequency": 11390,
+           "polarization": "V",
+           "symbol_rate": 27500,
+           "fec": "2/3",
+           "standard": "DVB-S2",
+           "name": "beIN Sports 2 HD",
+           "kos_id": "beIN SPORTS EN 2",
+           "country": "Qatar",
+           "package": "beIN SPORTS",
+           "encryption": "Irdeto 2 / VideoGuard",
+           "free": false,
+           "satellite_ar": "بدر / سهيل سات"
+          },
+          {
+           "position": "8.0W",
+           "satellite": "Eutelsat 8 West B",
+           "frequency": 11012,
+           "polarization": "H",
+           "symbol_rate": 27500,
+           "fec": "2/3",
+           "standard": "DVB-S2",
+           "name": "beIN Sports 2 HD",
+           "kos_id": "beIN SPORTS 2",
+           "country": "Qatar",
+           "package": "beIN SPORTS",
+           "encryption": "Irdeto 2 / VideoGuard",
+           "free": false,
+           "satellite_ar": "يوتل 8 غرب"
+          }
+         ]
+        },
+        {
+         "name": "Eleven Sports 2 Poland",
          "countries": [
           "Poland"
          ],
@@ -23352,8 +24142,8 @@
            "symbol_rate": 27500,
            "fec": "5/6",
            "standard": "DVB-S2",
-           "name": "Eleven Sports 3 HD",
-           "kos_id": "Eleven Sports 3 HD",
+           "name": "Eleven Sports 2 HD",
+           "kos_id": "Eleven Sports 2 HD",
            "country": "Poland",
            "package": "Orange Polska Platforma Canal+ Polsat Box",
            "encryption": "Conax / Irdeto 2 / Mediaguard 3 / Nagravision 3 / Viaccess 3.0",
@@ -23368,8 +24158,8 @@
            "symbol_rate": 27500,
            "fec": "3/4",
            "standard": "DVB-S2",
-           "name": "Eleven Sports 3 HD",
-           "kos_id": "Eleven Sports 3",
+           "name": "Eleven Sports 2 HD",
+           "kos_id": "Eleven Sports 2",
            "country": "Poland",
            "package": "Polsat Box",
            "encryption": "Irdeto 2 / Nagravision 3",
@@ -23405,7 +24195,7 @@
          ]
         },
         {
-         "name": "MagentaSport 3",
+         "name": "MagentaSport 1",
          "countries": [
           "Greece"
          ],
@@ -23415,13 +24205,13 @@
           {
            "position": "9.0E",
            "satellite": "Eutelsat 9B",
-           "frequency": 12398,
+           "frequency": 12283,
            "polarization": "H",
            "symbol_rate": 27500,
            "fec": "2/3",
            "standard": "DVB-S2",
-           "name": "Magenta Sport 3",
-           "kos_id": "MagentaSport3",
+           "name": "Magenta Sport 1",
+           "kos_id": "MagentaSport1",
            "country": "Greece",
            "package": "Cosmote",
            "encryption": "VideoGuard",
@@ -23429,16 +24219,110 @@
            "satellite_ar": "يوتل 9"
           }
          ]
+        },
+        {
+         "name": "TV4 Sportkanalen",
+         "countries": [
+          "Sweden"
+         ],
+         "arab_rights": false,
+         "free": false,
+         "sat": [
+          {
+           "position": "0.8W",
+           "satellite": "Thor 6",
+           "frequency": 10778,
+           "polarization": "H",
+           "symbol_rate": 25000,
+           "fec": "3/4",
+           "standard": "DVB-S2",
+           "name": "TV4 Sportkanalen HD",
+           "kos_id": "TV4 Sportkanalen HD",
+           "country": "Sweden",
+           "package": "Allente",
+           "encryption": "Conax / Nagravision 3 / VideoGuard",
+           "free": false,
+           "satellite_ar": "ثور"
+          }
+         ]
+        },
+        {
+         "name": "Sport 3",
+         "countries": [
+          "Israel"
+         ],
+         "arab_rights": false,
+         "free": false,
+         "sat": [
+          {
+           "position": "52.0E",
+           "satellite": "TurkmenÄlem / MonacoSat",
+           "frequency": 10845,
+           "polarization": "H",
+           "symbol_rate": 30000,
+           "fec": "8/9",
+           "standard": "DVB-S2",
+           "name": "Sport-3",
+           "kos_id": "SPORT 3",
+           "country": "Kazakhstan",
+           "package": "Älem TV",
+           "encryption": "Conax / Cryptoguard",
+           "free": false,
+           "satellite_ar": "TurkmenÄlem / MonacoSat"
+          },
+          {
+           "position": "30.0W",
+           "satellite": "Hispasat 30W-5",
+           "frequency": 12360,
+           "polarization": "H",
+           "symbol_rate": 27500,
+           "fec": "3/4",
+           "standard": "DVB-S2",
+           "name": "Sport TV 3 HD",
+           "kos_id": "SPORT TV 3 HD",
+           "country": "Portugal",
+           "package": "Nos",
+           "encryption": "Nagravision 3",
+           "free": false,
+           "satellite_ar": "Hispasat 30W-5"
+          }
+         ]
+        },
+        {
+         "name": "Digi Sport 3 Romania",
+         "countries": [
+          "Romania"
+         ],
+         "arab_rights": false,
+         "free": false,
+         "sat": [
+          {
+           "position": "0.8W",
+           "satellite": "Intelsat 10-02",
+           "frequency": 12687,
+           "polarization": "H",
+           "symbol_rate": 27500,
+           "fec": "3/4",
+           "standard": "DVB-S",
+           "name": "Digi Sport 3 HD",
+           "kos_id": "DIGI Sport 3",
+           "country": "Romania",
+           "package": "Digi TV",
+           "encryption": "Nagravision 3",
+           "free": false,
+           "satellite_ar": "ثور"
+          }
+         ]
         }
        ],
-       "source_url": "https://www.livesoccertv.com/match/sporting-braga-vs-casa-pia/5uwqr",
-       "home": "كازا بيا",
-       "away": "سبورتينج براغا",
-       "home_en": "Casa Pia",
-       "away_en": "Sporting Braga",
-       "home_logo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_1,d_Competitors:default1.png/v2/Competitors/6372",
-       "away_logo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_1,d_Competitors:default1.png/v5/Competitors/895",
-       "s365_id": 4757208
+       "source_url": "https://www.livesoccertv.com/match/benfica-vs-famalicao/8qmea",
+       "home": "بنفيكا",
+       "away": "فاماليكاو",
+       "home_en": "Benfica",
+       "away_en": "Famalicão",
+       "home_logo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_1,d_Competitors:default1.png/v5/Competitors/888",
+       "away_logo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_1,d_Competitors:default1.png/v2/Competitors/11172",
+       "s365_id": 4757212
       }
      ]
     },
@@ -24304,6 +25188,1820 @@
        "home_logo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_1,d_Competitors:default1.png/v1/Competitors/24",
        "away_logo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_1,d_Competitors:default1.png/v4/Competitors/9",
        "s365_id": 4741977
+      }
+     ]
+    },
+    {
+     "competition": "كأس ألمانيا",
+     "competition_en": "Germany - DFB Pokal",
+     "rank": 20,
+     "matches": [
+      {
+       "id": "5828829",
+       "kickoff": "2026-12-01T20:00:00+03:00",
+       "time_ar": "8:00 م",
+       "venue": "MHPArena",
+       "status": "EventScheduled",
+       "broadcast_on": [
+        "DStv Now"
+       ],
+       "channels": [
+        {
+         "name": "inter",
+         "countries": [
+          "Venezuela"
+         ],
+         "arab_rights": false,
+         "free": true,
+         "sat": [
+          {
+           "position": "23.5E",
+           "satellite": "Astra 3C",
+           "frequency": 12285,
+           "polarization": "V",
+           "symbol_rate": 30000,
+           "fec": "2/3",
+           "standard": "DVB-S2",
+           "name": "Inter HD",
+           "kos_id": "Inter HD",
+           "country": "Ukraine",
+           "package": "",
+           "encryption": "Clear",
+           "free": true,
+           "satellite_ar": "أسترا 23.5"
+          },
+          {
+           "position": "4.8E",
+           "satellite": "Astra 4A",
+           "frequency": 12437,
+           "polarization": "V",
+           "symbol_rate": 30000,
+           "fec": "2/3",
+           "standard": "DVB-S2",
+           "name": "Inter HD",
+           "kos_id": "Inter HD",
+           "country": "Ukraine",
+           "package": "",
+           "encryption": "Clear",
+           "free": true,
+           "satellite_ar": "أسترا 4.8"
+          }
+         ]
+        },
+        {
+         "name": "beIN SPORTS 1",
+         "countries": [
+          "France",
+          "Andorra",
+          "Monaco"
+         ],
+         "arab_rights": false,
+         "free": false,
+         "sat": [
+          {
+           "position": "26.0E",
+           "satellite": "Es'hail 2",
+           "frequency": 10810,
+           "polarization": "H",
+           "symbol_rate": 27500,
+           "fec": "2/3",
+           "standard": "DVB-S2",
+           "name": "beIN Sports 1 HD",
+           "kos_id": "beIN SPORTS 1",
+           "country": "Qatar",
+           "package": "beIN SPORTS",
+           "encryption": "Irdeto 2 / VideoGuard",
+           "free": false,
+           "satellite_ar": "بدر / سهيل سات"
+          },
+          {
+           "position": "8.0W",
+           "satellite": "Eutelsat 8 West B",
+           "frequency": 11012,
+           "polarization": "H",
+           "symbol_rate": 27500,
+           "fec": "2/3",
+           "standard": "DVB-S2",
+           "name": "beIN Sports 1 HD",
+           "kos_id": "beIN SPORTS 1",
+           "country": "Qatar",
+           "package": "beIN SPORTS",
+           "encryption": "Irdeto 2 / VideoGuard",
+           "free": false,
+           "satellite_ar": "يوتل 8 غرب"
+          }
+         ]
+        },
+        {
+         "name": "Eleven Sports 2 Poland",
+         "countries": [
+          "Poland"
+         ],
+         "arab_rights": false,
+         "free": false,
+         "sat": [
+          {
+           "position": "13.0E",
+           "satellite": "Hot Bird 13G",
+           "frequency": 10795,
+           "polarization": "V",
+           "symbol_rate": 27500,
+           "fec": "5/6",
+           "standard": "DVB-S2",
+           "name": "Eleven Sports 2 HD",
+           "kos_id": "Eleven Sports 2 HD",
+           "country": "Poland",
+           "package": "Orange Polska Platforma Canal+ Polsat Box",
+           "encryption": "Conax / Irdeto 2 / Mediaguard 3 / Nagravision 3 / Viaccess 3.0",
+           "free": false,
+           "satellite_ar": "هوت بيرد"
+          },
+          {
+           "position": "13.0E",
+           "satellite": "Hot Bird 13G",
+           "frequency": 11116,
+           "polarization": "V",
+           "symbol_rate": 27500,
+           "fec": "3/4",
+           "standard": "DVB-S2",
+           "name": "Eleven Sports 2 HD",
+           "kos_id": "Eleven Sports 2",
+           "country": "Poland",
+           "package": "Polsat Box",
+           "encryption": "Irdeto 2 / Nagravision 3",
+           "free": false,
+           "satellite_ar": "هوت بيرد"
+          }
+         ]
+        },
+        {
+         "name": "Sky Sport Mix",
+         "countries": [
+          "Germany",
+          "Austria",
+          "Switzerland"
+         ],
+         "arab_rights": false,
+         "free": false,
+         "sat": [
+          {
+           "position": "13.0E",
+           "satellite": "Hot Bird 13F",
+           "frequency": 12072,
+           "polarization": "V",
+           "symbol_rate": 29900,
+           "fec": "3/4",
+           "standard": "DVB-S2",
+           "name": "Sky Sport Mix",
+           "kos_id": "Sky Sport Mix",
+           "country": "Italy",
+           "package": "Sky Italia",
+           "encryption": "VideoGuard",
+           "free": false,
+           "satellite_ar": "هوت بيرد"
+          },
+          {
+           "position": "19.2E",
+           "satellite": "Astra 1P",
+           "frequency": 11759,
+           "polarization": "H",
+           "symbol_rate": 27500,
+           "fec": "9/10",
+           "standard": "DVB-S2",
+           "name": "Sky Sport Mix HD",
+           "kos_id": "Sky Sport Mix",
+           "country": "Italy",
+           "package": "Sky Deutschland",
+           "encryption": "VideoGuard",
+           "free": false,
+           "satellite_ar": "أسترا 19.2"
+          }
+         ]
+        },
+        {
+         "name": "Diema Sport 3",
+         "countries": [
+          "Bulgaria"
+         ],
+         "arab_rights": false,
+         "free": false,
+         "sat": [
+          {
+           "position": "13.0E",
+           "satellite": "Hot Bird 13F",
+           "frequency": 12666,
+           "polarization": "V",
+           "symbol_rate": 27500,
+           "fec": "3/4",
+           "standard": "DVB-S2",
+           "name": "Diema Sport 3 HD",
+           "kos_id": "Diema Sport 3 HD",
+           "country": "Bulgaria",
+           "package": "Vivacom",
+           "encryption": "Irdeto 2 / VideoGuard",
+           "free": false,
+           "satellite_ar": "هوت بيرد"
+          },
+          {
+           "position": "39.0E",
+           "satellite": "Hellas Sat 3",
+           "frequency": 12309,
+           "polarization": "H",
+           "symbol_rate": 30000,
+           "fec": "3/4",
+           "standard": "DVB-S2",
+           "name": "Diema Sport 3 HD",
+           "kos_id": "Diema Sport 3 HD",
+           "country": "Bulgaria",
+           "package": "A1 Bulgaria",
+           "encryption": "Conax",
+           "free": false,
+           "satellite_ar": "هيلاس سات"
+          },
+          {
+           "position": "39.0E",
+           "satellite": "Hellas Sat 3",
+           "frequency": 12463,
+           "polarization": "H",
+           "symbol_rate": 30000,
+           "fec": "5/6",
+           "standard": "DVB-S2",
+           "name": "Diema Sport 3 HD",
+           "kos_id": "Diema Sport 3 HD",
+           "country": "Bulgaria",
+           "package": "A1 Bulgaria Bulsatcom",
+           "encryption": "Conax / Nagravision 3",
+           "free": false,
+           "satellite_ar": "هيلاس سات"
+          }
+         ]
+        },
+        {
+         "name": "RTL",
+         "countries": [
+          "Germany",
+          "Austria",
+          "San Marino",
+          "Switzerland"
+         ],
+         "arab_rights": false,
+         "free": false,
+         "sat": [
+          {
+           "position": "19.2E",
+           "satellite": "Astra 1P",
+           "frequency": 10832,
+           "polarization": "H",
+           "symbol_rate": 22000,
+           "fec": "2/3",
+           "standard": "DVB-S2",
+           "name": "RTL HD",
+           "kos_id": "RTL HD",
+           "country": "Germany",
+           "package": "HD + Sky Deutschland",
+           "encryption": "Marlin / Nagravision 3 / VideoGuard",
+           "free": false,
+           "satellite_ar": "أسترا 19.2"
+          },
+          {
+           "position": "19.2E",
+           "satellite": "Astra 1P",
+           "frequency": 10993,
+           "polarization": "H",
+           "symbol_rate": 22000,
+           "fec": "5/6",
+           "standard": "DVB-S2",
+           "name": "RTL UHD",
+           "kos_id": "RTL UHD",
+           "country": "Germany",
+           "package": "HD + Sky Deutschland",
+           "encryption": "Marlin / Nagravision 3 / VideoGuard",
+           "free": false,
+           "satellite_ar": "أسترا 19.2"
+          },
+          {
+           "position": "9.0E",
+           "satellite": "Eutelsat 9B",
+           "frequency": 12245,
+           "polarization": "H",
+           "symbol_rate": 27500,
+           "fec": "2/3",
+           "standard": "DVB-S2",
+           "name": "RTL HD",
+           "kos_id": "RTL HD",
+           "country": "Germany",
+           "package": "Kabelkiosk",
+           "encryption": "Conax / Nagravision 3 / VideoGuard",
+           "free": false,
+           "satellite_ar": "يوتل 9"
+          }
+         ]
+        },
+        {
+         "name": "Replay",
+         "countries": [
+          "Spain",
+          "Andorra"
+         ],
+         "arab_rights": false,
+         "free": false,
+         "sat": [
+          {
+           "position": "19.2E",
+           "satellite": "Astra 1P",
+           "frequency": 11126,
+           "polarization": "V",
+           "symbol_rate": 22000,
+           "fec": "5/6",
+           "standard": "DVB-S",
+           "name": "Gol Play",
+           "kos_id": "REPLAY",
+           "country": "Spain",
+           "package": "Movistar+",
+           "encryption": "Nagravision 3",
+           "free": false,
+           "satellite_ar": "أسترا 19.2"
+          }
+         ]
+        },
+        {
+         "name": "Sky Sport 1/HD",
+         "countries": [
+          "Germany",
+          "Austria",
+          "Switzerland"
+         ],
+         "arab_rights": false,
+         "free": false,
+         "sat": [
+          {
+           "position": "19.2E",
+           "satellite": "Astra 1N",
+           "frequency": 11915,
+           "polarization": "H",
+           "symbol_rate": 27500,
+           "fec": "9/10",
+           "standard": "DVB-S2",
+           "name": "Sky Sport 1 HD Germany",
+           "kos_id": "Sky Sport 1",
+           "country": "Germany",
+           "package": "Sky Deutschland",
+           "encryption": "VideoGuard",
+           "free": false,
+           "satellite_ar": "أسترا 19.2"
+          }
+         ]
+        },
+        {
+         "name": "Sky Sport Top Event",
+         "countries": [
+          "Germany",
+          "Austria",
+          "Switzerland"
+         ],
+         "arab_rights": false,
+         "free": false,
+         "sat": [
+          {
+           "position": "19.2E",
+           "satellite": "Astra 1N",
+           "frequency": 11915,
+           "polarization": "H",
+           "symbol_rate": 27500,
+           "fec": "9/10",
+           "standard": "DVB-S2",
+           "name": "Sky Sport Top Event HD",
+           "kos_id": "Sky Sport Top Event",
+           "country": "Germany",
+           "package": "Sky Deutschland",
+           "encryption": "VideoGuard",
+           "free": false,
+           "satellite_ar": "أسترا 19.2"
+          }
+         ]
+        },
+        {
+         "name": "Canal+",
+         "countries": [
+          "Poland"
+         ],
+         "arab_rights": false,
+         "free": false,
+         "sat": [
+          {
+           "position": "19.2E",
+           "satellite": "Astra 1P",
+           "frequency": 12012,
+           "polarization": "V",
+           "symbol_rate": 29700,
+           "fec": "2/3",
+           "standard": "DVB-S2",
+           "name": "Canal+",
+           "kos_id": "CANAL+",
+           "country": "France",
+           "package": "Canal+ France",
+           "encryption": "Nagravision 3",
+           "free": false,
+           "satellite_ar": "أسترا 19.2"
+          }
+         ]
+        },
+        {
+         "name": "Nova Sport 1",
+         "countries": [
+          "Slovakia"
+         ],
+         "arab_rights": false,
+         "free": false,
+         "sat": [
+          {
+           "position": "16.0E",
+           "satellite": "Eutelsat 16D",
+           "frequency": 11055,
+           "polarization": "V",
+           "symbol_rate": 27500,
+           "fec": "4/5",
+           "standard": "DVB-S2",
+           "name": "Nova Sport HD",
+           "kos_id": "Nova Sport 1 HD",
+           "country": "Czech republic",
+           "package": "A1 Broadcasting",
+           "encryption": "Conax",
+           "free": false,
+           "satellite_ar": "يوتل 16"
+          },
+          {
+           "position": "23.5E",
+           "satellite": "Astra 3C",
+           "frequency": 12265,
+           "polarization": "H",
+           "symbol_rate": 29900,
+           "fec": "3/4",
+           "standard": "DVB-S2",
+           "name": "Nova Sport HD",
+           "kos_id": "Nova Sport 1 HD",
+           "country": "Czech republic",
+           "package": "Canal+ Czechia Slovakia",
+           "encryption": "Conax / Cryptoworks / Irdeto 2 / Nagravision 3 / Viaccess 5.0",
+           "free": false,
+           "satellite_ar": "أسترا 23.5"
+          },
+          {
+           "position": "0.8W",
+           "satellite": "Thor 6",
+           "frequency": 12456,
+           "polarization": "V",
+           "symbol_rate": 30000,
+           "fec": "3/4",
+           "standard": "DVB-S2",
+           "name": "Nova Sport HD",
+           "kos_id": "Nova Sport 1 HD",
+           "country": "Czech republic",
+           "package": "Focus Sat Telly",
+           "encryption": "Conax / Cryptoworks / Irdeto 2 / Nagravision 3",
+           "free": false,
+           "satellite_ar": "ثور"
+          }
+         ]
+        },
+        {
+         "name": "ESPN Africa",
+         "countries": [
+          "Angola",
+          "Benin",
+          "Botswana",
+          "Burkina Faso",
+          "Burundi",
+          "Cameroon",
+          "Central African Republic",
+          "Congo DR",
+          "Côte d'Ivoire",
+          "Equatorial Guinea",
+          "Eritrea",
+          "Ethiopia",
+          "Gabon",
+          "Gambia",
+          "Ghana",
+          "Guinea",
+          "Guinea-Bissau",
+          "Kenya",
+          "Lesotho",
+          "Liberia",
+          "Madagascar",
+          "Malawi",
+          "Mali",
+          "Mauritius",
+          "Mayotte",
+          "Mozambique",
+          "Namibia",
+          "Niger",
+          "Nigeria",
+          "Reunion",
+          "Rwanda",
+          "Saint Helena",
+          "Senegal",
+          "Seychelles",
+          "Sierra Leone",
+          "South Africa",
+          "Swaziland",
+          "São Tomé and Príncipe",
+          "Tanzania",
+          "Togo",
+          "Uganda",
+          "Zambia",
+          "Zimbabwe"
+         ],
+         "arab_rights": false,
+         "free": false,
+         "sat": [
+          {
+           "position": "8.0W",
+           "satellite": "Eutelsat 8 West B",
+           "frequency": 3925,
+           "polarization": "R",
+           "symbol_rate": 30000,
+           "fec": "5/6",
+           "standard": "DVB-S2",
+           "name": "ESPN Africa",
+           "kos_id": "ESPN Africa",
+           "country": "South Africa",
+           "package": "Vivacom",
+           "encryption": "Irdeto 2",
+           "free": false,
+           "satellite_ar": "يوتل 8 غرب"
+          }
+         ]
+        },
+        {
+         "name": "Sport 2",
+         "countries": [
+          "Israel"
+         ],
+         "arab_rights": false,
+         "free": false,
+         "sat": [
+          {
+           "position": "0.8W",
+           "satellite": "Thor 6",
+           "frequency": 10746,
+           "polarization": "H",
+           "symbol_rate": 25000,
+           "fec": "3/4",
+           "standard": "DVB-S2",
+           "name": "TV 2 Sport 2 HD",
+           "kos_id": "TV 2 Sport 2 HD",
+           "country": "Norway",
+           "package": "Allente",
+           "encryption": "Conax / Nagravision 3 / VideoGuard",
+           "free": false,
+           "satellite_ar": "ثور"
+          },
+          {
+           "position": "52.0E",
+           "satellite": "TurkmenÄlem / MonacoSat",
+           "frequency": 10845,
+           "polarization": "H",
+           "symbol_rate": 30000,
+           "fec": "8/9",
+           "standard": "DVB-S2",
+           "name": "Sport-2",
+           "kos_id": "SPORT 2",
+           "country": "Kazakhstan",
+           "package": "Älem TV",
+           "encryption": "Conax / Cryptoguard",
+           "free": false,
+           "satellite_ar": "TurkmenÄlem / MonacoSat"
+          },
+          {
+           "position": "0.8W",
+           "satellite": "Thor 7",
+           "frequency": 12149,
+           "polarization": "V",
+           "symbol_rate": 30000,
+           "fec": "3/4",
+           "standard": "DVB-S2",
+           "name": "Sport 2 HD",
+           "kos_id": "",
+           "country": "",
+           "package": "Focus Sat Telly",
+           "encryption": "Conax / Cryptoworks / Irdeto 2 / Nagravision 3",
+           "free": false,
+           "satellite_ar": "ثور"
+          },
+          {
+           "position": "30.0W",
+           "satellite": "Hispasat 30W-5",
+           "frequency": 12360,
+           "polarization": "H",
+           "symbol_rate": 27500,
+           "fec": "3/4",
+           "standard": "DVB-S2",
+           "name": "Sport TV 2 HD",
+           "kos_id": "SPORT TV 2 HD",
+           "country": "Portugal",
+           "package": "Nos",
+           "encryption": "Nagravision 3",
+           "free": false,
+           "satellite_ar": "Hispasat 30W-5"
+          }
+         ]
+        },
+        {
+         "name": "Go3 Sport 2",
+         "countries": [
+          "Estonia",
+          "Latvia",
+          "Lithuania"
+         ],
+         "arab_rights": false,
+         "free": false,
+         "sat": [
+          {
+           "position": "4.8E",
+           "satellite": "Astra 4A",
+           "frequency": 11957,
+           "polarization": "H",
+           "symbol_rate": 27500,
+           "fec": "5/6",
+           "standard": "DVB-S2",
+           "name": "Go3 Sport 2 HD Baltics",
+           "kos_id": "Go3 Sport 2 HD",
+           "country": "Estonia",
+           "package": "TV3 Group",
+           "encryption": "VideoGuard",
+           "free": false,
+           "satellite_ar": "أسترا 4.8"
+          }
+         ]
+        }
+       ],
+       "source_url": "https://www.livesoccertv.com/match/stuttgart-vs-dynamo-dresden/3s2bq",
+       "home": "شتوتجارت",
+       "away": "دينامو دريسدين",
+       "home_en": "Stuttgart",
+       "away_en": "Dynamo Dresden",
+       "home_logo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_1,d_Competitors:default1.png/v5/Competitors/338",
+       "away_logo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_1,d_Competitors:default1.png/v1/Competitors/396",
+       "s365_id": 4888751
+      },
+      {
+       "id": "5828823",
+       "kickoff": "2026-12-01T22:45:00+03:00",
+       "time_ar": "10:45 م",
+       "venue": "Allianz Arena",
+       "status": "EventScheduled",
+       "broadcast_on": [
+        "DStv Now"
+       ],
+       "channels": [
+        {
+         "name": "inter",
+         "countries": [
+          "Venezuela"
+         ],
+         "arab_rights": false,
+         "free": true,
+         "sat": [
+          {
+           "position": "23.5E",
+           "satellite": "Astra 3C",
+           "frequency": 12285,
+           "polarization": "V",
+           "symbol_rate": 30000,
+           "fec": "2/3",
+           "standard": "DVB-S2",
+           "name": "Inter HD",
+           "kos_id": "Inter HD",
+           "country": "Ukraine",
+           "package": "",
+           "encryption": "Clear",
+           "free": true,
+           "satellite_ar": "أسترا 23.5"
+          },
+          {
+           "position": "4.8E",
+           "satellite": "Astra 4A",
+           "frequency": 12437,
+           "polarization": "V",
+           "symbol_rate": 30000,
+           "fec": "2/3",
+           "standard": "DVB-S2",
+           "name": "Inter HD",
+           "kos_id": "Inter HD",
+           "country": "Ukraine",
+           "package": "",
+           "encryption": "Clear",
+           "free": true,
+           "satellite_ar": "أسترا 4.8"
+          }
+         ]
+        },
+        {
+         "name": "beIN SPORTS 1",
+         "countries": [
+          "France",
+          "Andorra",
+          "Monaco"
+         ],
+         "arab_rights": false,
+         "free": false,
+         "sat": [
+          {
+           "position": "26.0E",
+           "satellite": "Es'hail 2",
+           "frequency": 10810,
+           "polarization": "H",
+           "symbol_rate": 27500,
+           "fec": "2/3",
+           "standard": "DVB-S2",
+           "name": "beIN Sports 1 HD",
+           "kos_id": "beIN SPORTS 1",
+           "country": "Qatar",
+           "package": "beIN SPORTS",
+           "encryption": "Irdeto 2 / VideoGuard",
+           "free": false,
+           "satellite_ar": "بدر / سهيل سات"
+          },
+          {
+           "position": "8.0W",
+           "satellite": "Eutelsat 8 West B",
+           "frequency": 11012,
+           "polarization": "H",
+           "symbol_rate": 27500,
+           "fec": "2/3",
+           "standard": "DVB-S2",
+           "name": "beIN Sports 1 HD",
+           "kos_id": "beIN SPORTS 1",
+           "country": "Qatar",
+           "package": "beIN SPORTS",
+           "encryption": "Irdeto 2 / VideoGuard",
+           "free": false,
+           "satellite_ar": "يوتل 8 غرب"
+          }
+         ]
+        },
+        {
+         "name": "Eleven Sports 1 Poland",
+         "countries": [
+          "Poland"
+         ],
+         "arab_rights": false,
+         "free": false,
+         "sat": [
+          {
+           "position": "13.0E",
+           "satellite": "Hot Bird 13G",
+           "frequency": 10795,
+           "polarization": "V",
+           "symbol_rate": 27500,
+           "fec": "5/6",
+           "standard": "DVB-S2",
+           "name": "Eleven Sports 1 HD",
+           "kos_id": "Eleven Sports 1 HD",
+           "country": "Poland",
+           "package": "Orange Polska Platforma Canal+ Polsat Box",
+           "encryption": "Conax / Irdeto 2 / Mediaguard 3 / Nagravision 3 / Viaccess 3.0",
+           "free": false,
+           "satellite_ar": "هوت بيرد"
+          },
+          {
+           "position": "13.0E",
+           "satellite": "Hot Bird 13G",
+           "frequency": 11116,
+           "polarization": "V",
+           "symbol_rate": 27500,
+           "fec": "3/4",
+           "standard": "DVB-S2",
+           "name": "Eleven Sports 1 HD",
+           "kos_id": "Eleven Sports 1",
+           "country": "Poland",
+           "package": "Polsat Box",
+           "encryption": "Irdeto 2 / Nagravision 3",
+           "free": false,
+           "satellite_ar": "هوت بيرد"
+          }
+         ]
+        },
+        {
+         "name": "L'Equipe",
+         "countries": [
+          "France",
+          "Andorra",
+          "Monaco",
+          "New Caledonia",
+          "Switzerland"
+         ],
+         "arab_rights": false,
+         "free": false,
+         "sat": [
+          {
+           "position": "13.0E",
+           "satellite": "Hot Bird 13G",
+           "frequency": 10891,
+           "polarization": "H",
+           "symbol_rate": 27500,
+           "fec": "3/4",
+           "standard": "DVB-S2",
+           "name": "L´Equipe TV",
+           "kos_id": "L'EQUIPE",
+           "country": "France",
+           "package": "Bis",
+           "encryption": "Viaccess 3.0 / Viaccess 4.0",
+           "free": false,
+           "satellite_ar": "هوت بيرد"
+          },
+          {
+           "position": "19.2E",
+           "satellite": "Astra 1P",
+           "frequency": 11895,
+           "polarization": "V",
+           "symbol_rate": 29700,
+           "fec": "2/3",
+           "standard": "DVB-S2",
+           "name": "L´Equipe TV",
+           "kos_id": "L'EQUIPE",
+           "country": "France",
+           "package": "Canal+ France TNTSAT",
+           "encryption": "Nagravision 3 / Viaccess 3.0 / Viaccess 4.0",
+           "free": false,
+           "satellite_ar": "أسترا 19.2"
+          }
+         ]
+        },
+        {
+         "name": "TVP Sport",
+         "countries": [
+          "Poland"
+         ],
+         "arab_rights": false,
+         "free": false,
+         "sat": [
+          {
+           "position": "13.0E",
+           "satellite": "Hot Bird 13G",
+           "frequency": 11449,
+           "polarization": "H",
+           "symbol_rate": 27500,
+           "fec": "5/6",
+           "standard": "DVB-S2",
+           "name": "TVP Sport HD",
+           "kos_id": "TVP Sport HD",
+           "country": "Poland",
+           "package": "Orange Polska Platforma Canal+ Polsat Box",
+           "encryption": "Conax / Irdeto 2 / Nagravision 3 / Viaccess 3.0",
+           "free": false,
+           "satellite_ar": "هوت بيرد"
+          }
+         ]
+        },
+        {
+         "name": "Sky Sport Mix",
+         "countries": [
+          "Germany",
+          "Austria",
+          "Switzerland"
+         ],
+         "arab_rights": false,
+         "free": false,
+         "sat": [
+          {
+           "position": "13.0E",
+           "satellite": "Hot Bird 13F",
+           "frequency": 12072,
+           "polarization": "V",
+           "symbol_rate": 29900,
+           "fec": "3/4",
+           "standard": "DVB-S2",
+           "name": "Sky Sport Mix",
+           "kos_id": "Sky Sport Mix",
+           "country": "Italy",
+           "package": "Sky Italia",
+           "encryption": "VideoGuard",
+           "free": false,
+           "satellite_ar": "هوت بيرد"
+          },
+          {
+           "position": "19.2E",
+           "satellite": "Astra 1P",
+           "frequency": 11759,
+           "polarization": "H",
+           "symbol_rate": 27500,
+           "fec": "9/10",
+           "standard": "DVB-S2",
+           "name": "Sky Sport Mix HD",
+           "kos_id": "Sky Sport Mix",
+           "country": "Italy",
+           "package": "Sky Deutschland",
+           "encryption": "VideoGuard",
+           "free": false,
+           "satellite_ar": "أسترا 19.2"
+          }
+         ]
+        },
+        {
+         "name": "Diema Sport 3",
+         "countries": [
+          "Bulgaria"
+         ],
+         "arab_rights": false,
+         "free": false,
+         "sat": [
+          {
+           "position": "13.0E",
+           "satellite": "Hot Bird 13F",
+           "frequency": 12666,
+           "polarization": "V",
+           "symbol_rate": 27500,
+           "fec": "3/4",
+           "standard": "DVB-S2",
+           "name": "Diema Sport 3 HD",
+           "kos_id": "Diema Sport 3 HD",
+           "country": "Bulgaria",
+           "package": "Vivacom",
+           "encryption": "Irdeto 2 / VideoGuard",
+           "free": false,
+           "satellite_ar": "هوت بيرد"
+          },
+          {
+           "position": "39.0E",
+           "satellite": "Hellas Sat 3",
+           "frequency": 12309,
+           "polarization": "H",
+           "symbol_rate": 30000,
+           "fec": "3/4",
+           "standard": "DVB-S2",
+           "name": "Diema Sport 3 HD",
+           "kos_id": "Diema Sport 3 HD",
+           "country": "Bulgaria",
+           "package": "A1 Bulgaria",
+           "encryption": "Conax",
+           "free": false,
+           "satellite_ar": "هيلاس سات"
+          },
+          {
+           "position": "39.0E",
+           "satellite": "Hellas Sat 3",
+           "frequency": 12463,
+           "polarization": "H",
+           "symbol_rate": 30000,
+           "fec": "5/6",
+           "standard": "DVB-S2",
+           "name": "Diema Sport 3 HD",
+           "kos_id": "Diema Sport 3 HD",
+           "country": "Bulgaria",
+           "package": "A1 Bulgaria Bulsatcom",
+           "encryption": "Conax / Nagravision 3",
+           "free": false,
+           "satellite_ar": "هيلاس سات"
+          }
+         ]
+        },
+        {
+         "name": "RTL",
+         "countries": [
+          "Germany",
+          "Austria",
+          "San Marino",
+          "Switzerland"
+         ],
+         "arab_rights": false,
+         "free": false,
+         "sat": [
+          {
+           "position": "19.2E",
+           "satellite": "Astra 1P",
+           "frequency": 10832,
+           "polarization": "H",
+           "symbol_rate": 22000,
+           "fec": "2/3",
+           "standard": "DVB-S2",
+           "name": "RTL HD",
+           "kos_id": "RTL HD",
+           "country": "Germany",
+           "package": "HD + Sky Deutschland",
+           "encryption": "Marlin / Nagravision 3 / VideoGuard",
+           "free": false,
+           "satellite_ar": "أسترا 19.2"
+          },
+          {
+           "position": "19.2E",
+           "satellite": "Astra 1P",
+           "frequency": 10993,
+           "polarization": "H",
+           "symbol_rate": 22000,
+           "fec": "5/6",
+           "standard": "DVB-S2",
+           "name": "RTL UHD",
+           "kos_id": "RTL UHD",
+           "country": "Germany",
+           "package": "HD + Sky Deutschland",
+           "encryption": "Marlin / Nagravision 3 / VideoGuard",
+           "free": false,
+           "satellite_ar": "أسترا 19.2"
+          },
+          {
+           "position": "9.0E",
+           "satellite": "Eutelsat 9B",
+           "frequency": 12245,
+           "polarization": "H",
+           "symbol_rate": 27500,
+           "fec": "2/3",
+           "standard": "DVB-S2",
+           "name": "RTL HD",
+           "kos_id": "RTL HD",
+           "country": "Germany",
+           "package": "Kabelkiosk",
+           "encryption": "Conax / Nagravision 3 / VideoGuard",
+           "free": false,
+           "satellite_ar": "يوتل 9"
+          }
+         ]
+        },
+        {
+         "name": "Replay",
+         "countries": [
+          "Andorra",
+          "Spain"
+         ],
+         "arab_rights": false,
+         "free": false,
+         "sat": [
+          {
+           "position": "19.2E",
+           "satellite": "Astra 1P",
+           "frequency": 11126,
+           "polarization": "V",
+           "symbol_rate": 22000,
+           "fec": "5/6",
+           "standard": "DVB-S",
+           "name": "Gol Play",
+           "kos_id": "REPLAY",
+           "country": "Spain",
+           "package": "Movistar+",
+           "encryption": "Nagravision 3",
+           "free": false,
+           "satellite_ar": "أسترا 19.2"
+          }
+         ]
+        },
+        {
+         "name": "Sky Sport 1/HD",
+         "countries": [
+          "Germany",
+          "Austria",
+          "Switzerland"
+         ],
+         "arab_rights": false,
+         "free": false,
+         "sat": [
+          {
+           "position": "19.2E",
+           "satellite": "Astra 1N",
+           "frequency": 11915,
+           "polarization": "H",
+           "symbol_rate": 27500,
+           "fec": "9/10",
+           "standard": "DVB-S2",
+           "name": "Sky Sport 1 HD Germany",
+           "kos_id": "Sky Sport 1",
+           "country": "Germany",
+           "package": "Sky Deutschland",
+           "encryption": "VideoGuard",
+           "free": false,
+           "satellite_ar": "أسترا 19.2"
+          }
+         ]
+        },
+        {
+         "name": "Sky Sport Top Event",
+         "countries": [
+          "Germany",
+          "Austria",
+          "Switzerland"
+         ],
+         "arab_rights": false,
+         "free": false,
+         "sat": [
+          {
+           "position": "19.2E",
+           "satellite": "Astra 1N",
+           "frequency": 11915,
+           "polarization": "H",
+           "symbol_rate": 27500,
+           "fec": "9/10",
+           "standard": "DVB-S2",
+           "name": "Sky Sport Top Event HD",
+           "kos_id": "Sky Sport Top Event",
+           "country": "Germany",
+           "package": "Sky Deutschland",
+           "encryption": "VideoGuard",
+           "free": false,
+           "satellite_ar": "أسترا 19.2"
+          }
+         ]
+        },
+        {
+         "name": "Canal+",
+         "countries": [
+          "Poland"
+         ],
+         "arab_rights": false,
+         "free": false,
+         "sat": [
+          {
+           "position": "19.2E",
+           "satellite": "Astra 1P",
+           "frequency": 12012,
+           "polarization": "V",
+           "symbol_rate": 29700,
+           "fec": "2/3",
+           "standard": "DVB-S2",
+           "name": "Canal+",
+           "kos_id": "CANAL+",
+           "country": "France",
+           "package": "Canal+ France",
+           "encryption": "Nagravision 3",
+           "free": false,
+           "satellite_ar": "أسترا 19.2"
+          }
+         ]
+        },
+        {
+         "name": "Nova Sport 1",
+         "countries": [
+          "Slovakia"
+         ],
+         "arab_rights": false,
+         "free": false,
+         "sat": [
+          {
+           "position": "16.0E",
+           "satellite": "Eutelsat 16D",
+           "frequency": 11055,
+           "polarization": "V",
+           "symbol_rate": 27500,
+           "fec": "4/5",
+           "standard": "DVB-S2",
+           "name": "Nova Sport HD",
+           "kos_id": "Nova Sport 1 HD",
+           "country": "Czech republic",
+           "package": "A1 Broadcasting",
+           "encryption": "Conax",
+           "free": false,
+           "satellite_ar": "يوتل 16"
+          },
+          {
+           "position": "23.5E",
+           "satellite": "Astra 3C",
+           "frequency": 12265,
+           "polarization": "H",
+           "symbol_rate": 29900,
+           "fec": "3/4",
+           "standard": "DVB-S2",
+           "name": "Nova Sport HD",
+           "kos_id": "Nova Sport 1 HD",
+           "country": "Czech republic",
+           "package": "Canal+ Czechia Slovakia",
+           "encryption": "Conax / Cryptoworks / Irdeto 2 / Nagravision 3 / Viaccess 5.0",
+           "free": false,
+           "satellite_ar": "أسترا 23.5"
+          },
+          {
+           "position": "0.8W",
+           "satellite": "Thor 6",
+           "frequency": 12456,
+           "polarization": "V",
+           "symbol_rate": 30000,
+           "fec": "3/4",
+           "standard": "DVB-S2",
+           "name": "Nova Sport HD",
+           "kos_id": "Nova Sport 1 HD",
+           "country": "Czech republic",
+           "package": "Focus Sat Telly",
+           "encryption": "Conax / Cryptoworks / Irdeto 2 / Nagravision 3",
+           "free": false,
+           "satellite_ar": "ثور"
+          }
+         ]
+        },
+        {
+         "name": "ESPN Africa",
+         "countries": [
+          "Angola",
+          "Benin",
+          "Botswana",
+          "Burkina Faso",
+          "Burundi",
+          "Cameroon",
+          "Central African Republic",
+          "Congo DR",
+          "Côte d'Ivoire",
+          "Equatorial Guinea",
+          "Eritrea",
+          "Ethiopia",
+          "Gabon",
+          "Gambia",
+          "Ghana",
+          "Guinea",
+          "Guinea-Bissau",
+          "Kenya",
+          "Lesotho",
+          "Liberia",
+          "Madagascar",
+          "Malawi",
+          "Mali",
+          "Mauritius",
+          "Mayotte",
+          "Mozambique",
+          "Namibia",
+          "Niger",
+          "Nigeria",
+          "Reunion",
+          "Rwanda",
+          "Saint Helena",
+          "Senegal",
+          "Seychelles",
+          "Sierra Leone",
+          "South Africa",
+          "Swaziland",
+          "São Tomé and Príncipe",
+          "Tanzania",
+          "Togo",
+          "Uganda",
+          "Zambia",
+          "Zimbabwe"
+         ],
+         "arab_rights": false,
+         "free": false,
+         "sat": [
+          {
+           "position": "8.0W",
+           "satellite": "Eutelsat 8 West B",
+           "frequency": 3925,
+           "polarization": "R",
+           "symbol_rate": 30000,
+           "fec": "5/6",
+           "standard": "DVB-S2",
+           "name": "ESPN Africa",
+           "kos_id": "ESPN Africa",
+           "country": "South Africa",
+           "package": "Vivacom",
+           "encryption": "Irdeto 2",
+           "free": false,
+           "satellite_ar": "يوتل 8 غرب"
+          }
+         ]
+        },
+        {
+         "name": "Sport 2",
+         "countries": [
+          "Israel"
+         ],
+         "arab_rights": false,
+         "free": false,
+         "sat": [
+          {
+           "position": "0.8W",
+           "satellite": "Thor 6",
+           "frequency": 10746,
+           "polarization": "H",
+           "symbol_rate": 25000,
+           "fec": "3/4",
+           "standard": "DVB-S2",
+           "name": "TV 2 Sport 2 HD",
+           "kos_id": "TV 2 Sport 2 HD",
+           "country": "Norway",
+           "package": "Allente",
+           "encryption": "Conax / Nagravision 3 / VideoGuard",
+           "free": false,
+           "satellite_ar": "ثور"
+          },
+          {
+           "position": "52.0E",
+           "satellite": "TurkmenÄlem / MonacoSat",
+           "frequency": 10845,
+           "polarization": "H",
+           "symbol_rate": 30000,
+           "fec": "8/9",
+           "standard": "DVB-S2",
+           "name": "Sport-2",
+           "kos_id": "SPORT 2",
+           "country": "Kazakhstan",
+           "package": "Älem TV",
+           "encryption": "Conax / Cryptoguard",
+           "free": false,
+           "satellite_ar": "TurkmenÄlem / MonacoSat"
+          },
+          {
+           "position": "0.8W",
+           "satellite": "Thor 7",
+           "frequency": 12149,
+           "polarization": "V",
+           "symbol_rate": 30000,
+           "fec": "3/4",
+           "standard": "DVB-S2",
+           "name": "Sport 2 HD",
+           "kos_id": "",
+           "country": "",
+           "package": "Focus Sat Telly",
+           "encryption": "Conax / Cryptoworks / Irdeto 2 / Nagravision 3",
+           "free": false,
+           "satellite_ar": "ثور"
+          },
+          {
+           "position": "30.0W",
+           "satellite": "Hispasat 30W-5",
+           "frequency": 12360,
+           "polarization": "H",
+           "symbol_rate": 27500,
+           "fec": "3/4",
+           "standard": "DVB-S2",
+           "name": "Sport TV 2 HD",
+           "kos_id": "SPORT TV 2 HD",
+           "country": "Portugal",
+           "package": "Nos",
+           "encryption": "Nagravision 3",
+           "free": false,
+           "satellite_ar": "Hispasat 30W-5"
+          }
+         ]
+        },
+        {
+         "name": "Go3 Sport 1",
+         "countries": [
+          "Estonia",
+          "Latvia",
+          "Lithuania"
+         ],
+         "arab_rights": false,
+         "free": false,
+         "sat": [
+          {
+           "position": "4.8E",
+           "satellite": "Astra 4A",
+           "frequency": 11938,
+           "polarization": "V",
+           "symbol_rate": 27500,
+           "fec": "5/6",
+           "standard": "DVB-S2",
+           "name": "Go3 Sport 1 HD",
+           "kos_id": "Go3 Sport HD",
+           "country": "Sweden",
+           "package": "Home 3",
+           "encryption": "VideoGuard",
+           "free": false,
+           "satellite_ar": "أسترا 4.8"
+          }
+         ]
+        },
+        {
+         "name": "Digi Sport 3 Romania",
+         "countries": [
+          "Romania"
+         ],
+         "arab_rights": false,
+         "free": false,
+         "sat": [
+          {
+           "position": "0.8W",
+           "satellite": "Intelsat 10-02",
+           "frequency": 12687,
+           "polarization": "H",
+           "symbol_rate": 27500,
+           "fec": "3/4",
+           "standard": "DVB-S",
+           "name": "Digi Sport 3 HD",
+           "kos_id": "DIGI Sport 3",
+           "country": "Romania",
+           "package": "Digi TV",
+           "encryption": "Nagravision 3",
+           "free": false,
+           "satellite_ar": "ثور"
+          }
+         ]
+        }
+       ],
+       "source_url": "https://www.livesoccertv.com/match/bayern-munchen-vs-hertha-bsc/19cff",
+       "home": "بايرن ميونخ",
+       "away": "هرتا برلين",
+       "home_en": "Bayern München",
+       "away_en": "Hertha BSC",
+       "home_logo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_1,d_Competitors:default1.png/v5/Competitors/331",
+       "away_logo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_1,d_Competitors:default1.png/v1/Competitors/342",
+       "s365_id": 4888754
+      },
+      {
+       "id": "5828824",
+       "kickoff": "2026-12-01T22:45:00+03:00",
+       "time_ar": "10:45 م",
+       "venue": "Borussia-Park",
+       "status": "EventScheduled",
+       "broadcast_on": [],
+       "channels": [
+        {
+         "name": "inter",
+         "countries": [
+          "Venezuela"
+         ],
+         "arab_rights": false,
+         "free": true,
+         "sat": [
+          {
+           "position": "23.5E",
+           "satellite": "Astra 3C",
+           "frequency": 12285,
+           "polarization": "V",
+           "symbol_rate": 30000,
+           "fec": "2/3",
+           "standard": "DVB-S2",
+           "name": "Inter HD",
+           "kos_id": "Inter HD",
+           "country": "Ukraine",
+           "package": "",
+           "encryption": "Clear",
+           "free": true,
+           "satellite_ar": "أسترا 23.5"
+          },
+          {
+           "position": "4.8E",
+           "satellite": "Astra 4A",
+           "frequency": 12437,
+           "polarization": "V",
+           "symbol_rate": 30000,
+           "fec": "2/3",
+           "standard": "DVB-S2",
+           "name": "Inter HD",
+           "kos_id": "Inter HD",
+           "country": "Ukraine",
+           "package": "",
+           "encryption": "Clear",
+           "free": true,
+           "satellite_ar": "أسترا 4.8"
+          }
+         ]
+        },
+        {
+         "name": "beIN SPORTS 2",
+         "countries": [
+          "France"
+         ],
+         "arab_rights": false,
+         "free": false,
+         "sat": [
+          {
+           "position": "26.0E",
+           "satellite": "Es'hail 2",
+           "frequency": 10810,
+           "polarization": "H",
+           "symbol_rate": 27500,
+           "fec": "2/3",
+           "standard": "DVB-S2",
+           "name": "beIN Sports 2 HD",
+           "kos_id": "beIN SPORTS 2",
+           "country": "Qatar",
+           "package": "beIN SPORTS",
+           "encryption": "Irdeto 2 / VideoGuard",
+           "free": false,
+           "satellite_ar": "بدر / سهيل سات"
+          },
+          {
+           "position": "26.0E",
+           "satellite": "Es'hail 2",
+           "frequency": 11390,
+           "polarization": "V",
+           "symbol_rate": 27500,
+           "fec": "2/3",
+           "standard": "DVB-S2",
+           "name": "beIN Sports 2 HD",
+           "kos_id": "beIN SPORTS EN 2",
+           "country": "Qatar",
+           "package": "beIN SPORTS",
+           "encryption": "Irdeto 2 / VideoGuard",
+           "free": false,
+           "satellite_ar": "بدر / سهيل سات"
+          },
+          {
+           "position": "8.0W",
+           "satellite": "Eutelsat 8 West B",
+           "frequency": 11012,
+           "polarization": "H",
+           "symbol_rate": 27500,
+           "fec": "2/3",
+           "standard": "DVB-S2",
+           "name": "beIN Sports 2 HD",
+           "kos_id": "beIN SPORTS 2",
+           "country": "Qatar",
+           "package": "beIN SPORTS",
+           "encryption": "Irdeto 2 / VideoGuard",
+           "free": false,
+           "satellite_ar": "يوتل 8 غرب"
+          }
+         ]
+        },
+        {
+         "name": "Eleven Sports 2 Poland",
+         "countries": [
+          "Poland"
+         ],
+         "arab_rights": false,
+         "free": false,
+         "sat": [
+          {
+           "position": "13.0E",
+           "satellite": "Hot Bird 13G",
+           "frequency": 10795,
+           "polarization": "V",
+           "symbol_rate": 27500,
+           "fec": "5/6",
+           "standard": "DVB-S2",
+           "name": "Eleven Sports 2 HD",
+           "kos_id": "Eleven Sports 2 HD",
+           "country": "Poland",
+           "package": "Orange Polska Platforma Canal+ Polsat Box",
+           "encryption": "Conax / Irdeto 2 / Mediaguard 3 / Nagravision 3 / Viaccess 3.0",
+           "free": false,
+           "satellite_ar": "هوت بيرد"
+          },
+          {
+           "position": "13.0E",
+           "satellite": "Hot Bird 13G",
+           "frequency": 11116,
+           "polarization": "V",
+           "symbol_rate": 27500,
+           "fec": "3/4",
+           "standard": "DVB-S2",
+           "name": "Eleven Sports 2 HD",
+           "kos_id": "Eleven Sports 2",
+           "country": "Poland",
+           "package": "Polsat Box",
+           "encryption": "Irdeto 2 / Nagravision 3",
+           "free": false,
+           "satellite_ar": "هوت بيرد"
+          }
+         ]
+        },
+        {
+         "name": "Sky Sport Mix",
+         "countries": [
+          "Germany",
+          "Austria",
+          "Switzerland"
+         ],
+         "arab_rights": false,
+         "free": false,
+         "sat": [
+          {
+           "position": "13.0E",
+           "satellite": "Hot Bird 13F",
+           "frequency": 12072,
+           "polarization": "V",
+           "symbol_rate": 29900,
+           "fec": "3/4",
+           "standard": "DVB-S2",
+           "name": "Sky Sport Mix",
+           "kos_id": "Sky Sport Mix",
+           "country": "Italy",
+           "package": "Sky Italia",
+           "encryption": "VideoGuard",
+           "free": false,
+           "satellite_ar": "هوت بيرد"
+          },
+          {
+           "position": "19.2E",
+           "satellite": "Astra 1P",
+           "frequency": 11759,
+           "polarization": "H",
+           "symbol_rate": 27500,
+           "fec": "9/10",
+           "standard": "DVB-S2",
+           "name": "Sky Sport Mix HD",
+           "kos_id": "Sky Sport Mix",
+           "country": "Italy",
+           "package": "Sky Deutschland",
+           "encryption": "VideoGuard",
+           "free": false,
+           "satellite_ar": "أسترا 19.2"
+          }
+         ]
+        },
+        {
+         "name": "Nova Sport Bulgaria",
+         "countries": [
+          "Bulgaria"
+         ],
+         "arab_rights": false,
+         "free": false,
+         "sat": [
+          {
+           "position": "13.0E",
+           "satellite": "Hot Bird 13F",
+           "frequency": 12654,
+           "polarization": "H",
+           "symbol_rate": 30000,
+           "fec": "5/6",
+           "standard": "DVB-S2",
+           "name": "Nova Sport Bulgaria",
+           "kos_id": "Nova Sport",
+           "country": "Bulgaria",
+           "package": "Vivacom",
+           "encryption": "Irdeto 2 / VideoGuard",
+           "free": false,
+           "satellite_ar": "هوت بيرد"
+          },
+          {
+           "position": "39.0E",
+           "satellite": "Hellas Sat 3",
+           "frequency": 12271,
+           "polarization": "H",
+           "symbol_rate": 30000,
+           "fec": "5/6",
+           "standard": "DVB-S2",
+           "name": "Nova Sport Bulgaria",
+           "kos_id": "Nova Sport",
+           "country": "Bulgaria",
+           "package": "A1 Bulgaria Bulsatcom",
+           "encryption": "Conax / Nagravision 3",
+           "free": false,
+           "satellite_ar": "هيلاس سات"
+          },
+          {
+           "position": "39.0E",
+           "satellite": "Hellas Sat 3",
+           "frequency": 12309,
+           "polarization": "H",
+           "symbol_rate": 30000,
+           "fec": "3/4",
+           "standard": "DVB-S2",
+           "name": "Nova Sport HD Bulgaria",
+           "kos_id": "Nova Sport HD",
+           "country": "Bulgaria",
+           "package": "A1 Bulgaria",
+           "encryption": "Conax",
+           "free": false,
+           "satellite_ar": "هيلاس سات"
+          }
+         ]
+        },
+        {
+         "name": "Sky Sport 1/HD",
+         "countries": [
+          "Germany",
+          "Austria",
+          "Switzerland"
+         ],
+         "arab_rights": false,
+         "free": false,
+         "sat": [
+          {
+           "position": "19.2E",
+           "satellite": "Astra 1N",
+           "frequency": 11915,
+           "polarization": "H",
+           "symbol_rate": 27500,
+           "fec": "9/10",
+           "standard": "DVB-S2",
+           "name": "Sky Sport 1 HD Germany",
+           "kos_id": "Sky Sport 1",
+           "country": "Germany",
+           "package": "Sky Deutschland",
+           "encryption": "VideoGuard",
+           "free": false,
+           "satellite_ar": "أسترا 19.2"
+          }
+         ]
+        },
+        {
+         "name": "Sky Sport Top Event",
+         "countries": [
+          "Germany",
+          "Austria",
+          "Switzerland"
+         ],
+         "arab_rights": false,
+         "free": false,
+         "sat": [
+          {
+           "position": "19.2E",
+           "satellite": "Astra 1N",
+           "frequency": 11915,
+           "polarization": "H",
+           "symbol_rate": 27500,
+           "fec": "9/10",
+           "standard": "DVB-S2",
+           "name": "Sky Sport Top Event HD",
+           "kos_id": "Sky Sport Top Event",
+           "country": "Germany",
+           "package": "Sky Deutschland",
+           "encryption": "VideoGuard",
+           "free": false,
+           "satellite_ar": "أسترا 19.2"
+          }
+         ]
+        },
+        {
+         "name": "Canal+",
+         "countries": [
+          "Poland"
+         ],
+         "arab_rights": false,
+         "free": false,
+         "sat": [
+          {
+           "position": "19.2E",
+           "satellite": "Astra 1P",
+           "frequency": 12012,
+           "polarization": "V",
+           "symbol_rate": 29700,
+           "fec": "2/3",
+           "standard": "DVB-S2",
+           "name": "Canal+",
+           "kos_id": "CANAL+",
+           "country": "France",
+           "package": "Canal+ France",
+           "encryption": "Nagravision 3",
+           "free": false,
+           "satellite_ar": "أسترا 19.2"
+          }
+         ]
+        },
+        {
+         "name": "Sky Sport 5/HD",
+         "countries": [
+          "Germany",
+          "Austria"
+         ],
+         "arab_rights": false,
+         "free": false,
+         "sat": [
+          {
+           "position": "19.2E",
+           "satellite": "Astra 1P",
+           "frequency": 12032,
+           "polarization": "H",
+           "symbol_rate": 27500,
+           "fec": "9/10",
+           "standard": "DVB-S2",
+           "name": "Sky Sport 5 HD Germany",
+           "kos_id": "Sky Sport 5",
+           "country": "Greece",
+           "package": "Sky Deutschland",
+           "encryption": "VideoGuard",
+           "free": false,
+           "satellite_ar": "أسترا 19.2"
+          }
+         ]
+        },
+        {
+         "name": "Nova Sport 2",
+         "countries": [
+          "Slovakia"
+         ],
+         "arab_rights": false,
+         "free": false,
+         "sat": [
+          {
+           "position": "23.5E",
+           "satellite": "Astra 3C",
+           "frequency": 11973,
+           "polarization": "V",
+           "symbol_rate": 29900,
+           "fec": "3/4",
+           "standard": "DVB-S2",
+           "name": "Nova Sport 2 HD",
+           "kos_id": "Nova Sport 2 HD",
+           "country": "Czech republic",
+           "package": "Canal+ Czechia Slovakia",
+           "encryption": "Conax / Cryptoworks / Irdeto 2 / Nagravision 3 / Viaccess 5.0",
+           "free": false,
+           "satellite_ar": "أسترا 23.5"
+          },
+          {
+           "position": "0.8W",
+           "satellite": "Thor 6",
+           "frequency": 12379,
+           "polarization": "V",
+           "symbol_rate": 30000,
+           "fec": "3/4",
+           "standard": "DVB-S2",
+           "name": "Nova Sport 2 HD",
+           "kos_id": "Nova Sport 2 HD",
+           "country": "Czech republic",
+           "package": "Focus Sat Telly",
+           "encryption": "Conax / Cryptoworks / Irdeto 2 / Nagravision 3",
+           "free": false,
+           "satellite_ar": "ثور"
+          }
+         ]
+        }
+       ],
+       "source_url": "https://www.livesoccertv.com/match/borussia-mgladbach-vs-darmstadt-98/54i37",
+       "home": "بوروسيا مونشنجلادباخ",
+       "away": "دارمشتات",
+       "home_en": "Borussia M'gladbach",
+       "away_en": "Darmstadt 98",
+       "home_logo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_1,d_Competitors:default1.png/v5/Competitors/349",
+       "away_logo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_1,d_Competitors:default1.png/v1/Competitors/454",
+       "s365_id": 4888752
       }
      ]
     }
@@ -25502,6 +28200,1166 @@
        "home_logo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_1,d_Competitors:default1.png/v9/Competitors/132",
        "away_logo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_1,d_Competitors:default1.png/v11/Competitors/134",
        "s365_id": 4750684
+      }
+     ]
+    },
+    {
+     "competition": "كأس ألمانيا",
+     "competition_en": "Germany - DFB Pokal",
+     "rank": 20,
+     "matches": [
+      {
+       "id": "5828828",
+       "kickoff": "2026-12-02T20:00:00+03:00",
+       "time_ar": "8:00 م",
+       "venue": "Fritz Walter Stadion",
+       "status": "EventScheduled",
+       "broadcast_on": [],
+       "channels": [
+        {
+         "name": "inter",
+         "countries": [
+          "Venezuela"
+         ],
+         "arab_rights": false,
+         "free": true,
+         "sat": [
+          {
+           "position": "23.5E",
+           "satellite": "Astra 3C",
+           "frequency": 12285,
+           "polarization": "V",
+           "symbol_rate": 30000,
+           "fec": "2/3",
+           "standard": "DVB-S2",
+           "name": "Inter HD",
+           "kos_id": "Inter HD",
+           "country": "Ukraine",
+           "package": "",
+           "encryption": "Clear",
+           "free": true,
+           "satellite_ar": "أسترا 23.5"
+          },
+          {
+           "position": "4.8E",
+           "satellite": "Astra 4A",
+           "frequency": 12437,
+           "polarization": "V",
+           "symbol_rate": 30000,
+           "fec": "2/3",
+           "standard": "DVB-S2",
+           "name": "Inter HD",
+           "kos_id": "Inter HD",
+           "country": "Ukraine",
+           "package": "",
+           "encryption": "Clear",
+           "free": true,
+           "satellite_ar": "أسترا 4.8"
+          }
+         ]
+        },
+        {
+         "name": "beIN SPORTS 2",
+         "countries": [
+          "France"
+         ],
+         "arab_rights": false,
+         "free": false,
+         "sat": [
+          {
+           "position": "26.0E",
+           "satellite": "Es'hail 2",
+           "frequency": 10810,
+           "polarization": "H",
+           "symbol_rate": 27500,
+           "fec": "2/3",
+           "standard": "DVB-S2",
+           "name": "beIN Sports 2 HD",
+           "kos_id": "beIN SPORTS 2",
+           "country": "Qatar",
+           "package": "beIN SPORTS",
+           "encryption": "Irdeto 2 / VideoGuard",
+           "free": false,
+           "satellite_ar": "بدر / سهيل سات"
+          },
+          {
+           "position": "26.0E",
+           "satellite": "Es'hail 2",
+           "frequency": 11390,
+           "polarization": "V",
+           "symbol_rate": 27500,
+           "fec": "2/3",
+           "standard": "DVB-S2",
+           "name": "beIN Sports 2 HD",
+           "kos_id": "beIN SPORTS EN 2",
+           "country": "Qatar",
+           "package": "beIN SPORTS",
+           "encryption": "Irdeto 2 / VideoGuard",
+           "free": false,
+           "satellite_ar": "بدر / سهيل سات"
+          },
+          {
+           "position": "8.0W",
+           "satellite": "Eutelsat 8 West B",
+           "frequency": 11012,
+           "polarization": "H",
+           "symbol_rate": 27500,
+           "fec": "2/3",
+           "standard": "DVB-S2",
+           "name": "beIN Sports 2 HD",
+           "kos_id": "beIN SPORTS 2",
+           "country": "Qatar",
+           "package": "beIN SPORTS",
+           "encryption": "Irdeto 2 / VideoGuard",
+           "free": false,
+           "satellite_ar": "يوتل 8 غرب"
+          }
+         ]
+        },
+        {
+         "name": "Eleven Sports 3 Poland",
+         "countries": [
+          "Poland"
+         ],
+         "arab_rights": false,
+         "free": false,
+         "sat": [
+          {
+           "position": "13.0E",
+           "satellite": "Hot Bird 13G",
+           "frequency": 10795,
+           "polarization": "V",
+           "symbol_rate": 27500,
+           "fec": "5/6",
+           "standard": "DVB-S2",
+           "name": "Eleven Sports 3 HD",
+           "kos_id": "Eleven Sports 3 HD",
+           "country": "Poland",
+           "package": "Orange Polska Platforma Canal+ Polsat Box",
+           "encryption": "Conax / Irdeto 2 / Mediaguard 3 / Nagravision 3 / Viaccess 3.0",
+           "free": false,
+           "satellite_ar": "هوت بيرد"
+          },
+          {
+           "position": "13.0E",
+           "satellite": "Hot Bird 13G",
+           "frequency": 11116,
+           "polarization": "V",
+           "symbol_rate": 27500,
+           "fec": "3/4",
+           "standard": "DVB-S2",
+           "name": "Eleven Sports 3 HD",
+           "kos_id": "Eleven Sports 3",
+           "country": "Poland",
+           "package": "Polsat Box",
+           "encryption": "Irdeto 2 / Nagravision 3",
+           "free": false,
+           "satellite_ar": "هوت بيرد"
+          }
+         ]
+        },
+        {
+         "name": "Sky Sport Mix",
+         "countries": [
+          "Germany",
+          "Austria",
+          "Switzerland"
+         ],
+         "arab_rights": false,
+         "free": false,
+         "sat": [
+          {
+           "position": "13.0E",
+           "satellite": "Hot Bird 13F",
+           "frequency": 12072,
+           "polarization": "V",
+           "symbol_rate": 29900,
+           "fec": "3/4",
+           "standard": "DVB-S2",
+           "name": "Sky Sport Mix",
+           "kos_id": "Sky Sport Mix",
+           "country": "Italy",
+           "package": "Sky Italia",
+           "encryption": "VideoGuard",
+           "free": false,
+           "satellite_ar": "هوت بيرد"
+          },
+          {
+           "position": "19.2E",
+           "satellite": "Astra 1P",
+           "frequency": 11759,
+           "polarization": "H",
+           "symbol_rate": 27500,
+           "fec": "9/10",
+           "standard": "DVB-S2",
+           "name": "Sky Sport Mix HD",
+           "kos_id": "Sky Sport Mix",
+           "country": "Italy",
+           "package": "Sky Deutschland",
+           "encryption": "VideoGuard",
+           "free": false,
+           "satellite_ar": "أسترا 19.2"
+          }
+         ]
+        },
+        {
+         "name": "Sky Sport 1/HD",
+         "countries": [
+          "Germany",
+          "Austria",
+          "Switzerland"
+         ],
+         "arab_rights": false,
+         "free": false,
+         "sat": [
+          {
+           "position": "19.2E",
+           "satellite": "Astra 1N",
+           "frequency": 11915,
+           "polarization": "H",
+           "symbol_rate": 27500,
+           "fec": "9/10",
+           "standard": "DVB-S2",
+           "name": "Sky Sport 1 HD Germany",
+           "kos_id": "Sky Sport 1",
+           "country": "Germany",
+           "package": "Sky Deutschland",
+           "encryption": "VideoGuard",
+           "free": false,
+           "satellite_ar": "أسترا 19.2"
+          }
+         ]
+        },
+        {
+         "name": "Sky Sport Top Event",
+         "countries": [
+          "Germany",
+          "Austria",
+          "Switzerland"
+         ],
+         "arab_rights": false,
+         "free": false,
+         "sat": [
+          {
+           "position": "19.2E",
+           "satellite": "Astra 1N",
+           "frequency": 11915,
+           "polarization": "H",
+           "symbol_rate": 27500,
+           "fec": "9/10",
+           "standard": "DVB-S2",
+           "name": "Sky Sport Top Event HD",
+           "kos_id": "Sky Sport Top Event",
+           "country": "Germany",
+           "package": "Sky Deutschland",
+           "encryption": "VideoGuard",
+           "free": false,
+           "satellite_ar": "أسترا 19.2"
+          }
+         ]
+        },
+        {
+         "name": "Canal+",
+         "countries": [
+          "Poland"
+         ],
+         "arab_rights": false,
+         "free": false,
+         "sat": [
+          {
+           "position": "19.2E",
+           "satellite": "Astra 1P",
+           "frequency": 12012,
+           "polarization": "V",
+           "symbol_rate": 29700,
+           "fec": "2/3",
+           "standard": "DVB-S2",
+           "name": "Canal+",
+           "kos_id": "CANAL+",
+           "country": "France",
+           "package": "Canal+ France",
+           "encryption": "Nagravision 3",
+           "free": false,
+           "satellite_ar": "أسترا 19.2"
+          }
+         ]
+        },
+        {
+         "name": "Nova Sport 2",
+         "countries": [
+          "Slovakia"
+         ],
+         "arab_rights": false,
+         "free": false,
+         "sat": [
+          {
+           "position": "23.5E",
+           "satellite": "Astra 3C",
+           "frequency": 11973,
+           "polarization": "V",
+           "symbol_rate": 29900,
+           "fec": "3/4",
+           "standard": "DVB-S2",
+           "name": "Nova Sport 2 HD",
+           "kos_id": "Nova Sport 2 HD",
+           "country": "Czech republic",
+           "package": "Canal+ Czechia Slovakia",
+           "encryption": "Conax / Cryptoworks / Irdeto 2 / Nagravision 3 / Viaccess 5.0",
+           "free": false,
+           "satellite_ar": "أسترا 23.5"
+          },
+          {
+           "position": "0.8W",
+           "satellite": "Thor 6",
+           "frequency": 12379,
+           "polarization": "V",
+           "symbol_rate": 30000,
+           "fec": "3/4",
+           "standard": "DVB-S2",
+           "name": "Nova Sport 2 HD",
+           "kos_id": "Nova Sport 2 HD",
+           "country": "Czech republic",
+           "package": "Focus Sat Telly",
+           "encryption": "Conax / Cryptoworks / Irdeto 2 / Nagravision 3",
+           "free": false,
+           "satellite_ar": "ثور"
+          }
+         ]
+        }
+       ],
+       "source_url": "https://www.livesoccertv.com/match/freiburg-vs-kaiserslautern/25jy1",
+       "home": "كايزرسلاوترن",
+       "away": "فرايبورج",
+       "home_en": "Kaiserslautern",
+       "away_en": "Freiburg",
+       "home_logo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_1,d_Competitors:default1.png/v1/Competitors/364",
+       "away_logo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_1,d_Competitors:default1.png/v6/Competitors/354",
+       "s365_id": 4888757
+      },
+      {
+       "id": "5828825",
+       "kickoff": "2026-12-02T22:45:00+03:00",
+       "time_ar": "10:45 م",
+       "venue": "Vonovia Ruhrstadion",
+       "status": "EventScheduled",
+       "broadcast_on": [],
+       "channels": [
+        {
+         "name": "inter",
+         "countries": [
+          "Venezuela"
+         ],
+         "arab_rights": false,
+         "free": true,
+         "sat": [
+          {
+           "position": "23.5E",
+           "satellite": "Astra 3C",
+           "frequency": 12285,
+           "polarization": "V",
+           "symbol_rate": 30000,
+           "fec": "2/3",
+           "standard": "DVB-S2",
+           "name": "Inter HD",
+           "kos_id": "Inter HD",
+           "country": "Ukraine",
+           "package": "",
+           "encryption": "Clear",
+           "free": true,
+           "satellite_ar": "أسترا 23.5"
+          },
+          {
+           "position": "4.8E",
+           "satellite": "Astra 4A",
+           "frequency": 12437,
+           "polarization": "V",
+           "symbol_rate": 30000,
+           "fec": "2/3",
+           "standard": "DVB-S2",
+           "name": "Inter HD",
+           "kos_id": "Inter HD",
+           "country": "Ukraine",
+           "package": "",
+           "encryption": "Clear",
+           "free": true,
+           "satellite_ar": "أسترا 4.8"
+          }
+         ]
+        },
+        {
+         "name": "beIN SPORTS 2",
+         "countries": [
+          "France"
+         ],
+         "arab_rights": false,
+         "free": false,
+         "sat": [
+          {
+           "position": "26.0E",
+           "satellite": "Es'hail 2",
+           "frequency": 10810,
+           "polarization": "H",
+           "symbol_rate": 27500,
+           "fec": "2/3",
+           "standard": "DVB-S2",
+           "name": "beIN Sports 2 HD",
+           "kos_id": "beIN SPORTS 2",
+           "country": "Qatar",
+           "package": "beIN SPORTS",
+           "encryption": "Irdeto 2 / VideoGuard",
+           "free": false,
+           "satellite_ar": "بدر / سهيل سات"
+          },
+          {
+           "position": "26.0E",
+           "satellite": "Es'hail 2",
+           "frequency": 11390,
+           "polarization": "V",
+           "symbol_rate": 27500,
+           "fec": "2/3",
+           "standard": "DVB-S2",
+           "name": "beIN Sports 2 HD",
+           "kos_id": "beIN SPORTS EN 2",
+           "country": "Qatar",
+           "package": "beIN SPORTS",
+           "encryption": "Irdeto 2 / VideoGuard",
+           "free": false,
+           "satellite_ar": "بدر / سهيل سات"
+          },
+          {
+           "position": "8.0W",
+           "satellite": "Eutelsat 8 West B",
+           "frequency": 11012,
+           "polarization": "H",
+           "symbol_rate": 27500,
+           "fec": "2/3",
+           "standard": "DVB-S2",
+           "name": "beIN Sports 2 HD",
+           "kos_id": "beIN SPORTS 2",
+           "country": "Qatar",
+           "package": "beIN SPORTS",
+           "encryption": "Irdeto 2 / VideoGuard",
+           "free": false,
+           "satellite_ar": "يوتل 8 غرب"
+          }
+         ]
+        },
+        {
+         "name": "Eleven Sports 2 Poland",
+         "countries": [
+          "Poland"
+         ],
+         "arab_rights": false,
+         "free": false,
+         "sat": [
+          {
+           "position": "13.0E",
+           "satellite": "Hot Bird 13G",
+           "frequency": 10795,
+           "polarization": "V",
+           "symbol_rate": 27500,
+           "fec": "5/6",
+           "standard": "DVB-S2",
+           "name": "Eleven Sports 2 HD",
+           "kos_id": "Eleven Sports 2 HD",
+           "country": "Poland",
+           "package": "Orange Polska Platforma Canal+ Polsat Box",
+           "encryption": "Conax / Irdeto 2 / Mediaguard 3 / Nagravision 3 / Viaccess 3.0",
+           "free": false,
+           "satellite_ar": "هوت بيرد"
+          },
+          {
+           "position": "13.0E",
+           "satellite": "Hot Bird 13G",
+           "frequency": 11116,
+           "polarization": "V",
+           "symbol_rate": 27500,
+           "fec": "3/4",
+           "standard": "DVB-S2",
+           "name": "Eleven Sports 2 HD",
+           "kos_id": "Eleven Sports 2",
+           "country": "Poland",
+           "package": "Polsat Box",
+           "encryption": "Irdeto 2 / Nagravision 3",
+           "free": false,
+           "satellite_ar": "هوت بيرد"
+          }
+         ]
+        },
+        {
+         "name": "Sky Sport Mix",
+         "countries": [
+          "Germany",
+          "Austria",
+          "Switzerland"
+         ],
+         "arab_rights": false,
+         "free": false,
+         "sat": [
+          {
+           "position": "13.0E",
+           "satellite": "Hot Bird 13F",
+           "frequency": 12072,
+           "polarization": "V",
+           "symbol_rate": 29900,
+           "fec": "3/4",
+           "standard": "DVB-S2",
+           "name": "Sky Sport Mix",
+           "kos_id": "Sky Sport Mix",
+           "country": "Italy",
+           "package": "Sky Italia",
+           "encryption": "VideoGuard",
+           "free": false,
+           "satellite_ar": "هوت بيرد"
+          },
+          {
+           "position": "19.2E",
+           "satellite": "Astra 1P",
+           "frequency": 11759,
+           "polarization": "H",
+           "symbol_rate": 27500,
+           "fec": "9/10",
+           "standard": "DVB-S2",
+           "name": "Sky Sport Mix HD",
+           "kos_id": "Sky Sport Mix",
+           "country": "Italy",
+           "package": "Sky Deutschland",
+           "encryption": "VideoGuard",
+           "free": false,
+           "satellite_ar": "أسترا 19.2"
+          }
+         ]
+        },
+        {
+         "name": "Sky Sport 1/HD",
+         "countries": [
+          "Germany",
+          "Austria",
+          "Switzerland"
+         ],
+         "arab_rights": false,
+         "free": false,
+         "sat": [
+          {
+           "position": "19.2E",
+           "satellite": "Astra 1N",
+           "frequency": 11915,
+           "polarization": "H",
+           "symbol_rate": 27500,
+           "fec": "9/10",
+           "standard": "DVB-S2",
+           "name": "Sky Sport 1 HD Germany",
+           "kos_id": "Sky Sport 1",
+           "country": "Germany",
+           "package": "Sky Deutschland",
+           "encryption": "VideoGuard",
+           "free": false,
+           "satellite_ar": "أسترا 19.2"
+          }
+         ]
+        },
+        {
+         "name": "Sky Sport Top Event",
+         "countries": [
+          "Germany",
+          "Austria",
+          "Switzerland"
+         ],
+         "arab_rights": false,
+         "free": false,
+         "sat": [
+          {
+           "position": "19.2E",
+           "satellite": "Astra 1N",
+           "frequency": 11915,
+           "polarization": "H",
+           "symbol_rate": 27500,
+           "fec": "9/10",
+           "standard": "DVB-S2",
+           "name": "Sky Sport Top Event HD",
+           "kos_id": "Sky Sport Top Event",
+           "country": "Germany",
+           "package": "Sky Deutschland",
+           "encryption": "VideoGuard",
+           "free": false,
+           "satellite_ar": "أسترا 19.2"
+          }
+         ]
+        },
+        {
+         "name": "Canal+",
+         "countries": [
+          "Poland"
+         ],
+         "arab_rights": false,
+         "free": false,
+         "sat": [
+          {
+           "position": "19.2E",
+           "satellite": "Astra 1P",
+           "frequency": 12012,
+           "polarization": "V",
+           "symbol_rate": 29700,
+           "fec": "2/3",
+           "standard": "DVB-S2",
+           "name": "Canal+",
+           "kos_id": "CANAL+",
+           "country": "France",
+           "package": "Canal+ France",
+           "encryption": "Nagravision 3",
+           "free": false,
+           "satellite_ar": "أسترا 19.2"
+          }
+         ]
+        },
+        {
+         "name": "Sky Sport 5/HD",
+         "countries": [
+          "Germany",
+          "Austria"
+         ],
+         "arab_rights": false,
+         "free": false,
+         "sat": [
+          {
+           "position": "19.2E",
+           "satellite": "Astra 1P",
+           "frequency": 12032,
+           "polarization": "H",
+           "symbol_rate": 27500,
+           "fec": "9/10",
+           "standard": "DVB-S2",
+           "name": "Sky Sport 5 HD Germany",
+           "kos_id": "Sky Sport 5",
+           "country": "Greece",
+           "package": "Sky Deutschland",
+           "encryption": "VideoGuard",
+           "free": false,
+           "satellite_ar": "أسترا 19.2"
+          }
+         ]
+        },
+        {
+         "name": "Nova Sport 1",
+         "countries": [
+          "Slovakia"
+         ],
+         "arab_rights": false,
+         "free": false,
+         "sat": [
+          {
+           "position": "16.0E",
+           "satellite": "Eutelsat 16D",
+           "frequency": 11055,
+           "polarization": "V",
+           "symbol_rate": 27500,
+           "fec": "4/5",
+           "standard": "DVB-S2",
+           "name": "Nova Sport HD",
+           "kos_id": "Nova Sport 1 HD",
+           "country": "Czech republic",
+           "package": "A1 Broadcasting",
+           "encryption": "Conax",
+           "free": false,
+           "satellite_ar": "يوتل 16"
+          },
+          {
+           "position": "23.5E",
+           "satellite": "Astra 3C",
+           "frequency": 12265,
+           "polarization": "H",
+           "symbol_rate": 29900,
+           "fec": "3/4",
+           "standard": "DVB-S2",
+           "name": "Nova Sport HD",
+           "kos_id": "Nova Sport 1 HD",
+           "country": "Czech republic",
+           "package": "Canal+ Czechia Slovakia",
+           "encryption": "Conax / Cryptoworks / Irdeto 2 / Nagravision 3 / Viaccess 5.0",
+           "free": false,
+           "satellite_ar": "أسترا 23.5"
+          },
+          {
+           "position": "0.8W",
+           "satellite": "Thor 6",
+           "frequency": 12456,
+           "polarization": "V",
+           "symbol_rate": 30000,
+           "fec": "3/4",
+           "standard": "DVB-S2",
+           "name": "Nova Sport HD",
+           "kos_id": "Nova Sport 1 HD",
+           "country": "Czech republic",
+           "package": "Focus Sat Telly",
+           "encryption": "Conax / Cryptoworks / Irdeto 2 / Nagravision 3",
+           "free": false,
+           "satellite_ar": "ثور"
+          }
+         ]
+        }
+       ],
+       "source_url": "https://www.livesoccertv.com/match/bochum-vs-augsburg/25yhs",
+       "home": "بوخوم",
+       "away": "أوغسبورغ",
+       "home_en": "Bochum",
+       "away_en": "Augsburg",
+       "home_logo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_1,d_Competitors:default1.png/v3/Competitors/343",
+       "away_logo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_1,d_Competitors:default1.png/v5/Competitors/358",
+       "s365_id": 4888755
+      },
+      {
+       "id": "5828826",
+       "kickoff": "2026-12-02T22:45:00+03:00",
+       "time_ar": "10:45 م",
+       "venue": "Deutsche Bank Park",
+       "status": "EventScheduled",
+       "broadcast_on": [],
+       "channels": [
+        {
+         "name": "Das Erste",
+         "countries": [
+          "Germany",
+          "Luxembourg"
+         ],
+         "arab_rights": false,
+         "free": true,
+         "sat": [
+          {
+           "position": "19.2E",
+           "satellite": "Astra 1P",
+           "frequency": 11493,
+           "polarization": "H",
+           "symbol_rate": 21998,
+           "fec": "2/3",
+           "standard": "DVB-S2",
+           "name": "Das Erste HD",
+           "kos_id": "Das Erste HD",
+           "country": "Germany",
+           "package": "ARD Digital",
+           "encryption": "Clear",
+           "free": true,
+           "satellite_ar": "أسترا 19.2"
+          },
+          {
+           "position": "13.0E",
+           "satellite": "Hot Bird 13F",
+           "frequency": 11861,
+           "polarization": "H",
+           "symbol_rate": 29900,
+           "fec": "2/3",
+           "standard": "DVB-S2",
+           "name": "Das Erste HD",
+           "kos_id": "Kabelio Das Erste",
+           "country": "Germany",
+           "package": "KABELIO.CH",
+           "encryption": "Panaccess",
+           "free": false,
+           "satellite_ar": "هوت بيرد"
+          }
+         ]
+        },
+        {
+         "name": "inter",
+         "countries": [
+          "Venezuela"
+         ],
+         "arab_rights": false,
+         "free": true,
+         "sat": [
+          {
+           "position": "23.5E",
+           "satellite": "Astra 3C",
+           "frequency": 12285,
+           "polarization": "V",
+           "symbol_rate": 30000,
+           "fec": "2/3",
+           "standard": "DVB-S2",
+           "name": "Inter HD",
+           "kos_id": "Inter HD",
+           "country": "Ukraine",
+           "package": "",
+           "encryption": "Clear",
+           "free": true,
+           "satellite_ar": "أسترا 23.5"
+          },
+          {
+           "position": "4.8E",
+           "satellite": "Astra 4A",
+           "frequency": 12437,
+           "polarization": "V",
+           "symbol_rate": 30000,
+           "fec": "2/3",
+           "standard": "DVB-S2",
+           "name": "Inter HD",
+           "kos_id": "Inter HD",
+           "country": "Ukraine",
+           "package": "",
+           "encryption": "Clear",
+           "free": true,
+           "satellite_ar": "أسترا 4.8"
+          }
+         ]
+        },
+        {
+         "name": "beIN SPORTS 1",
+         "countries": [
+          "France",
+          "Andorra",
+          "Monaco"
+         ],
+         "arab_rights": false,
+         "free": false,
+         "sat": [
+          {
+           "position": "26.0E",
+           "satellite": "Es'hail 2",
+           "frequency": 10810,
+           "polarization": "H",
+           "symbol_rate": 27500,
+           "fec": "2/3",
+           "standard": "DVB-S2",
+           "name": "beIN Sports 1 HD",
+           "kos_id": "beIN SPORTS 1",
+           "country": "Qatar",
+           "package": "beIN SPORTS",
+           "encryption": "Irdeto 2 / VideoGuard",
+           "free": false,
+           "satellite_ar": "بدر / سهيل سات"
+          },
+          {
+           "position": "8.0W",
+           "satellite": "Eutelsat 8 West B",
+           "frequency": 11012,
+           "polarization": "H",
+           "symbol_rate": 27500,
+           "fec": "2/3",
+           "standard": "DVB-S2",
+           "name": "beIN Sports 1 HD",
+           "kos_id": "beIN SPORTS 1",
+           "country": "Qatar",
+           "package": "beIN SPORTS",
+           "encryption": "Irdeto 2 / VideoGuard",
+           "free": false,
+           "satellite_ar": "يوتل 8 غرب"
+          }
+         ]
+        },
+        {
+         "name": "Eleven Sports 1 Poland",
+         "countries": [
+          "Poland"
+         ],
+         "arab_rights": false,
+         "free": false,
+         "sat": [
+          {
+           "position": "13.0E",
+           "satellite": "Hot Bird 13G",
+           "frequency": 10795,
+           "polarization": "V",
+           "symbol_rate": 27500,
+           "fec": "5/6",
+           "standard": "DVB-S2",
+           "name": "Eleven Sports 1 HD",
+           "kos_id": "Eleven Sports 1 HD",
+           "country": "Poland",
+           "package": "Orange Polska Platforma Canal+ Polsat Box",
+           "encryption": "Conax / Irdeto 2 / Mediaguard 3 / Nagravision 3 / Viaccess 3.0",
+           "free": false,
+           "satellite_ar": "هوت بيرد"
+          },
+          {
+           "position": "13.0E",
+           "satellite": "Hot Bird 13G",
+           "frequency": 11116,
+           "polarization": "V",
+           "symbol_rate": 27500,
+           "fec": "3/4",
+           "standard": "DVB-S2",
+           "name": "Eleven Sports 1 HD",
+           "kos_id": "Eleven Sports 1",
+           "country": "Poland",
+           "package": "Polsat Box",
+           "encryption": "Irdeto 2 / Nagravision 3",
+           "free": false,
+           "satellite_ar": "هوت بيرد"
+          }
+         ]
+        },
+        {
+         "name": "Servus TV",
+         "countries": [
+          "Austria"
+         ],
+         "arab_rights": false,
+         "free": false,
+         "sat": [
+          {
+           "position": "13.0E",
+           "satellite": "Hot Bird 13F",
+           "frequency": 11861,
+           "polarization": "H",
+           "symbol_rate": 29900,
+           "fec": "2/3",
+           "standard": "DVB-S2",
+           "name": "Servus TV HD",
+           "kos_id": "Kabelio ServusTV",
+           "country": "Austria",
+           "package": "KABELIO.CH",
+           "encryption": "Panaccess",
+           "free": false,
+           "satellite_ar": "هوت بيرد"
+          },
+          {
+           "position": "19.2E",
+           "satellite": "Astra 1P",
+           "frequency": 11302,
+           "polarization": "H",
+           "symbol_rate": 22000,
+           "fec": "2/3",
+           "standard": "DVB-S2",
+           "name": "Servus TV HD",
+           "kos_id": "ServusTV HD Oesterreich",
+           "country": "Austria",
+           "package": "Austriasat Sky Deutschland",
+           "encryption": "Cryptoworks / Irdeto 2 / Viaccess 5.0 / VideoGuard",
+           "free": false,
+           "satellite_ar": "أسترا 19.2"
+          }
+         ]
+        },
+        {
+         "name": "Sky Sport Mix",
+         "countries": [
+          "Germany",
+          "Austria",
+          "Switzerland"
+         ],
+         "arab_rights": false,
+         "free": false,
+         "sat": [
+          {
+           "position": "13.0E",
+           "satellite": "Hot Bird 13F",
+           "frequency": 12072,
+           "polarization": "V",
+           "symbol_rate": 29900,
+           "fec": "3/4",
+           "standard": "DVB-S2",
+           "name": "Sky Sport Mix",
+           "kos_id": "Sky Sport Mix",
+           "country": "Italy",
+           "package": "Sky Italia",
+           "encryption": "VideoGuard",
+           "free": false,
+           "satellite_ar": "هوت بيرد"
+          },
+          {
+           "position": "19.2E",
+           "satellite": "Astra 1P",
+           "frequency": 11759,
+           "polarization": "H",
+           "symbol_rate": 27500,
+           "fec": "9/10",
+           "standard": "DVB-S2",
+           "name": "Sky Sport Mix HD",
+           "kos_id": "Sky Sport Mix",
+           "country": "Italy",
+           "package": "Sky Deutschland",
+           "encryption": "VideoGuard",
+           "free": false,
+           "satellite_ar": "أسترا 19.2"
+          }
+         ]
+        },
+        {
+         "name": "Replay",
+         "countries": [
+          "Spain",
+          "Andorra"
+         ],
+         "arab_rights": false,
+         "free": false,
+         "sat": [
+          {
+           "position": "19.2E",
+           "satellite": "Astra 1P",
+           "frequency": 11126,
+           "polarization": "V",
+           "symbol_rate": 22000,
+           "fec": "5/6",
+           "standard": "DVB-S",
+           "name": "Gol Play",
+           "kos_id": "REPLAY",
+           "country": "Spain",
+           "package": "Movistar+",
+           "encryption": "Nagravision 3",
+           "free": false,
+           "satellite_ar": "أسترا 19.2"
+          }
+         ]
+        },
+        {
+         "name": "Sky Sport 1/HD",
+         "countries": [
+          "Germany",
+          "Austria",
+          "Switzerland"
+         ],
+         "arab_rights": false,
+         "free": false,
+         "sat": [
+          {
+           "position": "19.2E",
+           "satellite": "Astra 1N",
+           "frequency": 11915,
+           "polarization": "H",
+           "symbol_rate": 27500,
+           "fec": "9/10",
+           "standard": "DVB-S2",
+           "name": "Sky Sport 1 HD Germany",
+           "kos_id": "Sky Sport 1",
+           "country": "Germany",
+           "package": "Sky Deutschland",
+           "encryption": "VideoGuard",
+           "free": false,
+           "satellite_ar": "أسترا 19.2"
+          }
+         ]
+        },
+        {
+         "name": "Sky Sport Top Event",
+         "countries": [
+          "Germany",
+          "Austria",
+          "Switzerland"
+         ],
+         "arab_rights": false,
+         "free": false,
+         "sat": [
+          {
+           "position": "19.2E",
+           "satellite": "Astra 1N",
+           "frequency": 11915,
+           "polarization": "H",
+           "symbol_rate": 27500,
+           "fec": "9/10",
+           "standard": "DVB-S2",
+           "name": "Sky Sport Top Event HD",
+           "kos_id": "Sky Sport Top Event",
+           "country": "Germany",
+           "package": "Sky Deutschland",
+           "encryption": "VideoGuard",
+           "free": false,
+           "satellite_ar": "أسترا 19.2"
+          }
+         ]
+        },
+        {
+         "name": "Canal+",
+         "countries": [
+          "Poland"
+         ],
+         "arab_rights": false,
+         "free": false,
+         "sat": [
+          {
+           "position": "19.2E",
+           "satellite": "Astra 1P",
+           "frequency": 12012,
+           "polarization": "V",
+           "symbol_rate": 29700,
+           "fec": "2/3",
+           "standard": "DVB-S2",
+           "name": "Canal+",
+           "kos_id": "CANAL+",
+           "country": "France",
+           "package": "Canal+ France",
+           "encryption": "Nagravision 3",
+           "free": false,
+           "satellite_ar": "أسترا 19.2"
+          }
+         ]
+        },
+        {
+         "name": "Nova Sport 2",
+         "countries": [
+          "Slovakia"
+         ],
+         "arab_rights": false,
+         "free": false,
+         "sat": [
+          {
+           "position": "23.5E",
+           "satellite": "Astra 3C",
+           "frequency": 11973,
+           "polarization": "V",
+           "symbol_rate": 29900,
+           "fec": "3/4",
+           "standard": "DVB-S2",
+           "name": "Nova Sport 2 HD",
+           "kos_id": "Nova Sport 2 HD",
+           "country": "Czech republic",
+           "package": "Canal+ Czechia Slovakia",
+           "encryption": "Conax / Cryptoworks / Irdeto 2 / Nagravision 3 / Viaccess 5.0",
+           "free": false,
+           "satellite_ar": "أسترا 23.5"
+          },
+          {
+           "position": "0.8W",
+           "satellite": "Thor 6",
+           "frequency": 12379,
+           "polarization": "V",
+           "symbol_rate": 30000,
+           "fec": "3/4",
+           "standard": "DVB-S2",
+           "name": "Nova Sport 2 HD",
+           "kos_id": "Nova Sport 2 HD",
+           "country": "Czech republic",
+           "package": "Focus Sat Telly",
+           "encryption": "Conax / Cryptoworks / Irdeto 2 / Nagravision 3",
+           "free": false,
+           "satellite_ar": "ثور"
+          }
+         ]
+        },
+        {
+         "name": "Go3 Sport 2",
+         "countries": [
+          "Estonia",
+          "Latvia",
+          "Lithuania"
+         ],
+         "arab_rights": false,
+         "free": false,
+         "sat": [
+          {
+           "position": "4.8E",
+           "satellite": "Astra 4A",
+           "frequency": 11957,
+           "polarization": "H",
+           "symbol_rate": 27500,
+           "fec": "5/6",
+           "standard": "DVB-S2",
+           "name": "Go3 Sport 2 HD Baltics",
+           "kos_id": "Go3 Sport 2 HD",
+           "country": "Estonia",
+           "package": "TV3 Group",
+           "encryption": "VideoGuard",
+           "free": false,
+           "satellite_ar": "أسترا 4.8"
+          }
+         ]
+        }
+       ],
+       "source_url": "https://www.livesoccertv.com/match/borussia-dortmund-vs-eintracht-frankfurt/19995",
+       "home": "آينتراخت فرانكفورت",
+       "away": "بوروسيا دورتموند",
+       "home_en": "Eintracht Frankfurt",
+       "away_en": "Borussia Dortmund",
+       "home_logo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_1,d_Competitors:default1.png/v5/Competitors/337",
+       "away_logo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_1,d_Competitors:default1.png/v6/Competitors/341",
+       "s365_id": 4888753
       }
      ]
     }

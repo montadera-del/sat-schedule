@@ -13837,5 +13837,461 @@
   "status": "unmatched",
   "sat": [],
   "checked": "2026-11-26T21:53:50.867237+00:00"
+ },
+ "SuperSport 3 Digitalb": {
+  "status": "sat",
+  "sat": [
+   {
+    "position": "16.0E",
+    "satellite": "Eutelsat 16D",
+    "frequency": 10845,
+    "polarization": "H",
+    "symbol_rate": 30000,
+    "fec": "3/5",
+    "standard": "DVB-S2",
+    "name": "SuperSport HD-3",
+    "kos_id": "SS-3 HD",
+    "country": "Albania",
+    "package": "Digit Alb",
+    "encryption": "Conax",
+    "free": false,
+    "satellite_ar": "يوتل 16"
+   },
+   {
+    "position": "39.0E",
+    "satellite": "Hellas Sat 4",
+    "frequency": 10930,
+    "polarization": "H",
+    "symbol_rate": 30000,
+    "fec": "5/6",
+    "standard": "DVB-S2",
+    "name": "SuperSport HD-3",
+    "kos_id": "SS3-HD",
+    "country": "Albania",
+    "package": "Tring Digital",
+    "encryption": "Conax",
+    "free": false,
+    "satellite_ar": "هيلاس سات"
+   }
+  ],
+  "checked": "2026-11-27T07:54:35.313876+00:00"
+ },
+ "SuperSport Kosova 3": {
+  "status": "sat",
+  "sat": [
+   {
+    "position": "16.0E",
+    "satellite": "Eutelsat 16D",
+    "frequency": 10845,
+    "polarization": "H",
+    "symbol_rate": 30000,
+    "fec": "3/5",
+    "standard": "DVB-S2",
+    "name": "SuperSport HD-3",
+    "kos_id": "SS-3 HD",
+    "country": "Albania",
+    "package": "Digit Alb",
+    "encryption": "Conax",
+    "free": false,
+    "satellite_ar": "يوتل 16"
+   },
+   {
+    "position": "39.0E",
+    "satellite": "Hellas Sat 4",
+    "frequency": 10930,
+    "polarization": "H",
+    "symbol_rate": 30000,
+    "fec": "5/6",
+    "standard": "DVB-S2",
+    "name": "SuperSport HD-3",
+    "kos_id": "SS3-HD",
+    "country": "Albania",
+    "package": "Tring Digital",
+    "encryption": "Conax",
+    "free": false,
+    "satellite_ar": "هيلاس سات"
+   }
+  ],
+  "checked": "2026-11-27T07:54:35.315637+00:00"
+ },
+ "SuperSport 2 Digitalb": {
+  "status": "sat",
+  "sat": [
+   {
+    "position": "16.0E",
+    "satellite": "Eutelsat 16D",
+    "frequency": 10845,
+    "polarization": "H",
+    "symbol_rate": 30000,
+    "fec": "3/5",
+    "standard": "DVB-S2",
+    "name": "SuperSport HD-2",
+    "kos_id": "SS-2 HD",
+    "country": "Albania",
+    "package": "Digit Alb",
+    "encryption": "Conax",
+    "free": false,
+    "satellite_ar": "يوتل 16"
+   }
+  ],
+  "checked": "2026-11-27T07:54:36.369591+00:00"
+ },
+ "SuperSport 4 Digitalb": {
+  "status": "sat",
+  "sat": [
+   {
+    "position": "16.0E",
+    "satellite": "Eutelsat 16D",
+    "frequency": 10845,
+    "polarization": "H",
+    "symbol_rate": 30000,
+    "fec": "3/5",
+    "standard": "DVB-S2",
+    "name": "SuperSport HD-4",
+    "kos_id": "SS-4 HD",
+    "country": "Albania",
+    "package": "Digit Alb",
+    "encryption": "Conax",
+    "free": false,
+    "satellite_ar": "يوتل 16"
+   },
+   {
+    "position": "39.0E",
+    "satellite": "Hellas Sat 4",
+    "frequency": 10930,
+    "polarization": "H",
+    "symbol_rate": 30000,
+    "fec": "5/6",
+    "standard": "DVB-S2",
+    "name": "SuperSport HD-4",
+    "kos_id": "SS4-HD",
+    "country": "Albania",
+    "package": "Tring Digital",
+    "encryption": "Conax",
+    "free": false,
+    "satellite_ar": "هيلاس سات"
+   }
+  ],
+  "checked": "2026-11-27T07:54:37.117536+00:00"
+ },
+ "SuperSport 1 Digitalb": {
+  "status": "sat",
+  "sat": [
+   {
+    "position": "16.0E",
+    "satellite": "Eutelsat 16D",
+    "frequency": 10845,
+    "polarization": "H",
+    "symbol_rate": 30000,
+    "fec": "3/5",
+    "standard": "DVB-S2",
+    "name": "SuperSport HD-1",
+    "kos_id": "SS-1 HD",
+    "country": "Albania",
+    "package": "Digit Alb",
+    "encryption": "Conax",
+    "free": false,
+    "satellite_ar": "يوتل 16"
+   },
+   {
+    "position": "39.0E",
+    "satellite": "Hellas Sat 4",
+    "frequency": 10930,
+    "polarization": "H",
+    "symbol_rate": 30000,
+    "fec": "5/6",
+    "standard": "DVB-S2",
+    "name": "SuperSport HD-1",
+    "kos_id": "SS1-HD",
+    "country": "Albania",
+    "package": "Tring Digital",
+    "encryption": "Conax",
+    "free": false,
+    "satellite_ar": "هيلاس سات"
+   }
+  ],
+  "checked": "2026-11-27T07:54:39.586174+00:00"
+ },
+ "BTV Online": {
+  "status": "online",
+  "sat": [],
+  "checked": "2026-11-27T07:54:42.149714+00:00"
+ },
+ "Benfica TV - BTV 1": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-27T07:54:42.149046+00:00"
+ },
+ "Benfica TV": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-27T07:54:42.150180+00:00"
+ },
+ "DFB Play": {
+  "status": "online",
+  "sat": [],
+  "checked": "2026-11-27T07:54:57.093359+00:00"
+ },
+ "Replay": {
+  "status": "sat",
+  "sat": [
+   {
+    "position": "19.2E",
+    "satellite": "Astra 1P",
+    "frequency": 11126,
+    "polarization": "V",
+    "symbol_rate": 22000,
+    "fec": "5/6",
+    "standard": "DVB-S",
+    "name": "Gol Play",
+    "kos_id": "REPLAY",
+    "country": "Spain",
+    "package": "Movistar+",
+    "encryption": "Nagravision 3",
+    "free": false,
+    "satellite_ar": "أسترا 19.2"
+   }
+  ],
+  "checked": "2026-11-27T07:54:57.092269+00:00"
+ },
+ "GAORA On Demand": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-27T07:54:57.093526+00:00"
+ },
+ "Nova Sport 1 CZ": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-27T07:54:57.092783+00:00"
+ },
+ "Go3 Sport 2": {
+  "status": "sat",
+  "sat": [
+   {
+    "position": "4.8E",
+    "satellite": "Astra 4A",
+    "frequency": 11957,
+    "polarization": "H",
+    "symbol_rate": 27500,
+    "fec": "5/6",
+    "standard": "DVB-S2",
+    "name": "Go3 Sport 2 HD Baltics",
+    "kos_id": "Go3 Sport 2 HD",
+    "country": "Estonia",
+    "package": "TV3 Group",
+    "encryption": "VideoGuard",
+    "free": false,
+    "satellite_ar": "أسترا 4.8"
+   }
+  ],
+  "checked": "2026-11-27T07:54:57.093108+00:00"
+ },
+ "Nova Sport 1": {
+  "status": "sat",
+  "sat": [
+   {
+    "position": "16.0E",
+    "satellite": "Eutelsat 16D",
+    "frequency": 11055,
+    "polarization": "V",
+    "symbol_rate": 27500,
+    "fec": "4/5",
+    "standard": "DVB-S2",
+    "name": "Nova Sport HD",
+    "kos_id": "Nova Sport 1 HD",
+    "country": "Czech republic",
+    "package": "A1 Broadcasting",
+    "encryption": "Conax",
+    "free": false,
+    "satellite_ar": "يوتل 16"
+   },
+   {
+    "position": "23.5E",
+    "satellite": "Astra 3C",
+    "frequency": 12265,
+    "polarization": "H",
+    "symbol_rate": 29900,
+    "fec": "3/4",
+    "standard": "DVB-S2",
+    "name": "Nova Sport HD",
+    "kos_id": "Nova Sport 1 HD",
+    "country": "Czech republic",
+    "package": "Canal+ Czechia Slovakia",
+    "encryption": "Conax / Cryptoworks / Irdeto 2 / Nagravision 3 / Viaccess 5.0",
+    "free": false,
+    "satellite_ar": "أسترا 23.5"
+   },
+   {
+    "position": "0.8W",
+    "satellite": "Thor 6",
+    "frequency": 12456,
+    "polarization": "V",
+    "symbol_rate": 30000,
+    "fec": "3/4",
+    "standard": "DVB-S2",
+    "name": "Nova Sport HD",
+    "kos_id": "Nova Sport 1 HD",
+    "country": "Czech republic",
+    "package": "Focus Sat Telly",
+    "encryption": "Conax / Cryptoworks / Irdeto 2 / Nagravision 3",
+    "free": false,
+    "satellite_ar": "ثور"
+   }
+  ],
+  "checked": "2026-11-27T07:54:57.093774+00:00"
+ },
+ "L'Equipe": {
+  "status": "sat",
+  "sat": [
+   {
+    "position": "13.0E",
+    "satellite": "Hot Bird 13G",
+    "frequency": 10891,
+    "polarization": "H",
+    "symbol_rate": 27500,
+    "fec": "3/4",
+    "standard": "DVB-S2",
+    "name": "L´Equipe TV",
+    "kos_id": "L'EQUIPE",
+    "country": "France",
+    "package": "Bis",
+    "encryption": "Viaccess 3.0 / Viaccess 4.0",
+    "free": false,
+    "satellite_ar": "هوت بيرد"
+   },
+   {
+    "position": "19.2E",
+    "satellite": "Astra 1P",
+    "frequency": 11895,
+    "polarization": "V",
+    "symbol_rate": 29700,
+    "fec": "2/3",
+    "standard": "DVB-S2",
+    "name": "L´Equipe TV",
+    "kos_id": "L'EQUIPE",
+    "country": "France",
+    "package": "Canal+ France TNTSAT",
+    "encryption": "Nagravision 3 / Viaccess 3.0 / Viaccess 4.0",
+    "free": false,
+    "satellite_ar": "أسترا 19.2"
+   }
+  ],
+  "checked": "2026-11-27T07:55:12.131172+00:00"
+ },
+ "Go3 Sport 1": {
+  "status": "sat",
+  "sat": [
+   {
+    "position": "4.8E",
+    "satellite": "Astra 4A",
+    "frequency": 11938,
+    "polarization": "V",
+    "symbol_rate": 27500,
+    "fec": "5/6",
+    "standard": "DVB-S2",
+    "name": "Go3 Sport 1 HD",
+    "kos_id": "Go3 Sport HD",
+    "country": "Sweden",
+    "package": "Home 3",
+    "encryption": "VideoGuard",
+    "free": false,
+    "satellite_ar": "أسترا 4.8"
+   }
+  ],
+  "checked": "2026-11-27T07:55:12.131760+00:00"
+ },
+ "ESPN2 Africa": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-27T07:55:27.080869+00:00"
+ },
+ "Nova Sport 2 CZ": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-27T07:55:27.081563+00:00"
+ },
+ "Nova Sport 2": {
+  "status": "sat",
+  "sat": [
+   {
+    "position": "23.5E",
+    "satellite": "Astra 3C",
+    "frequency": 11973,
+    "polarization": "V",
+    "symbol_rate": 29900,
+    "fec": "3/4",
+    "standard": "DVB-S2",
+    "name": "Nova Sport 2 HD",
+    "kos_id": "Nova Sport 2 HD",
+    "country": "Czech republic",
+    "package": "Canal+ Czechia Slovakia",
+    "encryption": "Conax / Cryptoworks / Irdeto 2 / Nagravision 3 / Viaccess 5.0",
+    "free": false,
+    "satellite_ar": "أسترا 23.5"
+   },
+   {
+    "position": "0.8W",
+    "satellite": "Thor 6",
+    "frequency": 12379,
+    "polarization": "V",
+    "symbol_rate": 30000,
+    "fec": "3/4",
+    "standard": "DVB-S2",
+    "name": "Nova Sport 2 HD",
+    "kos_id": "Nova Sport 2 HD",
+    "country": "Czech republic",
+    "package": "Focus Sat Telly",
+    "encryption": "Conax / Cryptoworks / Irdeto 2 / Nagravision 3",
+    "free": false,
+    "satellite_ar": "ثور"
+   }
+  ],
+  "checked": "2026-11-27T07:55:27.081866+00:00"
+ },
+ "ARD Mediathek": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-27T07:56:12.099821+00:00"
+ },
+ "L'Équipe Live Foot": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-27T07:56:12.100700+00:00"
+ },
+ "Das Erste": {
+  "status": "sat",
+  "sat": [
+   {
+    "position": "13.0E",
+    "satellite": "Hot Bird 13F",
+    "frequency": 11861,
+    "polarization": "H",
+    "symbol_rate": 29900,
+    "fec": "2/3",
+    "standard": "DVB-S2",
+    "name": "Das Erste HD",
+    "kos_id": "Kabelio Das Erste",
+    "country": "Germany",
+    "package": "KABELIO.CH",
+    "encryption": "Panaccess",
+    "free": false
+   },
+   {
+    "position": "19.2E",
+    "satellite": "Astra 1P",
+    "frequency": 11493,
+    "polarization": "H",
+    "symbol_rate": 21998,
+    "fec": "2/3",
+    "standard": "DVB-S2",
+    "name": "Das Erste HD",
+    "kos_id": "Das Erste HD",
+    "country": "Germany",
+    "package": "ARD Digital",
+    "encryption": "Clear",
+    "free": true
+   }
+  ],
+  "checked": "2026-11-27T07:56:12.100316+00:00"
  }
 }
