@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T10:56:15+03:00",
+ "generated": "2026-11-27T11:41:26+03:00",
  "timezone": "Asia/Baghdad",
  "satellites": [
   {
@@ -10,7 +10,7 @@
   {
    "position": "26.0E",
    "name_ar": "بدر / سهيل سات",
-   "channels": 90
+   "channels": 87
   },
   {
    "position": "13.0E",
@@ -25,17 +25,17 @@
   {
    "position": "16.0E",
    "name_ar": "يوتل 16",
-   "channels": 192
+   "channels": 190
   },
   {
    "position": "42.0E",
    "name_ar": "ترك سات",
-   "channels": 10
+   "channels": 11
   },
   {
    "position": "39.0E",
    "name_ar": "هيلاس سات",
-   "channels": 113
+   "channels": 111
   },
   {
    "position": "9.0E",
@@ -50,17 +50,7 @@
   {
    "position": "23.5E",
    "name_ar": "أسترا 23.5",
-   "channels": 172
-  },
-  {
-   "position": "8.0W",
-   "name_ar": "يوتل 8 غرب",
-   "channels": 71
-  },
-  {
-   "position": "0.8W",
-   "name_ar": "ثور",
-   "channels": 130
+   "channels": 170
   },
   {
    "position": "46.0E",
@@ -71,6 +61,11 @@
    "position": "52.0E",
    "name_ar": "TurkmenÄlem / MonacoSat",
    "channels": 25
+  },
+  {
+   "position": "8.0W",
+   "name_ar": "يوتل 8 غرب",
+   "channels": 68
   },
   {
    "position": "68.5E",
@@ -116,6 +111,11 @@
    "position": "36.0E",
    "name_ar": "يوتل 36",
    "channels": 5
+  },
+  {
+   "position": "0.8W",
+   "name_ar": "ثور",
+   "channels": 129
   },
   {
    "position": "55.5W",
@@ -377,217 +377,15 @@
      "rank": 25,
      "matches": [
       {
-       "id": "5680546",
+       "id": "5680553",
        "kickoff": "2026-11-27T20:00:00+03:00",
        "time_ar": "8:00 م",
-       "venue": "Alanya Oba Stadium",
+       "venue": "Çaykur Didi Stadyumu (Rize)",
        "status": "EventScheduled",
-       "broadcast_on": [
-        "beIN SPORTS 2"
-       ],
+       "broadcast_on": [],
        "channels": [
         {
-         "name": "beIN SPORTS 2",
-         "countries": [
-          "Algeria",
-          "Bahrain",
-          "Chad",
-          "Djibouti",
-          "Egypt",
-          "Iran",
-          "Iraq",
-          "Jordan",
-          "Kuwait",
-          "Lebanon",
-          "Libya",
-          "Mauritania",
-          "Morocco",
-          "Oman",
-          "Palestine",
-          "Qatar",
-          "Saudi Arabia",
-          "Somalia",
-          "South Sudan",
-          "Sudan",
-          "Syria",
-          "Tunisia",
-          "United Arab Emirates",
-          "Yemen"
-         ],
-         "arab_rights": true,
-         "free": false,
-         "sat": [
-          {
-           "position": "26.0E",
-           "satellite": "Es'hail 2",
-           "frequency": 10810,
-           "polarization": "H",
-           "symbol_rate": 27500,
-           "fec": "2/3",
-           "standard": "DVB-S2",
-           "name": "beIN Sports 2 HD",
-           "kos_id": "beIN SPORTS 2",
-           "country": "Qatar",
-           "package": "beIN SPORTS",
-           "encryption": "Irdeto 2 / VideoGuard",
-           "free": false,
-           "satellite_ar": "بدر / سهيل سات"
-          },
-          {
-           "position": "26.0E",
-           "satellite": "Es'hail 2",
-           "frequency": 11390,
-           "polarization": "V",
-           "symbol_rate": 27500,
-           "fec": "2/3",
-           "standard": "DVB-S2",
-           "name": "beIN Sports 2 HD",
-           "kos_id": "beIN SPORTS EN 2",
-           "country": "Qatar",
-           "package": "beIN SPORTS",
-           "encryption": "Irdeto 2 / VideoGuard",
-           "free": false,
-           "satellite_ar": "بدر / سهيل سات"
-          },
-          {
-           "position": "8.0W",
-           "satellite": "Eutelsat 8 West B",
-           "frequency": 11012,
-           "polarization": "H",
-           "symbol_rate": 27500,
-           "fec": "2/3",
-           "standard": "DVB-S2",
-           "name": "beIN Sports 2 HD",
-           "kos_id": "beIN SPORTS 2",
-           "country": "Qatar",
-           "package": "beIN SPORTS",
-           "encryption": "Irdeto 2 / VideoGuard",
-           "free": false,
-           "satellite_ar": "يوتل 8 غرب"
-          }
-         ]
-        },
-        {
-         "name": "beIN SPORTS MAX 4",
-         "countries": [
-          "France"
-         ],
-         "arab_rights": false,
-         "free": true,
-         "sat": [
-          {
-           "position": "8.0W",
-           "satellite": "Eutelsat 8 West B",
-           "frequency": 12604,
-           "polarization": "H",
-           "symbol_rate": 27500,
-           "fec": "2/3",
-           "standard": "DVB-S2",
-           "name": "beIN Sports Max 4 HD",
-           "kos_id": "beIN SPORTS MAX 4",
-           "country": "Qatar",
-           "package": "beIN",
-           "encryption": "Clear",
-           "free": true,
-           "satellite_ar": "يوتل 8 غرب"
-          },
-          {
-           "position": "26.0E",
-           "satellite": "Es'hail 2",
-           "frequency": 10850,
-           "polarization": "H",
-           "symbol_rate": 27500,
-           "fec": "2/3",
-           "standard": "DVB-S2",
-           "name": "beIN Sports Max 4 HD",
-           "kos_id": "beIN SPORTS MAX 4",
-           "country": "Qatar",
-           "package": "beIN",
-           "encryption": "Irdeto 2 / VideoGuard",
-           "free": false,
-           "satellite_ar": "بدر / سهيل سات"
-          }
-         ]
-        },
-        {
-         "name": "Arena 5 Premium",
-         "countries": [
-          "Kosovo",
-          "Macedonia",
-          "Montenegro",
-          "Serbia"
-         ],
-         "arab_rights": false,
-         "free": false,
-         "sat": [
-          {
-           "position": "16.0E",
-           "satellite": "Eutelsat 16D",
-           "frequency": 11429,
-           "polarization": "V",
-           "symbol_rate": 28330,
-           "fec": "3/5",
-           "standard": "DVB-S2",
-           "name": "Arena Premium 5 HD",
-           "kos_id": "Arena Premium 5 HD",
-           "country": "Serbia",
-           "package": "Total TV",
-           "encryption": "Irdeto 2 / VideoGuard",
-           "free": false,
-           "satellite_ar": "يوتل 16"
-          },
-          {
-           "position": "16.0E",
-           "satellite": "Eutelsat 16D",
-           "frequency": 11554,
-           "polarization": "H",
-           "symbol_rate": 30000,
-           "fec": "3/4",
-           "standard": "DVB-S2",
-           "name": "Arena Premium 5 HD",
-           "kos_id": "Arena Premium 5",
-           "country": "Serbia",
-           "package": "Total TV",
-           "encryption": "Irdeto 2 / VideoGuard",
-           "free": false,
-           "satellite_ar": "يوتل 16"
-          },
-          {
-           "position": "23.5E",
-           "satellite": "Astra 3C",
-           "frequency": 12246,
-           "polarization": "V",
-           "symbol_rate": 30000,
-           "fec": "3/4",
-           "standard": "DVB-S2",
-           "name": "Arena Premium 5 HD",
-           "kos_id": "Arena Premium_5",
-           "country": "Serbia",
-           "package": "M:Sat TV",
-           "encryption": "Conax / Nagravision 3",
-           "free": false,
-           "satellite_ar": "أسترا 23.5"
-          },
-          {
-           "position": "23.5E",
-           "satellite": "Astra 3C",
-           "frequency": 12304,
-           "polarization": "H",
-           "symbol_rate": 30000,
-           "fec": "3/4",
-           "standard": "DVB-S2",
-           "name": "Arena Premium 5 HD",
-           "kos_id": "Arena Premium 5 HD",
-           "country": "Serbia",
-           "package": "M:Sat TV",
-           "encryption": "Conax / Nagravision 3",
-           "free": false,
-           "satellite_ar": "أسترا 23.5"
-          }
-         ]
-        },
-        {
-         "name": "beIN Sports 2 Turkey",
+         "name": "beIN Sports 1 Turkey",
          "countries": [
           "Turkey"
          ],
@@ -597,13 +395,29 @@
           {
            "position": "42.0E",
            "satellite": "Turksat 5B",
-           "frequency": 11265,
+           "frequency": 11385,
            "polarization": "V",
            "symbol_rate": 30000,
            "fec": "3/4",
            "standard": "DVB-S2",
-           "name": "beIN Sports 2 HD Turkey",
-           "kos_id": "beIN SPORTS 2",
+           "name": "beIN Sports 1 HD Turkey",
+           "kos_id": "beIN SPORTS 1",
+           "country": "Turkey",
+           "package": "Digitürk",
+           "encryption": "Irdeto 2",
+           "free": false,
+           "satellite_ar": "ترك سات"
+          },
+          {
+           "position": "42.0E",
+           "satellite": "Türksat 4A",
+           "frequency": 12073,
+           "polarization": "V",
+           "symbol_rate": 27500,
+           "fec": "3/4",
+           "standard": "DVB-S2",
+           "name": "beIN Sports 1 HD Turkey",
+           "kos_id": "beIN SPORTS 1",
            "country": "Turkey",
            "package": "Digitürk",
            "encryption": "Irdeto 2",
@@ -611,142 +425,16 @@
            "satellite_ar": "ترك سات"
           }
          ]
-        },
-        {
-         "name": "Prima Sport 2",
-         "countries": [
-          "Romania"
-         ],
-         "arab_rights": false,
-         "free": false,
-         "sat": [
-          {
-           "position": "39.0E",
-           "satellite": "Hellas Sat 3",
-           "frequency": 12290,
-           "polarization": "V",
-           "symbol_rate": 30000,
-           "fec": "3/4",
-           "standard": "DVB-S2",
-           "name": "Prima Sport 2 HD",
-           "kos_id": "Prima Sport 2 HD",
-           "country": "Romania",
-           "package": "Orange Romania",
-           "encryption": "Viaccess 5.0 / VideoGuard",
-           "free": false,
-           "satellite_ar": "هيلاس سات"
-          },
-          {
-           "position": "39.0E",
-           "satellite": "Hellas Sat 3",
-           "frequency": 12565,
-           "polarization": "V",
-           "symbol_rate": 30000,
-           "fec": "7/8",
-           "standard": "DVB-S",
-           "name": "Prima Sport 2",
-           "kos_id": "PRIMA SPORT 2",
-           "country": "Romania",
-           "package": "Orange Romania",
-           "encryption": "Viaccess 5.0 / VideoGuard",
-           "free": false,
-           "satellite_ar": "هيلاس سات"
-          },
-          {
-           "position": "0.8W",
-           "satellite": "Intelsat 10-02",
-           "frequency": 12723,
-           "polarization": "H",
-           "symbol_rate": 27500,
-           "fec": "3/4",
-           "standard": "DVB-S",
-           "name": "Prima Sport 2",
-           "kos_id": "PRIMA SPORT 2",
-           "country": "Romania",
-           "package": "Digi TV",
-           "encryption": "Nagravision 3",
-           "free": false,
-           "satellite_ar": "ثور"
-          }
-         ]
-        },
-        {
-         "name": "ESPN Africa",
-         "countries": [
-          "Angola",
-          "Benin",
-          "Botswana",
-          "Burkina Faso",
-          "Burundi",
-          "Cameroon",
-          "Central African Republic",
-          "Congo DR",
-          "Côte d'Ivoire",
-          "Equatorial Guinea",
-          "Eritrea",
-          "Ethiopia",
-          "Gabon",
-          "Gambia",
-          "Ghana",
-          "Guinea",
-          "Guinea-Bissau",
-          "Kenya",
-          "Lesotho",
-          "Liberia",
-          "Madagascar",
-          "Malawi",
-          "Mali",
-          "Mauritius",
-          "Mayotte",
-          "Mozambique",
-          "Namibia",
-          "Niger",
-          "Nigeria",
-          "Reunion",
-          "Rwanda",
-          "Saint Helena",
-          "Senegal",
-          "Seychelles",
-          "Sierra Leone",
-          "South Africa",
-          "Swaziland",
-          "São Tomé and Príncipe",
-          "Tanzania",
-          "Togo",
-          "Uganda",
-          "Zambia",
-          "Zimbabwe"
-         ],
-         "arab_rights": false,
-         "free": false,
-         "sat": [
-          {
-           "position": "8.0W",
-           "satellite": "Eutelsat 8 West B",
-           "frequency": 3925,
-           "polarization": "R",
-           "symbol_rate": 30000,
-           "fec": "5/6",
-           "standard": "DVB-S2",
-           "name": "ESPN Africa",
-           "kos_id": "ESPN Africa",
-           "country": "South Africa",
-           "package": "Vivacom",
-           "encryption": "Irdeto 2",
-           "free": false,
-           "satellite_ar": "يوتل 8 غرب"
-          }
-         ]
         }
        ],
-       "source_url": "https://www.livesoccertv.com/match/konyaspor-vs-alanyaspor/an4i5",
-       "home": "ألانيا سبور",
-       "away": "قونيا سبور",
-       "home_en": "Alanyaspor",
-       "away_en": "Konyaspor",
-       "home_logo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_1,d_Competitors:default1.png/v2/Competitors/1009",
-       "away_logo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_1,d_Competitors:default1.png/v1/Competitors/957",
-       "s365_id": 4763738
+       "source_url": "https://www.livesoccertv.com/match/kasimpasa-vs-rizespor/688a3",
+       "home": "ريزة سبور",
+       "away": "قاسم باشا",
+       "home_en": "Rizespor",
+       "away_en": "Kasımpaşa",
+       "home_logo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_1,d_Competitors:default1.png/v1/Competitors/960",
+       "away_logo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_1,d_Competitors:default1.png/v1/Competitors/962",
+       "s365_id": 4763737
       }
      ]
     },

@@ -13,7 +13,6 @@ Arena Sport 1P	Bosnia and Herzegovina
 Arena Sport 2P	Bosnia and Herzegovina
 Arena Sport 3P	Bosnia and Herzegovina
 Arena Sport 4P	Bosnia and Herzegovina
-Arena Sport 5P	Bosnia and Herzegovina
 Arena4	Hungary
 Arryadia TNT	Morocco
 Astro Football	Malaysia
