@@ -183,6 +183,14 @@
   [
    "beIN Sports Max (\\d+)(?: HD)?",
    "beIN Sports Max \\1"
+  ],
+  [
+   "SuperSport (\\d+) Digitalb",
+   "SuperSport \\1"
+  ],
+  [
+   "SuperSport Kosova (\\d+)",
+   "SuperSport \\1"
   ]
  ],
  "competitions": [
