@@ -12,7 +12,7 @@ ART Sport 2	Kosovo
 ART Sport 3	Kosovo
 ART Sport 5	Kosovo
 Almanasa	Iraq
-Amazon Prime Video	Great Britain, Ireland Republic
+Amazon Prime Video	Denmark, Sweden
 Arena Sport 1 Premium	Slovenia
 Arena Sport 1P	Bosnia and Herzegovina
 Arena Sport 2P	Bosnia and Herzegovina
@@ -92,6 +92,7 @@ DAZN2 Germany	Austria, Germany
 DAZN2 Portugal	Portugal
 DAZN2 Spain	Spain
 DAZN3 Portugal	Portugal
+DAZN3 Spain	Spain
 DAZN4 Portugal	Portugal
 DAZN4 Spain	Spain
 DGO	Nepal
@@ -108,7 +109,9 @@ EBC	Ethiopia
 ELTA Sports 1	Chinese Taipei
 ELTA Sports 2	Chinese Taipei
 ELTA Sports 3	Chinese Taipei
+ENA Sports	Korea Republic
 ERT 2	Greece
+ERT FLIX	Greece
 ESPN 5 Norte	Belize, Costa Rica, Dominican Republic, El Salvador, Guatemala, Honduras, Nicaragua, Panama
 ESPN Deportes	Guam, Northern Mariana Islands, Puerto Rico, U.S. Virgin Islands, USA
 ESPN Deportes USA	USA
@@ -188,6 +191,7 @@ Megogo	Ukraine
 Migu	China
 Molotov	France
 Movistar Liga de Campeones	Spain
+Movistar Liga de Campeones 2	Spain
 MyTV Vietnam	Vietnam
 MáXimo 360	South Africa
 NBCSN	USA
@@ -283,12 +287,16 @@ Skylink	Czech Republic, Slovakia
 Sport TV Multiscreen	Portugal
 Sport TV1	Portugal
 Sport TV2	Portugal
+Sport TV3	Portugal
 Sport TV4	Portugal
 Sport TV5	Portugal
+Sport TV7	Portugal
 Sport.TV África	Angola, Cape Verde Islands, Mozambique
+SportKlub 5 Slovenia	Slovenia
 Sportbox.ru	Russia
 Sportdigital FUSSBALL 2	Germany, Austria, Switzerland
 Sportklub 1 Croatia	Croatia
+Sportklub 2 Slovenia	Slovenia
 Sportklub 3 Croatia	Croatia
 Sportklub 5 Croatia	Croatia
 Sportklub 6 Croatia	Croatia
@@ -350,9 +358,11 @@ TSN7 Malta	Malta
 TSN8 Malta	Malta
 TV 360	Vietnam
 TV2 Sport Denmark	Denmark, Faroe Islands, Greenland
+TV2 Sport Premium	Norway
 TV2 Sport X	Denmark, Faroe Islands
 TV3 Sport	Denmark, Faroe Islands
 TV3+ HD	Denmark, Faroe Islands
+TV3+ Norway	Norway
 TV4 Fotball	Sweden
 TalkSport Radio UK	Great Britain, Ireland Republic
 Tele Centrafrique	Central African Republic
@@ -372,8 +382,8 @@ USA Network	USA
 Unite8 Sports 1	Afghanistan, Bangladesh, Bhutan, India, Maldives, Nepal, Sri Lanka
 Unite8 Sports 1 HD	Afghanistan, Bangladesh, Bhutan, India, Maldives, Nepal, Sri Lanka
 Unite8 Sports 2 HD	Afghanistan, Bangladesh, Bhutan, India, Maldives, Nepal, Sri Lanka
-V Sport Football	Sweden
-V Sport Premium	Sweden
+V Sport Football	Finland, Sweden
+V Sport Premium	Finland, Sweden
 VG+	Norway
 VIVA	Canada
 Vamos 2	Spain
@@ -429,6 +439,7 @@ izzi	Mexico
 matchtv.ru	Russia
 myco	Bangladesh, Pakistan
 qazsporttv.kz	Kazakhstan
+sport.tvp.pl	Poland
 sportdigital+	Germany, Austria, Switzerland
 ŠTV 1	Slovenia
 ŠTV 2	Slovenia

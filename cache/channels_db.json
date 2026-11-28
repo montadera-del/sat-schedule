@@ -14763,7 +14763,8 @@
     "country": "Qatar",
     "package": "beIN SPORTS",
     "encryption": "Irdeto 2 / VideoGuard",
-    "free": false
+    "free": false,
+    "satellite_ar": "بدر / سهيل سات"
    },
    {
     "position": "8.0W",
@@ -14778,7 +14779,8 @@
     "country": "Qatar",
     "package": "beIN SPORTS",
     "encryption": "Irdeto 2 / VideoGuard",
-    "free": false
+    "free": false,
+    "satellite_ar": "يوتل 8 غرب"
    }
   ],
   "checked": "2026-11-28T07:55:56.562479+00:00"
@@ -14799,9 +14801,204 @@
     "country": "Turkey",
     "package": "Digitürk",
     "encryption": "Irdeto 2",
-    "free": false
+    "free": false,
+    "satellite_ar": "ترك سات"
    }
   ],
   "checked": "2026-11-28T07:55:56.564170+00:00"
+ },
+ "Sport TV7": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-28T09:58:03.932173+00:00"
+ },
+ "Dubai Sports 1": {
+  "status": "sat",
+  "sat": [
+   {
+    "position": "26.0E",
+    "satellite": "Badr 8",
+    "frequency": 12131,
+    "polarization": "V",
+    "symbol_rate": 30000,
+    "fec": "3/4",
+    "standard": "DVB-S2",
+    "name": "Dubai Sports 1 HD",
+    "kos_id": "DUBAI SPORTS 1 HD",
+    "country": "Dubai Emirates",
+    "package": "DU",
+    "encryption": "Clear",
+    "free": true,
+    "satellite_ar": "بدر / سهيل سات"
+   },
+   {
+    "position": "7.0W",
+    "satellite": "Eutelsat 7 West A",
+    "frequency": 12417,
+    "polarization": "H",
+    "symbol_rate": 30000,
+    "fec": "3/4",
+    "standard": "DVB-S2",
+    "name": "Dubai Sports 1 HD",
+    "kos_id": "DUBAI SPORTS 1 HD",
+    "country": "Dubai Emirates",
+    "package": "DU",
+    "encryption": "Clear",
+    "free": true,
+    "satellite_ar": "نايل سات"
+   }
+  ],
+  "checked": "2026-11-28T10:00:18.887062+00:00"
+ },
+ "HT Spor": {
+  "status": "sat",
+  "sat": [
+   {
+    "position": "42.0E",
+    "satellite": "Türksat 4A",
+    "frequency": 11845,
+    "polarization": "V",
+    "symbol_rate": 10833,
+    "fec": "2/3",
+    "standard": "DVB-S2",
+    "name": "HT Spor HD",
+    "kos_id": "HT SPOR HD",
+    "country": "Turkey",
+    "package": "HT SPOR HD",
+    "encryption": "Clear",
+    "free": true,
+    "satellite_ar": "ترك سات"
+   }
+  ],
+  "checked": "2026-11-28T10:01:33.919711+00:00"
+ },
+ "V Sport Premier League 2": {
+  "status": "sat",
+  "sat": [
+   {
+    "position": "0.8W",
+    "satellite": "Thor 6",
+    "frequency": 10809,
+    "polarization": "H",
+    "symbol_rate": 25000,
+    "fec": "3/4",
+    "standard": "DVB-S2",
+    "name": "V Sport Premier League 2 HD",
+    "kos_id": "V sport Premier League 2 HD",
+    "country": "Sweden",
+    "package": "Allente",
+    "encryption": "Conax / Nagravision 3 / VideoGuard",
+    "free": false,
+    "satellite_ar": "ثور"
+   }
+  ],
+  "checked": "2026-11-28T10:02:18.963858+00:00"
+ },
+ "V Sport Premier League 4": {
+  "status": "sat",
+  "sat": [
+   {
+    "position": "0.8W",
+    "satellite": "Thor 6",
+    "frequency": 10809,
+    "polarization": "H",
+    "symbol_rate": 25000,
+    "fec": "3/4",
+    "standard": "DVB-S2",
+    "name": "V Sport Premier League 4 HD",
+    "kos_id": "V sport Premier League 4 HD",
+    "country": "Sweden",
+    "package": "Allente",
+    "encryption": "Conax / Nagravision 3 / VideoGuard",
+    "free": false,
+    "satellite_ar": "ثور"
+   }
+  ],
+  "checked": "2026-11-28T10:02:33.934036+00:00"
+ },
+ "V Sport Premier League 3": {
+  "status": "sat",
+  "sat": [
+   {
+    "position": "0.8W",
+    "satellite": "Thor 6",
+    "frequency": 10809,
+    "polarization": "H",
+    "symbol_rate": 25000,
+    "fec": "3/4",
+    "standard": "DVB-S2",
+    "name": "V Sport Premier League 3 HD",
+    "kos_id": "V sport Premier League 3 HD",
+    "country": "Sweden",
+    "package": "Allente",
+    "encryption": "Conax / Nagravision 3 / VideoGuard",
+    "free": false,
+    "satellite_ar": "ثور"
+   }
+  ],
+  "checked": "2026-11-28T10:02:48.938523+00:00"
+ },
+ "V Sport Premier League 1": {
+  "status": "sat",
+  "sat": [
+   {
+    "position": "0.8W",
+    "satellite": "Thor 6",
+    "frequency": 10809,
+    "polarization": "H",
+    "symbol_rate": 25000,
+    "fec": "3/4",
+    "standard": "DVB-S2",
+    "name": "V Sport Premier League 1 HD",
+    "kos_id": "V sport Premier League 1 HD",
+    "country": "Sweden",
+    "package": "Allente",
+    "encryption": "Conax / Nagravision 3 / VideoGuard",
+    "free": false,
+    "satellite_ar": "ثور"
+   }
+  ],
+  "checked": "2026-11-28T10:03:03.967320+00:00"
+ },
+ "DAZN3 Spain": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-28T10:03:03.967937+00:00"
+ },
+ "Sport TV3": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-28T10:04:33.913121+00:00"
+ },
+ "ENA Sports": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-28T10:06:03.927970+00:00"
+ },
+ "ERT FLIX": {
+  "status": "unmatched",
+  "sat": [],
+  "checked": "2026-11-28T10:08:48.867375+00:00"
+ },
+ "Canal+ Extra 4": {
+  "status": "sat",
+  "sat": [
+   {
+    "position": "13.0E",
+    "satellite": "Hot Bird 13G",
+    "frequency": 11278,
+    "polarization": "V",
+    "symbol_rate": 27500,
+    "fec": "5/6",
+    "standard": "DVB-S2",
+    "name": "Canal+ Extra 4",
+    "kos_id": "CANAL+ EXTRA 4",
+    "country": "Sweden",
+    "package": "Platforma Canal+",
+    "encryption": "Nagravision 3",
+    "free": false
+   }
+  ],
+  "checked": "2026-11-28T10:11:03.946838+00:00"
  }
 }

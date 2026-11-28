@@ -1,26 +1,26 @@
 {
- "generated": "2026-11-28T10:56:05+03:00",
+ "generated": "2026-11-28T13:13:33+03:00",
  "timezone": "Asia/Baghdad",
  "satellites": [
   {
    "position": "7.0W",
    "name_ar": "نايل سات",
-   "channels": 13
+   "channels": 14
   },
   {
    "position": "26.0E",
    "name_ar": "بدر / سهيل سات",
-   "channels": 90
+   "channels": 92
   },
   {
    "position": "13.0E",
    "name_ar": "هوت بيرد",
-   "channels": 118
+   "channels": 129
   },
   {
    "position": "19.2E",
    "name_ar": "أسترا 19.2",
-   "channels": 146
+   "channels": 157
   },
   {
    "position": "16.0E",
@@ -30,12 +30,12 @@
   {
    "position": "42.0E",
    "name_ar": "ترك سات",
-   "channels": 22
+   "channels": 23
   },
   {
    "position": "39.0E",
    "name_ar": "هيلاس سات",
-   "channels": 115
+   "channels": 120
   },
   {
    "position": "9.0E",
@@ -50,12 +50,12 @@
   {
    "position": "23.5E",
    "name_ar": "أسترا 23.5",
-   "channels": 183
+   "channels": 188
   },
   {
    "position": "8.0W",
    "name_ar": "يوتل 8 غرب",
-   "channels": 74
+   "channels": 75
   },
   {
    "position": "68.5E",
@@ -98,6 +98,11 @@
    "channels": 23
   },
   {
+   "position": "0.8W",
+   "name_ar": "ثور",
+   "channels": 150
+  },
+  {
    "position": "46.0E",
    "name_ar": "أزر سبيس 46",
    "channels": 27
@@ -111,11 +116,6 @@
    "position": "36.0E",
    "name_ar": "يوتل 36",
    "channels": 6
-  },
-  {
-   "position": "0.8W",
-   "name_ar": "ثور",
-   "channels": 130
   },
   {
    "position": "55.5W",
@@ -1588,6 +1588,32 @@
            "encryption": "Conax",
            "free": false,
            "satellite_ar": "Eutelsat 3B"
+          }
+         ]
+        },
+        {
+         "name": "V Sport Premier League",
+         "countries": [
+          "Norway"
+         ],
+         "arab_rights": false,
+         "free": false,
+         "sat": [
+          {
+           "position": "0.8W",
+           "satellite": "Thor 6",
+           "frequency": 10809,
+           "polarization": "H",
+           "symbol_rate": 25000,
+           "fec": "3/4",
+           "standard": "DVB-S2",
+           "name": "V Sport Premier League HD",
+           "kos_id": "V sport Premier League HD",
+           "country": "Sweden",
+           "package": "Allente",
+           "encryption": "Conax / Nagravision 3 / VideoGuard",
+           "free": false,
+           "satellite_ar": "ثور"
           }
          ]
         },
@@ -6745,6 +6771,48 @@
          ]
         },
         {
+         "name": "Tring",
+         "countries": [
+          "Albania"
+         ],
+         "arab_rights": false,
+         "free": false,
+         "sat": [
+          {
+           "position": "39.0E",
+           "satellite": "Hellas Sat 4",
+           "frequency": 10890,
+           "polarization": "H",
+           "symbol_rate": 29999,
+           "fec": "5/6",
+           "standard": "DVB-S2",
+           "name": "Tring Tring",
+           "kos_id": "Tring Tring",
+           "country": "Albania",
+           "package": "Tring Digital",
+           "encryption": "Conax",
+           "free": false,
+           "satellite_ar": "هيلاس سات"
+          },
+          {
+           "position": "23.5E",
+           "satellite": "Astra 3C",
+           "frequency": 12441,
+           "polarization": "V",
+           "symbol_rate": 30000,
+           "fec": "3/4",
+           "standard": "DVB-S2",
+           "name": "Tring Tring",
+           "kos_id": "Tring Tring",
+           "country": "Albania",
+           "package": "M:Sat TV",
+           "encryption": "Nagravision 3",
+           "free": false,
+           "satellite_ar": "أسترا 23.5"
+          }
+         ]
+        },
+        {
          "name": "Prima Sport 4",
          "countries": [
           "Romania"
@@ -7459,6 +7527,48 @@
            "satellite_ar": "يوتل 16"
           }
          ]
+        },
+        {
+         "name": "Tring",
+         "countries": [
+          "Albania"
+         ],
+         "arab_rights": false,
+         "free": false,
+         "sat": [
+          {
+           "position": "39.0E",
+           "satellite": "Hellas Sat 4",
+           "frequency": 10890,
+           "polarization": "H",
+           "symbol_rate": 29999,
+           "fec": "5/6",
+           "standard": "DVB-S2",
+           "name": "Tring Tring",
+           "kos_id": "Tring Tring",
+           "country": "Albania",
+           "package": "Tring Digital",
+           "encryption": "Conax",
+           "free": false,
+           "satellite_ar": "هيلاس سات"
+          },
+          {
+           "position": "23.5E",
+           "satellite": "Astra 3C",
+           "frequency": 12441,
+           "polarization": "V",
+           "symbol_rate": 30000,
+           "fec": "3/4",
+           "standard": "DVB-S2",
+           "name": "Tring Tring",
+           "kos_id": "Tring Tring",
+           "country": "Albania",
+           "package": "M:Sat TV",
+           "encryption": "Nagravision 3",
+           "free": false,
+           "satellite_ar": "أسترا 23.5"
+          }
+         ]
         }
        ],
        "source_url": "https://www.livesoccertv.com/match/schalke-04-vs-paderborn/268wu",
@@ -7987,6 +8097,48 @@
          ]
         },
         {
+         "name": "Tring",
+         "countries": [
+          "Albania"
+         ],
+         "arab_rights": false,
+         "free": false,
+         "sat": [
+          {
+           "position": "39.0E",
+           "satellite": "Hellas Sat 4",
+           "frequency": 10890,
+           "polarization": "H",
+           "symbol_rate": 29999,
+           "fec": "5/6",
+           "standard": "DVB-S2",
+           "name": "Tring Tring",
+           "kos_id": "Tring Tring",
+           "country": "Albania",
+           "package": "Tring Digital",
+           "encryption": "Conax",
+           "free": false,
+           "satellite_ar": "هيلاس سات"
+          },
+          {
+           "position": "23.5E",
+           "satellite": "Astra 3C",
+           "frequency": 12441,
+           "polarization": "V",
+           "symbol_rate": 30000,
+           "fec": "3/4",
+           "standard": "DVB-S2",
+           "name": "Tring Tring",
+           "kos_id": "Tring Tring",
+           "country": "Albania",
+           "package": "M:Sat TV",
+           "encryption": "Nagravision 3",
+           "free": false,
+           "satellite_ar": "أسترا 23.5"
+          }
+         ]
+        },
+        {
          "name": "Prima Sport 4",
          "countries": [
           "Romania"
@@ -8245,6 +8397,48 @@
            "encryption": "Nagravision 3",
            "free": false,
            "satellite_ar": "Hispasat 30W-5"
+          }
+         ]
+        },
+        {
+         "name": "V Sport 2 Norway",
+         "countries": [
+          "Norway"
+         ],
+         "arab_rights": false,
+         "free": false,
+         "sat": [
+          {
+           "position": "0.8W",
+           "satellite": "Thor 6",
+           "frequency": 10809,
+           "polarization": "V",
+           "symbol_rate": 25000,
+           "fec": "3/4",
+           "standard": "DVB-S2",
+           "name": "V Sport 2 HD",
+           "kos_id": "V sport 2 HD",
+           "country": "Norway",
+           "package": "Allente",
+           "encryption": "Conax / Nagravision 3 / VideoGuard",
+           "free": false,
+           "satellite_ar": "ثور"
+          },
+          {
+           "position": "0.8W",
+           "satellite": "Thor 7",
+           "frequency": 12437,
+           "polarization": "H",
+           "symbol_rate": 30000,
+           "fec": "3/4",
+           "standard": "DVB-S2",
+           "name": "V Sport 2 HD",
+           "kos_id": "V sport 2 HD",
+           "country": "Norway",
+           "package": "Allente",
+           "encryption": "Conax / Nagravision 3 / VideoGuard",
+           "free": false,
+           "satellite_ar": "ثور"
           }
          ]
         },
@@ -10153,8 +10347,65 @@
        "time_ar": "8:45 م",
        "venue": "Philips Stadion",
        "status": "EventScheduled",
-       "broadcast_on": [],
+       "broadcast_on": [
+        "Dubai Sports 1"
+       ],
        "channels": [
+        {
+         "name": "Dubai Sports 1",
+         "countries": [
+          "Algeria",
+          "Bahrain",
+          "Egypt",
+          "Kuwait",
+          "Lebanon",
+          "Libya",
+          "Morocco",
+          "Oman",
+          "Qatar",
+          "Saudi Arabia",
+          "Syria",
+          "Tunisia",
+          "United Arab Emirates",
+          "Yemen"
+         ],
+         "arab_rights": true,
+         "free": true,
+         "sat": [
+          {
+           "position": "7.0W",
+           "satellite": "Eutelsat 7 West A",
+           "frequency": 12417,
+           "polarization": "H",
+           "symbol_rate": 30000,
+           "fec": "3/4",
+           "standard": "DVB-S2",
+           "name": "Dubai Sports 1 HD",
+           "kos_id": "DUBAI SPORTS 1 HD",
+           "country": "Dubai Emirates",
+           "package": "DU",
+           "encryption": "Clear",
+           "free": true,
+           "satellite_ar": "نايل سات"
+          },
+          {
+           "position": "26.0E",
+           "satellite": "Badr 8",
+           "frequency": 12131,
+           "polarization": "V",
+           "symbol_rate": 30000,
+           "fec": "3/4",
+           "standard": "DVB-S2",
+           "name": "Dubai Sports 1 HD",
+           "kos_id": "DUBAI SPORTS 1 HD",
+           "country": "Dubai Emirates",
+           "package": "DU",
+           "encryption": "Clear",
+           "free": true,
+           "satellite_ar": "بدر / سهيل سات"
+          }
+         ]
+        },
         {
          "name": "Nova Sports 2",
          "countries": [
@@ -10942,6 +11193,32 @@
         "DStv Now"
        ],
        "channels": [
+        {
+         "name": "HT Spor",
+         "countries": [
+          "Turkey"
+         ],
+         "arab_rights": false,
+         "free": true,
+         "sat": [
+          {
+           "position": "42.0E",
+           "satellite": "Türksat 4A",
+           "frequency": 11845,
+           "polarization": "V",
+           "symbol_rate": 10833,
+           "fec": "2/3",
+           "standard": "DVB-S2",
+           "name": "HT Spor HD",
+           "kos_id": "HT SPOR HD",
+           "country": "Turkey",
+           "package": "HT SPOR HD",
+           "encryption": "Clear",
+           "free": true,
+           "satellite_ar": "ترك سات"
+          }
+         ]
+        },
         {
          "name": "Sportdigital FUSSBALL",
          "countries": [
@@ -12498,6 +12775,32 @@
          ]
         },
         {
+         "name": "V Sport Premier League 2",
+         "countries": [
+          "Norway"
+         ],
+         "arab_rights": false,
+         "free": false,
+         "sat": [
+          {
+           "position": "0.8W",
+           "satellite": "Thor 6",
+           "frequency": 10809,
+           "polarization": "H",
+           "symbol_rate": 25000,
+           "fec": "3/4",
+           "standard": "DVB-S2",
+           "name": "V Sport Premier League 2 HD",
+           "kos_id": "V sport Premier League 2 HD",
+           "country": "Sweden",
+           "package": "Allente",
+           "encryption": "Conax / Nagravision 3 / VideoGuard",
+           "free": false,
+           "satellite_ar": "ثور"
+          }
+         ]
+        },
+        {
          "name": "Sport 3",
          "countries": [
           "Israel"
@@ -12970,6 +13273,32 @@
            "encryption": "Conax / Nagravision 3",
            "free": false,
            "satellite_ar": "أسترا 23.5"
+          }
+         ]
+        },
+        {
+         "name": "V Sport Premier League 4",
+         "countries": [
+          "Norway"
+         ],
+         "arab_rights": false,
+         "free": false,
+         "sat": [
+          {
+           "position": "0.8W",
+           "satellite": "Thor 6",
+           "frequency": 10809,
+           "polarization": "H",
+           "symbol_rate": 25000,
+           "fec": "3/4",
+           "standard": "DVB-S2",
+           "name": "V Sport Premier League 4 HD",
+           "kos_id": "V sport Premier League 4 HD",
+           "country": "Sweden",
+           "package": "Allente",
+           "encryption": "Conax / Nagravision 3 / VideoGuard",
+           "free": false,
+           "satellite_ar": "ثور"
           }
          ]
         },
@@ -13468,6 +13797,32 @@
            "satellite_ar": "أسترا 23.5"
           }
          ]
+        },
+        {
+         "name": "V Sport Premier League 3",
+         "countries": [
+          "Norway"
+         ],
+         "arab_rights": false,
+         "free": false,
+         "sat": [
+          {
+           "position": "0.8W",
+           "satellite": "Thor 6",
+           "frequency": 10809,
+           "polarization": "H",
+           "symbol_rate": 25000,
+           "fec": "3/4",
+           "standard": "DVB-S2",
+           "name": "V Sport Premier League 3 HD",
+           "kos_id": "V sport Premier League 3 HD",
+           "country": "Sweden",
+           "package": "Allente",
+           "encryption": "Conax / Nagravision 3 / VideoGuard",
+           "free": false,
+           "satellite_ar": "ثور"
+          }
+         ]
         }
        ],
        "source_url": "https://www.livesoccertv.com/match/fulham-vs-afc-bournemouth/3040y",
@@ -13933,6 +14288,32 @@
            "encryption": "Nagravision 3",
            "free": false,
            "satellite_ar": "Hispasat 30W-5"
+          }
+         ]
+        },
+        {
+         "name": "V Sport Premier League 1",
+         "countries": [
+          "Norway"
+         ],
+         "arab_rights": false,
+         "free": false,
+         "sat": [
+          {
+           "position": "0.8W",
+           "satellite": "Thor 6",
+           "frequency": 10809,
+           "polarization": "H",
+           "symbol_rate": 25000,
+           "fec": "3/4",
+           "standard": "DVB-S2",
+           "name": "V Sport Premier League 1 HD",
+           "kos_id": "V sport Premier League 1 HD",
+           "country": "Sweden",
+           "package": "Allente",
+           "encryption": "Conax / Nagravision 3 / VideoGuard",
+           "free": false,
+           "satellite_ar": "ثور"
           }
          ]
         },
@@ -19855,6 +20236,48 @@
          ]
         },
         {
+         "name": "Tring",
+         "countries": [
+          "Albania"
+         ],
+         "arab_rights": false,
+         "free": false,
+         "sat": [
+          {
+           "position": "39.0E",
+           "satellite": "Hellas Sat 4",
+           "frequency": 10890,
+           "polarization": "H",
+           "symbol_rate": 29999,
+           "fec": "5/6",
+           "standard": "DVB-S2",
+           "name": "Tring Tring",
+           "kos_id": "Tring Tring",
+           "country": "Albania",
+           "package": "Tring Digital",
+           "encryption": "Conax",
+           "free": false,
+           "satellite_ar": "هيلاس سات"
+          },
+          {
+           "position": "23.5E",
+           "satellite": "Astra 3C",
+           "frequency": 12441,
+           "polarization": "V",
+           "symbol_rate": 30000,
+           "fec": "3/4",
+           "standard": "DVB-S2",
+           "name": "Tring Tring",
+           "kos_id": "Tring Tring",
+           "country": "Albania",
+           "package": "M:Sat TV",
+           "encryption": "Nagravision 3",
+           "free": false,
+           "satellite_ar": "أسترا 23.5"
+          }
+         ]
+        },
+        {
          "name": "Prima Sport 3",
          "countries": [
           "Romania"
@@ -20097,6 +20520,48 @@
          ]
         },
         {
+         "name": "V Sport 2 Norway",
+         "countries": [
+          "Norway"
+         ],
+         "arab_rights": false,
+         "free": false,
+         "sat": [
+          {
+           "position": "0.8W",
+           "satellite": "Thor 6",
+           "frequency": 10809,
+           "polarization": "V",
+           "symbol_rate": 25000,
+           "fec": "3/4",
+           "standard": "DVB-S2",
+           "name": "V Sport 2 HD",
+           "kos_id": "V sport 2 HD",
+           "country": "Norway",
+           "package": "Allente",
+           "encryption": "Conax / Nagravision 3 / VideoGuard",
+           "free": false,
+           "satellite_ar": "ثور"
+          },
+          {
+           "position": "0.8W",
+           "satellite": "Thor 7",
+           "frequency": 12437,
+           "polarization": "H",
+           "symbol_rate": 30000,
+           "fec": "3/4",
+           "standard": "DVB-S2",
+           "name": "V Sport 2 HD",
+           "kos_id": "V sport 2 HD",
+           "country": "Norway",
+           "package": "Allente",
+           "encryption": "Conax / Nagravision 3 / VideoGuard",
+           "free": false,
+           "satellite_ar": "ثور"
+          }
+         ]
+        },
+        {
          "name": "TV3 MAX",
          "countries": [
           "Denmark",
@@ -20330,6 +20795,32 @@
          ]
         },
         {
+         "name": "Vamos",
+         "countries": [
+          "Spain"
+         ],
+         "arab_rights": false,
+         "free": false,
+         "sat": [
+          {
+           "position": "19.2E",
+           "satellite": "Astra 1P",
+           "frequency": 11156,
+           "polarization": "V",
+           "symbol_rate": 22000,
+           "fec": "5/6",
+           "standard": "DVB-S",
+           "name": "#Vamos",
+           "kos_id": "M+ VAMOS",
+           "country": "Spain",
+           "package": "Movistar+",
+           "encryption": "Nagravision 3",
+           "free": false,
+           "satellite_ar": "أسترا 19.2"
+          }
+         ]
+        },
+        {
          "name": "Canal+",
          "countries": [
           "Poland"
@@ -20496,6 +20987,48 @@
            "country": "Serbia",
            "package": "M:Sat TV",
            "encryption": "Conax / Nagravision 3",
+           "free": false,
+           "satellite_ar": "أسترا 23.5"
+          }
+         ]
+        },
+        {
+         "name": "Tring",
+         "countries": [
+          "Albania"
+         ],
+         "arab_rights": false,
+         "free": false,
+         "sat": [
+          {
+           "position": "39.0E",
+           "satellite": "Hellas Sat 4",
+           "frequency": 10890,
+           "polarization": "H",
+           "symbol_rate": 29999,
+           "fec": "5/6",
+           "standard": "DVB-S2",
+           "name": "Tring Tring",
+           "kos_id": "Tring Tring",
+           "country": "Albania",
+           "package": "Tring Digital",
+           "encryption": "Conax",
+           "free": false,
+           "satellite_ar": "هيلاس سات"
+          },
+          {
+           "position": "23.5E",
+           "satellite": "Astra 3C",
+           "frequency": 12441,
+           "polarization": "V",
+           "symbol_rate": 30000,
+           "fec": "3/4",
+           "standard": "DVB-S2",
+           "name": "Tring Tring",
+           "kos_id": "Tring Tring",
+           "country": "Albania",
+           "package": "M:Sat TV",
+           "encryption": "Nagravision 3",
            "free": false,
            "satellite_ar": "أسترا 23.5"
           }
@@ -20792,6 +21325,48 @@
            "encryption": "Nagravision 3",
            "free": false,
            "satellite_ar": "Hispasat 30W-5"
+          }
+         ]
+        },
+        {
+         "name": "V Sport 2 Norway",
+         "countries": [
+          "Norway"
+         ],
+         "arab_rights": false,
+         "free": false,
+         "sat": [
+          {
+           "position": "0.8W",
+           "satellite": "Thor 6",
+           "frequency": 10809,
+           "polarization": "V",
+           "symbol_rate": 25000,
+           "fec": "3/4",
+           "standard": "DVB-S2",
+           "name": "V Sport 2 HD",
+           "kos_id": "V sport 2 HD",
+           "country": "Norway",
+           "package": "Allente",
+           "encryption": "Conax / Nagravision 3 / VideoGuard",
+           "free": false,
+           "satellite_ar": "ثور"
+          },
+          {
+           "position": "0.8W",
+           "satellite": "Thor 7",
+           "frequency": 12437,
+           "polarization": "H",
+           "symbol_rate": 30000,
+           "fec": "3/4",
+           "standard": "DVB-S2",
+           "name": "V Sport 2 HD",
+           "kos_id": "V sport 2 HD",
+           "country": "Norway",
+           "package": "Allente",
+           "encryption": "Conax / Nagravision 3 / VideoGuard",
+           "free": false,
+           "satellite_ar": "ثور"
           }
          ]
         },
@@ -25920,6 +26495,32 @@
          ]
         },
         {
+         "name": "Canal+ Extra 1",
+         "countries": [
+          "Poland"
+         ],
+         "arab_rights": false,
+         "free": false,
+         "sat": [
+          {
+           "position": "13.0E",
+           "satellite": "Hot Bird 13G",
+           "frequency": 10719,
+           "polarization": "V",
+           "symbol_rate": 27500,
+           "fec": "5/6",
+           "standard": "DVB-S2",
+           "name": "Canal+ Extra 1",
+           "kos_id": "CANAL+ EXTRA 1",
+           "country": "Sweden",
+           "package": "Platforma Canal+",
+           "encryption": "Nagravision 3",
+           "free": false,
+           "satellite_ar": "هوت بيرد"
+          }
+         ]
+        },
+        {
          "name": "Sky Sport Uno",
          "countries": [
           "Italy",
@@ -26051,6 +26652,32 @@
            "standard": "DVB-S2",
            "name": "Canal+ Foot",
            "kos_id": "CANAL+FOOT",
+           "country": "France",
+           "package": "Canal+ France",
+           "encryption": "Nagravision 3",
+           "free": false,
+           "satellite_ar": "أسترا 19.2"
+          }
+         ]
+        },
+        {
+         "name": "Canal+",
+         "countries": [
+          "Poland"
+         ],
+         "arab_rights": false,
+         "free": false,
+         "sat": [
+          {
+           "position": "19.2E",
+           "satellite": "Astra 1P",
+           "frequency": 12012,
+           "polarization": "V",
+           "symbol_rate": 29700,
+           "fec": "2/3",
+           "standard": "DVB-S2",
+           "name": "Canal+",
+           "kos_id": "CANAL+",
            "country": "France",
            "package": "Canal+ France",
            "encryption": "Nagravision 3",
@@ -28306,6 +28933,32 @@
          ]
         },
         {
+         "name": "Canal+",
+         "countries": [
+          "Poland"
+         ],
+         "arab_rights": false,
+         "free": false,
+         "sat": [
+          {
+           "position": "19.2E",
+           "satellite": "Astra 1P",
+           "frequency": 12012,
+           "polarization": "V",
+           "symbol_rate": 29700,
+           "fec": "2/3",
+           "standard": "DVB-S2",
+           "name": "Canal+",
+           "kos_id": "CANAL+",
+           "country": "France",
+           "package": "Canal+ France",
+           "encryption": "Nagravision 3",
+           "free": false,
+           "satellite_ar": "أسترا 19.2"
+          }
+         ]
+        },
+        {
          "name": "Sky Sport 7/HD",
          "countries": [
           "Germany",
@@ -28447,6 +29100,7 @@
         {
          "name": "V Sport 1",
          "countries": [
+          "Finland",
           "Sweden"
          ],
          "arab_rights": false,
@@ -28462,6 +29116,32 @@
            "standard": "DVB-S2",
            "name": "V Sport 1 HD Sweden",
            "kos_id": "V sport 1 HD",
+           "country": "Sweden",
+           "package": "Allente",
+           "encryption": "Conax / Nagravision 3 / VideoGuard",
+           "free": false,
+           "satellite_ar": "ثور"
+          }
+         ]
+        },
+        {
+         "name": "V Sport Premier League 2",
+         "countries": [
+          "Norway"
+         ],
+         "arab_rights": false,
+         "free": false,
+         "sat": [
+          {
+           "position": "0.8W",
+           "satellite": "Thor 6",
+           "frequency": 10809,
+           "polarization": "H",
+           "symbol_rate": 25000,
+           "fec": "3/4",
+           "standard": "DVB-S2",
+           "name": "V Sport Premier League 2 HD",
+           "kos_id": "V sport Premier League 2 HD",
            "country": "Sweden",
            "package": "Allente",
            "encryption": "Conax / Nagravision 3 / VideoGuard",
@@ -28583,6 +29263,32 @@
          ]
         },
         {
+         "name": "Canal+ Extra 3",
+         "countries": [
+          "Poland"
+         ],
+         "arab_rights": false,
+         "free": false,
+         "sat": [
+          {
+           "position": "13.0E",
+           "satellite": "Hot Bird 13G",
+           "frequency": 11278,
+           "polarization": "V",
+           "symbol_rate": 27500,
+           "fec": "5/6",
+           "standard": "DVB-S2",
+           "name": "CANAL+ EXTRA 3",
+           "kos_id": "",
+           "country": "",
+           "package": "Platforma Canal+",
+           "encryption": "Nagravision 3",
+           "free": false,
+           "satellite_ar": "هوت بيرد"
+          }
+         ]
+        },
+        {
          "name": "Sky Sport 6/HD",
          "countries": [
           "Austria",
@@ -28604,6 +29310,32 @@
            "country": "Germany",
            "package": "Sky Deutschland",
            "encryption": "VideoGuard",
+           "free": false,
+           "satellite_ar": "أسترا 19.2"
+          }
+         ]
+        },
+        {
+         "name": "Canal+",
+         "countries": [
+          "Poland"
+         ],
+         "arab_rights": false,
+         "free": false,
+         "sat": [
+          {
+           "position": "19.2E",
+           "satellite": "Astra 1P",
+           "frequency": 12012,
+           "polarization": "V",
+           "symbol_rate": 29700,
+           "fec": "2/3",
+           "standard": "DVB-S2",
+           "name": "Canal+",
+           "kos_id": "CANAL+",
+           "country": "France",
+           "package": "Canal+ France",
+           "encryption": "Nagravision 3",
            "free": false,
            "satellite_ar": "أسترا 19.2"
           }
@@ -28693,6 +29425,32 @@
            "satellite_ar": "أسترا 23.5"
           }
          ]
+        },
+        {
+         "name": "V Sport Premier League 1",
+         "countries": [
+          "Norway"
+         ],
+         "arab_rights": false,
+         "free": false,
+         "sat": [
+          {
+           "position": "0.8W",
+           "satellite": "Thor 6",
+           "frequency": 10809,
+           "polarization": "H",
+           "symbol_rate": 25000,
+           "fec": "3/4",
+           "standard": "DVB-S2",
+           "name": "V Sport Premier League 1 HD",
+           "kos_id": "V sport Premier League 1 HD",
+           "country": "Sweden",
+           "package": "Allente",
+           "encryption": "Conax / Nagravision 3 / VideoGuard",
+           "free": false,
+           "satellite_ar": "ثور"
+          }
+         ]
         }
        ],
        "source_url": "https://www.livesoccertv.com/match/liverpool-vs-sunderland/182q2",
@@ -28775,6 +29533,74 @@
            "encryption": "Irdeto 2 / VideoGuard",
            "free": false,
            "satellite_ar": "بدر / سهيل سات"
+          }
+         ]
+        },
+        {
+         "name": "Canal+ Extra 2",
+         "countries": [
+          "Poland"
+         ],
+         "arab_rights": false,
+         "free": false,
+         "sat": [
+          {
+           "position": "13.0E",
+           "satellite": "Hot Bird 13G",
+           "frequency": 10719,
+           "polarization": "V",
+           "symbol_rate": 27500,
+           "fec": "5/6",
+           "standard": "DVB-S2",
+           "name": "Canal+ Extra 2",
+           "kos_id": "CANAL+ EXTRA 2",
+           "country": "Sweden",
+           "package": "Platforma Canal+",
+           "encryption": "Nagravision 3",
+           "free": false,
+           "satellite_ar": "هوت بيرد"
+          },
+          {
+           "position": "13.0E",
+           "satellite": "Hot Bird 13G",
+           "frequency": 11410,
+           "polarization": "H",
+           "symbol_rate": 27500,
+           "fec": "5/6",
+           "standard": "DVB-S2",
+           "name": "Canal+ Extra 2",
+           "kos_id": "CANAL+ EXTRA 2",
+           "country": "Sweden",
+           "package": "Platforma Canal+",
+           "encryption": "Nagravision 3",
+           "free": false,
+           "satellite_ar": "هوت بيرد"
+          }
+         ]
+        },
+        {
+         "name": "Canal+",
+         "countries": [
+          "Poland"
+         ],
+         "arab_rights": false,
+         "free": false,
+         "sat": [
+          {
+           "position": "19.2E",
+           "satellite": "Astra 1P",
+           "frequency": 12012,
+           "polarization": "V",
+           "symbol_rate": 29700,
+           "fec": "2/3",
+           "standard": "DVB-S2",
+           "name": "Canal+",
+           "kos_id": "CANAL+",
+           "country": "France",
+           "package": "Canal+ France",
+           "encryption": "Nagravision 3",
+           "free": false,
+           "satellite_ar": "أسترا 19.2"
           }
          ]
         },
@@ -28917,6 +29743,48 @@
            "satellite_ar": "أسترا 28"
           }
          ]
+        },
+        {
+         "name": "V Sport 2 Norway",
+         "countries": [
+          "Norway"
+         ],
+         "arab_rights": false,
+         "free": false,
+         "sat": [
+          {
+           "position": "0.8W",
+           "satellite": "Thor 6",
+           "frequency": 10809,
+           "polarization": "V",
+           "symbol_rate": 25000,
+           "fec": "3/4",
+           "standard": "DVB-S2",
+           "name": "V Sport 2 HD",
+           "kos_id": "V sport 2 HD",
+           "country": "Norway",
+           "package": "Allente",
+           "encryption": "Conax / Nagravision 3 / VideoGuard",
+           "free": false,
+           "satellite_ar": "ثور"
+          },
+          {
+           "position": "0.8W",
+           "satellite": "Thor 7",
+           "frequency": 12437,
+           "polarization": "H",
+           "symbol_rate": 30000,
+           "fec": "3/4",
+           "standard": "DVB-S2",
+           "name": "V Sport 2 HD",
+           "kos_id": "V sport 2 HD",
+           "country": "Norway",
+           "package": "Allente",
+           "encryption": "Conax / Nagravision 3 / VideoGuard",
+           "free": false,
+           "satellite_ar": "ثور"
+          }
+         ]
         }
        ],
        "source_url": "https://www.livesoccertv.com/match/hull-city-vs-nottingham-forest/1e6q7",
@@ -29027,6 +29895,32 @@
            "encryption": "Nagravision 3",
            "free": false,
            "satellite_ar": "هوت بيرد"
+          }
+         ]
+        },
+        {
+         "name": "Canal+",
+         "countries": [
+          "Poland"
+         ],
+         "arab_rights": false,
+         "free": false,
+         "sat": [
+          {
+           "position": "19.2E",
+           "satellite": "Astra 1P",
+           "frequency": 12012,
+           "polarization": "V",
+           "symbol_rate": 29700,
+           "fec": "2/3",
+           "standard": "DVB-S2",
+           "name": "Canal+",
+           "kos_id": "CANAL+",
+           "country": "France",
+           "package": "Canal+ France",
+           "encryption": "Nagravision 3",
+           "free": false,
+           "satellite_ar": "أسترا 19.2"
           }
          ]
         },
@@ -29340,6 +30234,32 @@
          ]
         },
         {
+         "name": "Canal+",
+         "countries": [
+          "Poland"
+         ],
+         "arab_rights": false,
+         "free": false,
+         "sat": [
+          {
+           "position": "19.2E",
+           "satellite": "Astra 1P",
+           "frequency": 12012,
+           "polarization": "V",
+           "symbol_rate": 29700,
+           "fec": "2/3",
+           "standard": "DVB-S2",
+           "name": "Canal+",
+           "kos_id": "CANAL+",
+           "country": "France",
+           "package": "Canal+ France",
+           "encryption": "Nagravision 3",
+           "free": false,
+           "satellite_ar": "أسترا 19.2"
+          }
+         ]
+        },
+        {
          "name": "Arena Sport 8 Croatia",
          "countries": [
           "Croatia"
@@ -29455,6 +30375,32 @@
            "satellite_ar": "أسترا 28"
           }
          ]
+        },
+        {
+         "name": "V Sport Premier League 4",
+         "countries": [
+          "Norway"
+         ],
+         "arab_rights": false,
+         "free": false,
+         "sat": [
+          {
+           "position": "0.8W",
+           "satellite": "Thor 6",
+           "frequency": 10809,
+           "polarization": "H",
+           "symbol_rate": 25000,
+           "fec": "3/4",
+           "standard": "DVB-S2",
+           "name": "V Sport Premier League 4 HD",
+           "kos_id": "V sport Premier League 4 HD",
+           "country": "Sweden",
+           "package": "Allente",
+           "encryption": "Conax / Nagravision 3 / VideoGuard",
+           "free": false,
+           "satellite_ar": "ثور"
+          }
+         ]
         }
        ],
        "source_url": "https://www.livesoccertv.com/match/aston-villa-vs-everton/17c8f",
@@ -29542,6 +30488,48 @@
          ]
         },
         {
+         "name": "Canal+ Extra 2",
+         "countries": [
+          "Poland"
+         ],
+         "arab_rights": false,
+         "free": false,
+         "sat": [
+          {
+           "position": "13.0E",
+           "satellite": "Hot Bird 13G",
+           "frequency": 10719,
+           "polarization": "V",
+           "symbol_rate": 27500,
+           "fec": "5/6",
+           "standard": "DVB-S2",
+           "name": "Canal+ Extra 2",
+           "kos_id": "CANAL+ EXTRA 2",
+           "country": "Sweden",
+           "package": "Platforma Canal+",
+           "encryption": "Nagravision 3",
+           "free": false,
+           "satellite_ar": "هوت بيرد"
+          },
+          {
+           "position": "13.0E",
+           "satellite": "Hot Bird 13G",
+           "frequency": 11410,
+           "polarization": "H",
+           "symbol_rate": 27500,
+           "fec": "5/6",
+           "standard": "DVB-S2",
+           "name": "Canal+ Extra 2",
+           "kos_id": "CANAL+ EXTRA 2",
+           "country": "Sweden",
+           "package": "Platforma Canal+",
+           "encryption": "Nagravision 3",
+           "free": false,
+           "satellite_ar": "هوت بيرد"
+          }
+         ]
+        },
+        {
          "name": "Canal+ Live 8",
          "countries": [
           "Andorra",
@@ -29560,6 +30548,32 @@
            "standard": "DVB-S2",
            "name": "Canal+ Live 8",
            "kos_id": "CANAL+LIVE 8",
+           "country": "France",
+           "package": "Canal+ France",
+           "encryption": "Nagravision 3",
+           "free": false,
+           "satellite_ar": "أسترا 19.2"
+          }
+         ]
+        },
+        {
+         "name": "Canal+",
+         "countries": [
+          "Poland"
+         ],
+         "arab_rights": false,
+         "free": false,
+         "sat": [
+          {
+           "position": "19.2E",
+           "satellite": "Astra 1P",
+           "frequency": 12012,
+           "polarization": "V",
+           "symbol_rate": 29700,
+           "fec": "2/3",
+           "standard": "DVB-S2",
+           "name": "Canal+",
+           "kos_id": "CANAL+",
            "country": "France",
            "package": "Canal+ France",
            "encryption": "Nagravision 3",
@@ -29652,6 +30666,32 @@
            "satellite_ar": "أسترا 28"
           }
          ]
+        },
+        {
+         "name": "V Sport 1 Norway",
+         "countries": [
+          "Norway"
+         ],
+         "arab_rights": false,
+         "free": false,
+         "sat": [
+          {
+           "position": "0.8W",
+           "satellite": "Thor 6",
+           "frequency": 10809,
+           "polarization": "H",
+           "symbol_rate": 25000,
+           "fec": "3/4",
+           "standard": "DVB-S2",
+           "name": "V Sport 1 HD Sweden",
+           "kos_id": "V sport 1 HD",
+           "country": "Sweden",
+           "package": "Allente",
+           "encryption": "Conax / Nagravision 3 / VideoGuard",
+           "free": false,
+           "satellite_ar": "ثور"
+          }
+         ]
         }
        ],
        "source_url": "https://www.livesoccertv.com/match/brighton-hove-albion-vs-afc-bournemouth/4fufx",
@@ -29676,6 +30716,32 @@
         "Canal+ Sport 5 Afrique"
        ],
        "channels": [
+        {
+         "name": "Canal+ Extra 4",
+         "countries": [
+          "Poland"
+         ],
+         "arab_rights": false,
+         "free": false,
+         "sat": [
+          {
+           "position": "13.0E",
+           "satellite": "Hot Bird 13G",
+           "frequency": 11278,
+           "polarization": "V",
+           "symbol_rate": 27500,
+           "fec": "5/6",
+           "standard": "DVB-S2",
+           "name": "Canal+ Extra 4",
+           "kos_id": "CANAL+ EXTRA 4",
+           "country": "Sweden",
+           "package": "Platforma Canal+",
+           "encryption": "Nagravision 3",
+           "free": false,
+           "satellite_ar": "هوت بيرد"
+          }
+         ]
+        },
         {
          "name": "Sky Sport Arena",
          "countries": [
@@ -29757,6 +30823,32 @@
          ]
         },
         {
+         "name": "Canal+",
+         "countries": [
+          "Poland"
+         ],
+         "arab_rights": false,
+         "free": false,
+         "sat": [
+          {
+           "position": "19.2E",
+           "satellite": "Astra 1P",
+           "frequency": 12012,
+           "polarization": "V",
+           "symbol_rate": 29700,
+           "fec": "2/3",
+           "standard": "DVB-S2",
+           "name": "Canal+",
+           "kos_id": "CANAL+",
+           "country": "France",
+           "package": "Canal+ France",
+           "encryption": "Nagravision 3",
+           "free": false,
+           "satellite_ar": "أسترا 19.2"
+          }
+         ]
+        },
+        {
          "name": "Sky Sport 9/HD",
          "countries": [
           "Germany",
@@ -29825,6 +30917,32 @@
            "satellite_ar": "أسترا 28"
           }
          ]
+        },
+        {
+         "name": "V Sport Premier League 3",
+         "countries": [
+          "Norway"
+         ],
+         "arab_rights": false,
+         "free": false,
+         "sat": [
+          {
+           "position": "0.8W",
+           "satellite": "Thor 6",
+           "frequency": 10809,
+           "polarization": "H",
+           "symbol_rate": 25000,
+           "fec": "3/4",
+           "standard": "DVB-S2",
+           "name": "V Sport Premier League 3 HD",
+           "kos_id": "V sport Premier League 3 HD",
+           "country": "Sweden",
+           "package": "Allente",
+           "encryption": "Conax / Nagravision 3 / VideoGuard",
+           "free": false,
+           "satellite_ar": "ثور"
+          }
+         ]
         }
        ],
        "source_url": "https://www.livesoccertv.com/match/arsenal-vs-brentford/25wfu",
@@ -29850,6 +30968,32 @@
        ],
        "channels": [
         {
+         "name": "Canal+ Extra 1",
+         "countries": [
+          "Poland"
+         ],
+         "arab_rights": false,
+         "free": false,
+         "sat": [
+          {
+           "position": "13.0E",
+           "satellite": "Hot Bird 13G",
+           "frequency": 10719,
+           "polarization": "V",
+           "symbol_rate": 27500,
+           "fec": "5/6",
+           "standard": "DVB-S2",
+           "name": "Canal+ Extra 1",
+           "kos_id": "CANAL+ EXTRA 1",
+           "country": "Sweden",
+           "package": "Platforma Canal+",
+           "encryption": "Nagravision 3",
+           "free": false,
+           "satellite_ar": "هوت بيرد"
+          }
+         ]
+        },
+        {
          "name": "Sky Sport 8/HD",
          "countries": [
           "Germany",
@@ -29871,6 +31015,32 @@
            "country": "Germany",
            "package": "Sky Deutschland",
            "encryption": "VideoGuard",
+           "free": false,
+           "satellite_ar": "أسترا 19.2"
+          }
+         ]
+        },
+        {
+         "name": "Canal+",
+         "countries": [
+          "Poland"
+         ],
+         "arab_rights": false,
+         "free": false,
+         "sat": [
+          {
+           "position": "19.2E",
+           "satellite": "Astra 1P",
+           "frequency": 12012,
+           "polarization": "V",
+           "symbol_rate": 29700,
+           "fec": "2/3",
+           "standard": "DVB-S2",
+           "name": "Canal+",
+           "kos_id": "CANAL+",
+           "country": "France",
+           "package": "Canal+ France",
+           "encryption": "Nagravision 3",
            "free": false,
            "satellite_ar": "أسترا 19.2"
           }
@@ -30001,6 +31171,32 @@
            "encryption": "VideoGuard",
            "free": false,
            "satellite_ar": "أسترا 28"
+          }
+         ]
+        },
+        {
+         "name": "V Sport Premier League",
+         "countries": [
+          "Norway"
+         ],
+         "arab_rights": false,
+         "free": false,
+         "sat": [
+          {
+           "position": "0.8W",
+           "satellite": "Thor 6",
+           "frequency": 10809,
+           "polarization": "H",
+           "symbol_rate": 25000,
+           "fec": "3/4",
+           "standard": "DVB-S2",
+           "name": "V Sport Premier League HD",
+           "kos_id": "V sport Premier League HD",
+           "country": "Sweden",
+           "package": "Allente",
+           "encryption": "Conax / Nagravision 3 / VideoGuard",
+           "free": false,
+           "satellite_ar": "ثور"
           }
          ]
         },
@@ -30178,6 +31374,32 @@
            "encryption": "Irdeto 2 / VideoGuard",
            "free": false,
            "satellite_ar": "يوتل 8 غرب"
+          }
+         ]
+        },
+        {
+         "name": "Canal+ Sport 6 Poland",
+         "countries": [
+          "Poland"
+         ],
+         "arab_rights": false,
+         "free": false,
+         "sat": [
+          {
+           "position": "13.0E",
+           "satellite": "Hot Bird 13G",
+           "frequency": 11449,
+           "polarization": "H",
+           "symbol_rate": 27500,
+           "fec": "5/6",
+           "standard": "DVB-S2",
+           "name": "CANAL+ SPORT 6",
+           "kos_id": "",
+           "country": "",
+           "package": "Platforma Canal+",
+           "encryption": "Nagravision 3",
+           "free": false,
+           "satellite_ar": "هوت بيرد"
           }
          ]
         },
@@ -31509,14 +32731,100 @@
        "venue": "Tottenham Hotspur Stadium",
        "status": "EventScheduled",
        "broadcast_on": [
-        "SuperSport MaXimo 1",
-        "SuperSport MaXimo 2",
-        "DStv Now",
-        "SuperSport Premier League ROA",
-        "Supersport Grandstand ROA",
-        "Canal+ Sport 3 Afrique"
+        "beIN SPORTS 1"
        ],
        "channels": [
+        {
+         "name": "beIN SPORTS 1",
+         "countries": [
+          "Algeria",
+          "Bahrain",
+          "Chad",
+          "Djibouti",
+          "Egypt",
+          "Iran",
+          "Iraq",
+          "Jordan",
+          "Kuwait",
+          "Lebanon",
+          "Libya",
+          "Mauritania",
+          "Morocco",
+          "Oman",
+          "Palestine",
+          "Qatar",
+          "Saudi Arabia",
+          "Somalia",
+          "South Sudan",
+          "Sudan",
+          "Syria",
+          "Tunisia",
+          "United Arab Emirates",
+          "Yemen"
+         ],
+         "arab_rights": true,
+         "free": false,
+         "sat": [
+          {
+           "position": "26.0E",
+           "satellite": "Es'hail 2",
+           "frequency": 10810,
+           "polarization": "H",
+           "symbol_rate": 27500,
+           "fec": "2/3",
+           "standard": "DVB-S2",
+           "name": "beIN Sports 1 HD",
+           "kos_id": "beIN SPORTS 1",
+           "country": "Qatar",
+           "package": "beIN SPORTS",
+           "encryption": "Irdeto 2 / VideoGuard",
+           "free": false,
+           "satellite_ar": "بدر / سهيل سات"
+          },
+          {
+           "position": "8.0W",
+           "satellite": "Eutelsat 8 West B",
+           "frequency": 11012,
+           "polarization": "H",
+           "symbol_rate": 27500,
+           "fec": "2/3",
+           "standard": "DVB-S2",
+           "name": "beIN Sports 1 HD",
+           "kos_id": "beIN SPORTS 1",
+           "country": "Qatar",
+           "package": "beIN SPORTS",
+           "encryption": "Irdeto 2 / VideoGuard",
+           "free": false,
+           "satellite_ar": "يوتل 8 غرب"
+          }
+         ]
+        },
+        {
+         "name": "Canal+ Extra 1",
+         "countries": [
+          "Poland"
+         ],
+         "arab_rights": false,
+         "free": false,
+         "sat": [
+          {
+           "position": "13.0E",
+           "satellite": "Hot Bird 13G",
+           "frequency": 10719,
+           "polarization": "V",
+           "symbol_rate": 27500,
+           "fec": "5/6",
+           "standard": "DVB-S2",
+           "name": "Canal+ Extra 1",
+           "kos_id": "CANAL+ EXTRA 1",
+           "country": "Sweden",
+           "package": "Platforma Canal+",
+           "encryption": "Nagravision 3",
+           "free": false,
+           "satellite_ar": "هوت بيرد"
+          }
+         ]
+        },
         {
          "name": "Sky Sport Uno",
          "countries": [
@@ -31564,6 +32872,32 @@
            "standard": "DVB-S2",
            "name": "Canal+ Foot",
            "kos_id": "CANAL+FOOT",
+           "country": "France",
+           "package": "Canal+ France",
+           "encryption": "Nagravision 3",
+           "free": false,
+           "satellite_ar": "أسترا 19.2"
+          }
+         ]
+        },
+        {
+         "name": "Canal+",
+         "countries": [
+          "Poland"
+         ],
+         "arab_rights": false,
+         "free": false,
+         "sat": [
+          {
+           "position": "19.2E",
+           "satellite": "Astra 1P",
+           "frequency": 12012,
+           "polarization": "V",
+           "symbol_rate": 29700,
+           "fec": "2/3",
+           "standard": "DVB-S2",
+           "name": "Canal+",
+           "kos_id": "CANAL+",
            "country": "France",
            "package": "Canal+ France",
            "encryption": "Nagravision 3",
@@ -31709,6 +33043,32 @@
            "encryption": "VideoGuard",
            "free": false,
            "satellite_ar": "أسترا 28"
+          }
+         ]
+        },
+        {
+         "name": "V Sport Premier League",
+         "countries": [
+          "Norway"
+         ],
+         "arab_rights": false,
+         "free": false,
+         "sat": [
+          {
+           "position": "0.8W",
+           "satellite": "Thor 6",
+           "frequency": 10809,
+           "polarization": "H",
+           "symbol_rate": 25000,
+           "fec": "3/4",
+           "standard": "DVB-S2",
+           "name": "V Sport Premier League HD",
+           "kos_id": "V sport Premier League HD",
+           "country": "Sweden",
+           "package": "Allente",
+           "encryption": "Conax / Nagravision 3 / VideoGuard",
+           "free": false,
+           "satellite_ar": "ثور"
           }
          ]
         },
@@ -31872,6 +33232,32 @@
         "SuperSport GOtv LaLiga"
        ],
        "channels": [
+        {
+         "name": "Canal+ Sport 6 Poland",
+         "countries": [
+          "Poland"
+         ],
+         "arab_rights": false,
+         "free": false,
+         "sat": [
+          {
+           "position": "13.0E",
+           "satellite": "Hot Bird 13G",
+           "frequency": 11449,
+           "polarization": "H",
+           "symbol_rate": 27500,
+           "fec": "5/6",
+           "standard": "DVB-S2",
+           "name": "CANAL+ SPORT 6",
+           "kos_id": "",
+           "country": "",
+           "package": "Platforma Canal+",
+           "encryption": "Nagravision 3",
+           "free": false,
+           "satellite_ar": "هوت بيرد"
+          }
+         ]
+        },
         {
          "name": "LaLiga TV Bar HD",
          "countries": [
