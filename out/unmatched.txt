@@ -32,8 +32,6 @@ BBC Radio 5 Live	Great Britain, Ireland Republic
 BBC Sport Web	Great Britain, Ireland Republic
 BBC iPlayer	Great Britain, Ireland Republic
 Begin	Bangladesh, Pakistan, Sri Lanka
-Benfica TV	Portugal
-Benfica TV - BTV 1	Portugal
 Benin TV	Benin
 Blue Sport	Liechtenstein, Switzerland
 CBS Sports Network	USA, Puerto Rico
@@ -65,7 +63,7 @@ Canal+ Sport 8	Czech Republic, Slovakia
 Canal+ Sport360	Andorra, France, Switzerland
 Canal+ Sports 2 Myanmar	Myanmar
 CazéTV	Brazil
-Claro Sports	Mexico, Belize, Costa Rica, Cuba, Dominican Republic, El Salvador, Guatemala, Honduras, Nicaragua, Panama
+Claro Sports	Belize, Costa Rica, Cuba, Dominican Republic, El Salvador, Guatemala, Honduras, Mexico, Nicaragua, Panama
 Como TV	Italy, San Marino
 Cytavision Sports 3	Cyprus
 Cytavision Sports 4	Cyprus
@@ -283,6 +281,7 @@ Sky Ultra HD	Great Britain, Ireland Republic
 Sky+	Mexico
 Skylink	Czech Republic, Slovakia
 Sport TV Multiscreen	Portugal
+Sport TV1	Portugal
 Sport TV2	Portugal
 Sport TV4	Portugal
 Sport TV5	Portugal

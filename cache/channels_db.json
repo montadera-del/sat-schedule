@@ -14746,5 +14746,62 @@
   "status": "unmatched",
   "sat": [],
   "checked": "2026-11-27T21:38:08.242557+00:00"
+ },
+ "beIN Sports 3": {
+  "status": "sat",
+  "sat": [
+   {
+    "position": "26.0E",
+    "satellite": "Es'hail 2",
+    "frequency": 10810,
+    "polarization": "H",
+    "symbol_rate": 27500,
+    "fec": "2/3",
+    "standard": "DVB-S2",
+    "name": "beIN Sports 3 HD",
+    "kos_id": "beIN SPORTS 3",
+    "country": "Qatar",
+    "package": "beIN SPORTS",
+    "encryption": "Irdeto 2 / VideoGuard",
+    "free": false
+   },
+   {
+    "position": "8.0W",
+    "satellite": "Eutelsat 8 West B",
+    "frequency": 11012,
+    "polarization": "H",
+    "symbol_rate": 27500,
+    "fec": "2/3",
+    "standard": "DVB-S2",
+    "name": "beIN Sports 3 HD",
+    "kos_id": "beIN SPORTS 3",
+    "country": "Qatar",
+    "package": "beIN SPORTS",
+    "encryption": "Irdeto 2 / VideoGuard",
+    "free": false
+   }
+  ],
+  "checked": "2026-11-28T07:55:56.562479+00:00"
+ },
+ "beIN Sports 4 Turkey": {
+  "status": "sat",
+  "sat": [
+   {
+    "position": "42.0E",
+    "satellite": "Turksat 5B",
+    "frequency": 11265,
+    "polarization": "V",
+    "symbol_rate": 30000,
+    "fec": "3/4",
+    "standard": "DVB-S2",
+    "name": "beIN Sports 4 HD Turkey",
+    "kos_id": "beIN SPORTS 4",
+    "country": "Turkey",
+    "package": "Digitürk",
+    "encryption": "Irdeto 2",
+    "free": false
+   }
+  ],
+  "checked": "2026-11-28T07:55:56.564170+00:00"
  }
 }

@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-28T00:40:23+03:00",
+ "generated": "2026-11-28T10:56:05+03:00",
  "timezone": "Asia/Baghdad",
  "satellites": [
   {
@@ -10,7 +10,7 @@
   {
    "position": "26.0E",
    "name_ar": "بدر / سهيل سات",
-   "channels": 91
+   "channels": 90
   },
   {
    "position": "13.0E",
@@ -50,7 +50,7 @@
   {
    "position": "23.5E",
    "name_ar": "أسترا 23.5",
-   "channels": 184
+   "channels": 183
   },
   {
    "position": "8.0W",
@@ -80,7 +80,7 @@
   {
    "position": "4.8E",
    "name_ar": "أسترا 4.8",
-   "channels": 49
+   "channels": 48
   },
   {
    "position": "17.0E",
@@ -90,12 +90,12 @@
   {
    "position": "52.0E",
    "name_ar": "TurkmenÄlem / MonacoSat",
-   "channels": 25
+   "channels": 24
   },
   {
    "position": "30.0W",
    "name_ar": "Hispasat 30W-5",
-   "channels": 24
+   "channels": 23
   },
   {
    "position": "46.0E",
@@ -115,7 +115,7 @@
   {
    "position": "0.8W",
    "name_ar": "ثور",
-   "channels": 132
+   "channels": 130
   },
   {
    "position": "55.5W",
@@ -25095,23 +25095,37 @@
      "rank": 23,
      "matches": [
       {
-       "id": "5673248",
+       "id": "5673249",
        "kickoff": "2026-11-30T23:15:00+03:00",
        "time_ar": "11:15 م",
-       "venue": "Estádio do Sport Lisboa e Benfica (da Luz) (Lisboa)",
+       "venue": "Estádio Municipal de Rio Maior (Rio Maior)",
        "status": "EventScheduled",
-       "broadcast_on": [
-        "Shasha"
-       ],
+       "broadcast_on": [],
        "channels": [
         {
-         "name": "beIN SPORTS",
+         "name": "beIN SPORTS MAX 4",
          "countries": [
-          "USA"
+          "France"
          ],
          "arab_rights": false,
          "free": true,
          "sat": [
+          {
+           "position": "8.0W",
+           "satellite": "Eutelsat 8 West B",
+           "frequency": 12604,
+           "polarization": "H",
+           "symbol_rate": 27500,
+           "fec": "2/3",
+           "standard": "DVB-S2",
+           "name": "beIN Sports Max 4 HD",
+           "kos_id": "beIN SPORTS MAX 4",
+           "country": "Qatar",
+           "package": "beIN",
+           "encryption": "Clear",
+           "free": true,
+           "satellite_ar": "يوتل 8 غرب"
+          },
           {
            "position": "26.0E",
            "satellite": "Es'hail 2",
@@ -25120,76 +25134,18 @@
            "symbol_rate": 27500,
            "fec": "2/3",
            "standard": "DVB-S2",
-           "name": "beIN Sports HD",
-           "kos_id": "beIN SPORTS",
+           "name": "beIN Sports Max 4 HD",
+           "kos_id": "beIN SPORTS MAX 4",
            "country": "Qatar",
            "package": "beIN",
-           "encryption": "Clear",
-           "free": true,
+           "encryption": "Irdeto 2 / VideoGuard",
+           "free": false,
            "satellite_ar": "بدر / سهيل سات"
-          },
-          {
-           "position": "8.0W",
-           "satellite": "Eutelsat 8 West B",
-           "frequency": 11054,
-           "polarization": "H",
-           "symbol_rate": 27500,
-           "fec": "2/3",
-           "standard": "DVB-S2",
-           "name": "beIN Sports HD",
-           "kos_id": "beIN SPORTS",
-           "country": "Qatar",
-           "package": "beIN SPORTS",
-           "encryption": "Clear",
-           "free": true,
-           "satellite_ar": "يوتل 8 غرب"
           }
          ]
         },
         {
-         "name": "inter",
-         "countries": [
-          "Venezuela"
-         ],
-         "arab_rights": false,
-         "free": true,
-         "sat": [
-          {
-           "position": "23.5E",
-           "satellite": "Astra 3C",
-           "frequency": 12285,
-           "polarization": "V",
-           "symbol_rate": 30000,
-           "fec": "2/3",
-           "standard": "DVB-S2",
-           "name": "Inter HD",
-           "kos_id": "Inter HD",
-           "country": "Ukraine",
-           "package": "",
-           "encryption": "Clear",
-           "free": true,
-           "satellite_ar": "أسترا 23.5"
-          },
-          {
-           "position": "4.8E",
-           "satellite": "Astra 4A",
-           "frequency": 12437,
-           "polarization": "V",
-           "symbol_rate": 30000,
-           "fec": "2/3",
-           "standard": "DVB-S2",
-           "name": "Inter HD",
-           "kos_id": "Inter HD",
-           "country": "Ukraine",
-           "package": "",
-           "encryption": "Clear",
-           "free": true,
-           "satellite_ar": "أسترا 4.8"
-          }
-         ]
-        },
-        {
-         "name": "beIN SPORTS 2",
+         "name": "beIN SPORTS 3",
          "countries": [
           "France"
          ],
@@ -25204,24 +25160,8 @@
            "symbol_rate": 27500,
            "fec": "2/3",
            "standard": "DVB-S2",
-           "name": "beIN Sports 2 HD",
-           "kos_id": "beIN SPORTS 2",
-           "country": "Qatar",
-           "package": "beIN SPORTS",
-           "encryption": "Irdeto 2 / VideoGuard",
-           "free": false,
-           "satellite_ar": "بدر / سهيل سات"
-          },
-          {
-           "position": "26.0E",
-           "satellite": "Es'hail 2",
-           "frequency": 11390,
-           "polarization": "V",
-           "symbol_rate": 27500,
-           "fec": "2/3",
-           "standard": "DVB-S2",
-           "name": "beIN Sports 2 HD",
-           "kos_id": "beIN SPORTS EN 2",
+           "name": "beIN Sports 3 HD",
+           "kos_id": "beIN SPORTS 3",
            "country": "Qatar",
            "package": "beIN SPORTS",
            "encryption": "Irdeto 2 / VideoGuard",
@@ -25236,8 +25176,8 @@
            "symbol_rate": 27500,
            "fec": "2/3",
            "standard": "DVB-S2",
-           "name": "beIN Sports 2 HD",
-           "kos_id": "beIN SPORTS 2",
+           "name": "beIN Sports 3 HD",
+           "kos_id": "beIN SPORTS 3",
            "country": "Qatar",
            "package": "beIN SPORTS",
            "encryption": "Irdeto 2 / VideoGuard",
@@ -25247,7 +25187,7 @@
          ]
         },
         {
-         "name": "Eleven Sports 2 Poland",
+         "name": "Eleven Sports 3 Poland",
          "countries": [
           "Poland"
          ],
@@ -25262,8 +25202,8 @@
            "symbol_rate": 27500,
            "fec": "5/6",
            "standard": "DVB-S2",
-           "name": "Eleven Sports 2 HD",
-           "kos_id": "Eleven Sports 2 HD",
+           "name": "Eleven Sports 3 HD",
+           "kos_id": "Eleven Sports 3 HD",
            "country": "Poland",
            "package": "Orange Polska Platforma Canal+ Polsat Box",
            "encryption": "Conax / Irdeto 2 / Mediaguard 3 / Nagravision 3 / Viaccess 3.0",
@@ -25278,8 +25218,8 @@
            "symbol_rate": 27500,
            "fec": "3/4",
            "standard": "DVB-S2",
-           "name": "Eleven Sports 2 HD",
-           "kos_id": "Eleven Sports 2",
+           "name": "Eleven Sports 3 HD",
+           "kos_id": "Eleven Sports 3",
            "country": "Poland",
            "package": "Polsat Box",
            "encryption": "Irdeto 2 / Nagravision 3",
@@ -25315,7 +25255,7 @@
          ]
         },
         {
-         "name": "beIN Sports 3 Turkey",
+         "name": "beIN Sports 4 Turkey",
          "countries": [
           "Turkey"
          ],
@@ -25324,14 +25264,14 @@
          "sat": [
           {
            "position": "42.0E",
-           "satellite": "Türksat 4A",
-           "frequency": 12073,
+           "satellite": "Turksat 5B",
+           "frequency": 11265,
            "polarization": "V",
-           "symbol_rate": 27500,
+           "symbol_rate": 30000,
            "fec": "3/4",
            "standard": "DVB-S2",
-           "name": "beIN Sports 3 HD Turkey",
-           "kos_id": "beIN SPORTS 3",
+           "name": "beIN Sports 4 HD Turkey",
+           "kos_id": "beIN SPORTS 4",
            "country": "Turkey",
            "package": "Digitürk",
            "encryption": "Irdeto 2",
@@ -25341,7 +25281,7 @@
          ]
         },
         {
-         "name": "MagentaSport 1",
+         "name": "MagentaSport 3",
          "countries": [
           "Greece"
          ],
@@ -25351,13 +25291,13 @@
           {
            "position": "9.0E",
            "satellite": "Eutelsat 9B",
-           "frequency": 12283,
+           "frequency": 12398,
            "polarization": "H",
            "symbol_rate": 27500,
            "fec": "2/3",
            "standard": "DVB-S2",
-           "name": "Magenta Sport 1",
-           "kos_id": "MagentaSport1",
+           "name": "Magenta Sport 3",
+           "kos_id": "MagentaSport3",
            "country": "Greece",
            "package": "Cosmote",
            "encryption": "VideoGuard",
@@ -25365,110 +25305,16 @@
            "satellite_ar": "يوتل 9"
           }
          ]
-        },
-        {
-         "name": "TV4 Sportkanalen",
-         "countries": [
-          "Sweden"
-         ],
-         "arab_rights": false,
-         "free": false,
-         "sat": [
-          {
-           "position": "0.8W",
-           "satellite": "Thor 6",
-           "frequency": 10778,
-           "polarization": "H",
-           "symbol_rate": 25000,
-           "fec": "3/4",
-           "standard": "DVB-S2",
-           "name": "TV4 Sportkanalen HD",
-           "kos_id": "TV4 Sportkanalen HD",
-           "country": "Sweden",
-           "package": "Allente",
-           "encryption": "Conax / Nagravision 3 / VideoGuard",
-           "free": false,
-           "satellite_ar": "ثور"
-          }
-         ]
-        },
-        {
-         "name": "Sport 3",
-         "countries": [
-          "Israel"
-         ],
-         "arab_rights": false,
-         "free": false,
-         "sat": [
-          {
-           "position": "52.0E",
-           "satellite": "TurkmenÄlem / MonacoSat",
-           "frequency": 10845,
-           "polarization": "H",
-           "symbol_rate": 30000,
-           "fec": "8/9",
-           "standard": "DVB-S2",
-           "name": "Sport-3",
-           "kos_id": "SPORT 3",
-           "country": "Kazakhstan",
-           "package": "Älem TV",
-           "encryption": "Conax / Cryptoguard",
-           "free": false,
-           "satellite_ar": "TurkmenÄlem / MonacoSat"
-          },
-          {
-           "position": "30.0W",
-           "satellite": "Hispasat 30W-5",
-           "frequency": 12360,
-           "polarization": "H",
-           "symbol_rate": 27500,
-           "fec": "3/4",
-           "standard": "DVB-S2",
-           "name": "Sport TV 3 HD",
-           "kos_id": "SPORT TV 3 HD",
-           "country": "Portugal",
-           "package": "Nos",
-           "encryption": "Nagravision 3",
-           "free": false,
-           "satellite_ar": "Hispasat 30W-5"
-          }
-         ]
-        },
-        {
-         "name": "Digi Sport 3 Romania",
-         "countries": [
-          "Romania"
-         ],
-         "arab_rights": false,
-         "free": false,
-         "sat": [
-          {
-           "position": "0.8W",
-           "satellite": "Intelsat 10-02",
-           "frequency": 12687,
-           "polarization": "H",
-           "symbol_rate": 27500,
-           "fec": "3/4",
-           "standard": "DVB-S",
-           "name": "Digi Sport 3 HD",
-           "kos_id": "DIGI Sport 3",
-           "country": "Romania",
-           "package": "Digi TV",
-           "encryption": "Nagravision 3",
-           "free": false,
-           "satellite_ar": "ثور"
-          }
-         ]
         }
        ],
-       "source_url": "https://www.livesoccertv.com/match/benfica-vs-famalicao/8qmea",
-       "home": "بنفيكا",
-       "away": "فاماليكاو",
-       "home_en": "Benfica",
-       "away_en": "Famalicão",
-       "home_logo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_1,d_Competitors:default1.png/v5/Competitors/888",
-       "away_logo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_1,d_Competitors:default1.png/v2/Competitors/11172",
-       "s365_id": 4757212
+       "source_url": "https://www.livesoccertv.com/match/sporting-braga-vs-casa-pia/5uwqr",
+       "home": "كازا بيا",
+       "away": "سبورتينج براغا",
+       "home_en": "Casa Pia",
+       "away_en": "Sporting Braga",
+       "home_logo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_1,d_Competitors:default1.png/v2/Competitors/6372",
+       "away_logo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_1,d_Competitors:default1.png/v5/Competitors/895",
+       "s365_id": 4757208
       }
      ]
     },
